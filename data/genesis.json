@@ -1,0 +1,2220 @@
+{
+  "bookCode": "GEN",
+  "book": "창세기",
+  "quizzes": [
+    {
+      "id": "GEN-P001",
+      "book": "창세기",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "아담",
+      "question": "하나님께서 흙으로 사람을 지으시고 생기를 불어넣으신 첫 사람은 누구입니까?",
+      "hintWord": "첫 사람",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "GEN-P002",
+      "book": "창세기",
+      "chapter": 3,
+      "category": "인물",
+      "answer": "하와",
+      "question": "아담의 아내이며 에덴동산에서 뱀의 말을 들은 여자는 누구입니까?",
+      "hintWord": "아담의 아내",
+      "hintLetter": "하",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "GEN-P003",
+      "book": "창세기",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "가인",
+      "question": "아담과 하와의 첫째 아들이며 아벨의 형은 누구입니까?",
+      "hintWord": "아벨의 형",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-P004",
+      "book": "창세기",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "아벨",
+      "question": "가인이 죽인 아담과 하와의 둘째 아들은 누구입니까?",
+      "hintWord": "양을 치던 사람",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-P005",
+      "book": "창세기",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "셋",
+      "question": "아벨 대신 아담과 하와에게 주어진 아들은 누구입니까?",
+      "hintWord": "아벨 다음에 태어난 아들",
+      "hintLetter": "셋",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-P006",
+      "book": "창세기",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "에녹",
+      "question": "하나님과 동행하다가 하나님이 데려가신 사람은 누구입니까?",
+      "hintWord": "므두셀라의 아버지",
+      "hintLetter": "에",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P007",
+      "book": "창세기",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "노아",
+      "question": "홍수 때 방주를 만든 사람은 누구입니까?",
+      "hintWord": "방주를 만든 사람",
+      "hintLetter": "노",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-P008",
+      "book": "창세기",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "셈",
+      "question": "노아의 세 아들 가운데 야벳과 함의 형제는 누구입니까?",
+      "hintWord": "노아의 아들",
+      "hintLetter": "셈",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-P009",
+      "book": "창세기",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "함",
+      "question": "노아의 아들로 구스와 가나안의 아버지는 누구입니까?",
+      "hintWord": "노아의 아들",
+      "hintLetter": "함",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P010",
+      "book": "창세기",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "야벳",
+      "question": "노아의 세 아들 중 한 사람으로 셈과 함의 형제는 누구입니까?",
+      "hintWord": "노아의 아들",
+      "hintLetter": "야",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P011",
+      "book": "창세기",
+      "chapter": 10,
+      "category": "인물",
+      "answer": "니므롯",
+      "question": "세상의 첫 용사이며 여호와 앞에서 용감한 사냥꾼으로 소개된 사람은 누구입니까?",
+      "hintWord": "용감한 사냥꾼",
+      "hintLetter": "니",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P012",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "데라",
+      "question": "아브람과 나홀과 하란의 아버지는 누구입니까?",
+      "hintWord": "아브람의 아버지",
+      "hintLetter": "데",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P013",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "아브람",
+      "question": "하나님께서 본토와 친척과 아버지의 집을 떠나라고 부르신 사람은 누구입니까?",
+      "hintWord": "후에 아브라함이라 불린 사람",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P014",
+      "book": "창세기",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "아브라함",
+      "question": "하나님께서 아브람에게 새로 주신 이름은 무엇입니까?",
+      "hintWord": "많은 민족의 아버지와 관련된 이름",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P015",
+      "book": "창세기",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "사래",
+      "question": "아브라함의 아내로, 하나님께서 이름을 사라로 바꾸시기 전의 이름은 무엇입니까?",
+      "hintWord": "사라의 이전 이름",
+      "hintLetter": "사",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P016",
+      "book": "창세기",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "사라",
+      "question": "이삭의 어머니이며 아브라함의 아내는 누구입니까?",
+      "hintWord": "이삭의 어머니",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P017",
+      "book": "창세기",
+      "chapter": 13,
+      "category": "인물",
+      "answer": "롯",
+      "question": "아브라함과 함께 가나안으로 갔다가 후에 소돔에 살게 된 사람은 누구입니까?",
+      "hintWord": "아브라함의 조카",
+      "hintLetter": "롯",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P018",
+      "book": "창세기",
+      "chapter": 14,
+      "category": "인물",
+      "answer": "멜기세덱",
+      "question": "아브라함을 맞이하고 떡과 포도주를 가져온 살렘 왕은 누구입니까?",
+      "hintWord": "살렘 왕",
+      "hintLetter": "멜",
+      "difficulty": 3,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P019",
+      "book": "창세기",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "하갈",
+      "question": "사라의 여종으로 아브라함의 아들 이스마엘의 어머니는 누구입니까?",
+      "hintWord": "이스마엘의 어머니",
+      "hintLetter": "하",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P020",
+      "book": "창세기",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "이스마엘",
+      "question": "아브라함과 하갈 사이에서 태어난 아들은 누구입니까?",
+      "hintWord": "하갈의 아들",
+      "hintLetter": "이",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P021",
+      "book": "창세기",
+      "chapter": 15,
+      "category": "인물",
+      "answer": "엘리에셀",
+      "question": "아브라함이 상속자로 생각했던 다메섹 사람은 누구입니까?",
+      "hintWord": "아브라함 집의 종",
+      "hintLetter": "엘",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P022",
+      "book": "창세기",
+      "chapter": 20,
+      "category": "인물",
+      "answer": "아비멜렉",
+      "question": "그랄의 왕으로 사라를 데려갔던 사람은 누구입니까?",
+      "hintWord": "그랄 왕",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P023",
+      "book": "창세기",
+      "chapter": 21,
+      "category": "인물",
+      "answer": "이삭",
+      "question": "아브라함과 사라 사이에서 약속의 아들로 태어난 사람은 누구입니까?",
+      "hintWord": "아브라함의 아들",
+      "hintLetter": "이",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P024",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "인물",
+      "answer": "리브가",
+      "question": "이삭의 아내가 된 사람은 누구입니까?",
+      "hintWord": "이삭의 아내",
+      "hintLetter": "리",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P025",
+      "book": "창세기",
+      "chapter": 25,
+      "category": "인물",
+      "answer": "에서",
+      "question": "이삭과 리브가의 맏아들이며 야곱의 쌍둥이 형은 누구입니까?",
+      "hintWord": "야곱의 형",
+      "hintLetter": "에",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P026",
+      "book": "창세기",
+      "chapter": 25,
+      "category": "인물",
+      "answer": "야곱",
+      "question": "에서의 쌍둥이 동생이며 후에 이스라엘이라는 이름을 받은 사람은 누구입니까?",
+      "hintWord": "이스라엘이라는 이름을 받은 사람",
+      "hintLetter": "야",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P027",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "라헬",
+      "question": "야곱이 사랑하여 아내로 맞이한 라반의 딸은 누구입니까?",
+      "hintWord": "요셉의 어머니",
+      "hintLetter": "라",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P028",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "레아",
+      "question": "야곱의 첫째 아내이며 라헬의 언니는 누구입니까?",
+      "hintWord": "라헬의 언니",
+      "hintLetter": "레",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P029",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "라반",
+      "question": "야곱이 외삼촌으로 섬겼으며 라헬과 레아의 아버지는 누구입니까?",
+      "hintWord": "야곱의 외삼촌",
+      "hintLetter": "라",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P030",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "빌하",
+      "question": "라헬이 야곱에게 아내로 준 자신의 여종은 누구입니까?",
+      "hintWord": "라헬의 여종",
+      "hintLetter": "빌",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P031",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "실바",
+      "question": "레아가 야곱에게 아내로 준 자신의 여종은 누구입니까?",
+      "hintWord": "레아의 여종",
+      "hintLetter": "실",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P032",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "디나",
+      "question": "야곱과 레아 사이에서 태어난 딸은 누구입니까?",
+      "hintWord": "야곱의 딸",
+      "hintLetter": "디",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P033",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "르우벤",
+      "question": "야곱의 열두 아들 가운데 맏아들은 누구입니까?",
+      "hintWord": "야곱의 맏아들",
+      "hintLetter": "르",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P034",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "시므온",
+      "question": "야곱의 둘째 아들로 레위와 함께 세겜 사건에 관여한 사람은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "시",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P035",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "레위",
+      "question": "야곱의 아들로 시므온과 함께 세겜 사람들을 공격한 사람은 누구입니까?",
+      "hintWord": "시므온의 형제",
+      "hintLetter": "레",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P036",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "유다",
+      "question": "야곱의 아들로 요셉을 죽이지 말고 팔자고 제안한 사람은 누구입니까?",
+      "hintWord": "요셉의 형",
+      "hintLetter": "유",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P037",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "단",
+      "question": "야곱과 빌하 사이에서 태어난 아들은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "단",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P038",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "납달리",
+      "question": "야곱과 빌하 사이에서 태어난 둘째 아들은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "납",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P039",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "갓",
+      "question": "야곱과 실바 사이에서 태어난 아들은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "갓",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P040",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "아셀",
+      "question": "야곱과 실바 사이에서 태어난 둘째 아들은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P041",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "잇사갈",
+      "question": "레아가 낳은 야곱의 아들 중 한 사람은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "잇",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P042",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "스불론",
+      "question": "레아가 낳은 야곱의 아들 중 한 사람은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "스",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P043",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "요셉",
+      "question": "야곱이 사랑한 라헬에게서 태어난 아들은 누구입니까?",
+      "hintWord": "애굽에서 총리가 된 야곱의 아들",
+      "hintLetter": "요",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P044",
+      "book": "창세기",
+      "chapter": 35,
+      "category": "인물",
+      "answer": "베냐민",
+      "question": "라헬이 죽기 전에 낳은 야곱의 막내아들은 누구입니까?",
+      "hintWord": "요셉의 친동생",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P045",
+      "book": "창세기",
+      "chapter": 37,
+      "category": "인물",
+      "answer": "보디발",
+      "question": "요셉을 산 애굽의 신하이며 바로의 친위대장인 사람은 누구입니까?",
+      "hintWord": "요셉을 산 애굽 사람",
+      "hintLetter": "보",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P046",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "인물",
+      "answer": "바로",
+      "question": "요셉의 꿈 해석을 듣고 그를 애굽의 높은 자리에 세운 왕은 누구입니까?",
+      "hintWord": "애굽의 왕",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P047",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "인물",
+      "answer": "므낫세",
+      "question": "요셉이 애굽에서 낳은 첫째 아들은 누구입니까?",
+      "hintWord": "요셉의 첫째 아들",
+      "hintLetter": "므",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P048",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "인물",
+      "answer": "에브라임",
+      "question": "요셉이 애굽에서 낳은 둘째 아들은 누구입니까?",
+      "hintWord": "요셉의 둘째 아들",
+      "hintLetter": "에",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L001",
+      "book": "창세기",
+      "chapter": 2,
+      "category": "지명",
+      "answer": "에덴",
+      "question": "하나님께서 동산을 창설하시고 사람을 두신 곳은 어디입니까?",
+      "hintWord": "동산의 이름",
+      "hintLetter": "에",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "GEN-L002",
+      "book": "창세기",
+      "chapter": 4,
+      "category": "지명",
+      "answer": "놋",
+      "question": "가인이 여호와 앞을 떠나 거주한 땅은 어디입니까?",
+      "hintWord": "가인이 살던 땅",
+      "hintLetter": "놋",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L003",
+      "book": "창세기",
+      "chapter": 8,
+      "category": "지명",
+      "answer": "아라랏",
+      "question": "홍수 후 방주가 머문 산의 지역은 어디입니까?",
+      "hintWord": "방주가 머문 산의 지역",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L004",
+      "book": "창세기",
+      "chapter": 10,
+      "category": "지명",
+      "answer": "시날",
+      "question": "니므롯의 나라가 시작된 지역 가운데 하나는 어디입니까?",
+      "hintWord": "바벨과 관련된 지역",
+      "hintLetter": "시",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L005",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "바벨",
+      "question": "사람들이 성읍과 탑을 쌓으려 했던 곳은 어디입니까?",
+      "hintWord": "언어가 혼잡하게 된 곳",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-L006",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "우르",
+      "question": "데라가 아브람과 가족을 데리고 떠난 갈대아 지역의 성읍은 어디입니까?",
+      "hintWord": "아브라함의 출신지로 알려진 곳",
+      "hintLetter": "우",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-L007",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "하란",
+      "question": "데라가 가족과 함께 머물렀고 그곳에서 죽은 곳은 어디입니까?",
+      "hintWord": "데라가 머문 곳",
+      "hintLetter": "하",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-L008",
+      "book": "창세기",
+      "chapter": 12,
+      "category": "지명",
+      "answer": "가나안",
+      "question": "아브람이 하나님의 부르심을 받아 들어간 땅은 어디입니까?",
+      "hintWord": "아브라함에게 약속된 땅",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-L009",
+      "book": "창세기",
+      "chapter": 12,
+      "category": "지명",
+      "answer": "세겜",
+      "question": "아브람이 가나안 땅에 들어와 처음으로 제단을 쌓은 곳 가운데 하나는 어디입니까?",
+      "hintWord": "모레 상수리나무와 관련된 곳",
+      "hintLetter": "세",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L010",
+      "book": "창세기",
+      "chapter": 12,
+      "category": "지명",
+      "answer": "벧엘",
+      "question": "아브람이 장막을 치고 여호와께 제단을 쌓은 곳은 어디입니까?",
+      "hintWord": "아이와 벧엘 사이에 있던 곳",
+      "hintLetter": "벧",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L011",
+      "book": "창세기",
+      "chapter": 13,
+      "category": "지명",
+      "answer": "헤브론",
+      "question": "아브람이 장막을 옮기고 거주하며 제단을 쌓은 곳은 어디입니까?",
+      "hintWord": "마므레와 관련된 지역",
+      "hintLetter": "헤",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L012",
+      "book": "창세기",
+      "chapter": 13,
+      "category": "지명",
+      "answer": "마므레",
+      "question": "아브람이 헤브론 근처에서 장막을 친 곳은 어디입니까?",
+      "hintWord": "상수리나무와 관련된 곳",
+      "hintLetter": "마",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L013",
+      "book": "창세기",
+      "chapter": 20,
+      "category": "지명",
+      "answer": "그랄",
+      "question": "아브라함이 사라와 함께 머물렀던 지역은 어디입니까?",
+      "hintWord": "아비멜렉과 관련된 지역",
+      "hintLetter": "그",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L014",
+      "book": "창세기",
+      "chapter": 21,
+      "category": "지명",
+      "answer": "브엘세바",
+      "question": "아브라함이 아비멜렉과 언약을 맺은 곳은 어디입니까?",
+      "hintWord": "우물과 언약으로 유명한 곳",
+      "hintLetter": "브",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L015",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "지명",
+      "answer": "모리아",
+      "question": "아브라함이 이삭을 데리고 가도록 명령받은 땅은 어디입니까?",
+      "hintWord": "이삭을 번제로 드리라는 시험과 관련된 곳",
+      "hintLetter": "모",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L016",
+      "book": "창세기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "소돔",
+      "question": "롯이 살았으며 하나님의 심판을 받은 성읍은 어디입니까?",
+      "hintWord": "고모라와 함께 심판받은 성읍",
+      "hintLetter": "소",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-L017",
+      "book": "창세기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "고모라",
+      "question": "소돔과 함께 하나님의 심판을 받은 성읍은 어디입니까?",
+      "hintWord": "소돔과 함께 언급되는 성읍",
+      "hintLetter": "고",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-L018",
+      "book": "창세기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "소알",
+      "question": "롯이 소돔을 떠나 피신한 작은 성읍은 어디입니까?",
+      "hintWord": "롯이 피신한 성읍",
+      "hintLetter": "소",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L019",
+      "book": "창세기",
+      "chapter": 28,
+      "category": "지명",
+      "answer": "벧엘",
+      "question": "야곱이 꿈을 꾸고 그곳을 하나님의 집이라는 뜻으로 부른 곳은 어디입니까?",
+      "hintWord": "야곱의 사닥다리 꿈과 관련된 곳",
+      "hintLetter": "벧",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L020",
+      "book": "창세기",
+      "chapter": 28,
+      "category": "지명",
+      "answer": "밧단아람",
+      "question": "야곱이 라반에게 가기 위해 향한 지역은 어디입니까?",
+      "hintWord": "라반의 고향 지역",
+      "hintLetter": "밧",
+      "difficulty": 3,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L021",
+      "book": "창세기",
+      "chapter": 32,
+      "category": "지명",
+      "answer": "브니엘",
+      "question": "야곱이 하나님과 씨름한 후 그곳 이름을 무엇이라 불렀습니까?",
+      "hintWord": "하나님과 씨름한 사건과 관련된 곳",
+      "hintLetter": "브",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L022",
+      "book": "창세기",
+      "chapter": 33,
+      "category": "지명",
+      "answer": "숙곳",
+      "question": "야곱이 에서와 만난 뒤 머문 곳은 어디입니까?",
+      "hintWord": "야곱이 집과 우릿간을 만든 곳",
+      "hintLetter": "숙",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L023",
+      "book": "창세기",
+      "chapter": 34,
+      "category": "지명",
+      "answer": "세겜",
+      "question": "디나 사건이 일어난 성읍은 어디입니까?",
+      "hintWord": "디나와 관련된 성읍",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L024",
+      "book": "창세기",
+      "chapter": 37,
+      "category": "지명",
+      "answer": "도단",
+      "question": "요셉의 형들이 양을 치다가 요셉을 만난 곳은 어디입니까?",
+      "hintWord": "요셉이 형들에게 발견된 곳",
+      "hintLetter": "도",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L025",
+      "book": "창세기",
+      "chapter": 46,
+      "category": "지명",
+      "answer": "고센",
+      "question": "야곱의 가족이 애굽에서 거주하게 된 지역은 어디입니까?",
+      "hintWord": "이스라엘 가족이 정착한 지역",
+      "hintLetter": "고",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L026",
+      "book": "창세기",
+      "chapter": 47,
+      "category": "지명",
+      "answer": "애굽",
+      "question": "요셉이 총리가 되었고 야곱의 가족이 내려간 나라는 어디입니까?",
+      "hintWord": "요셉이 통치한 나라",
+      "hintLetter": "애",
+      "difficulty": 1,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L027",
+      "book": "창세기",
+      "chapter": 23,
+      "category": "지명",
+      "answer": "막벨라",
+      "question": "아브라함이 사라를 장사하기 위해 산 굴은 무엇입니까?",
+      "hintWord": "헤브론 근처의 매장지",
+      "hintLetter": "막",
+      "difficulty": 3,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-E001",
+      "book": "창세기",
+      "chapter": 6,
+      "category": "사건",
+      "answer": "홍수",
+      "question": "노아 시대에 온 땅을 덮은 심판의 사건은 무엇입니까?",
+      "hintWord": "노아와 방주 이야기의 중심 사건",
+      "hintLetter": "홍",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-E002",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "사건",
+      "answer": "바벨탑",
+      "question": "사람들이 하늘에 닿게 하려고 쌓은 탑을 무엇이라고 부릅니까?",
+      "hintWord": "언어가 혼잡해진 사건과 관련된 탑",
+      "hintLetter": "바",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-E003",
+      "book": "창세기",
+      "chapter": 15,
+      "category": "개념",
+      "answer": "언약",
+      "question": "하나님께서 아브람과 맺으신 약속을 무엇이라고 합니까?",
+      "hintWord": "하나님과 사람 사이의 약속",
+      "hintLetter": "언",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-E004",
+      "book": "창세기",
+      "chapter": 17,
+      "category": "개념",
+      "answer": "할례",
+      "question": "하나님께서 아브라함과 그의 후손에게 언약의 표징으로 명하신 것은 무엇입니까?",
+      "hintWord": "아브라함 언약의 표징",
+      "hintLetter": "할",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-E005",
+      "book": "창세기",
+      "chapter": 32,
+      "category": "사건",
+      "answer": "씨름",
+      "question": "야곱이 얍복 나루에서 하나님의 사람과 밤새 한 일은 무엇입니까?",
+      "hintWord": "야곱의 이름이 이스라엘로 바뀌는 사건과 관련",
+      "hintLetter": "씨",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-E006",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "사건",
+      "answer": "기근",
+      "question": "요셉이 해석한 꿈 이후 애굽과 여러 지역에 닥친 것은 무엇입니까?",
+      "hintWord": "먹을 것이 부족해지는 재난",
+      "hintLetter": "기",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E007",
+      "book": "창세기",
+      "chapter": 50,
+      "category": "개념",
+      "answer": "용서",
+      "question": "요셉이 자신을 팔았던 형제들에게 보여 준 태도와 관련된 것은 무엇입니까?",
+      "hintWord": "원한을 품지 않고 받아들이는 것",
+      "hintLetter": "용",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P049",
+      "book": "창세기",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "에노스",
+      "question": "셋의 아들이며 그때에 비로소 여호와의 이름을 부른 사람은 누구입니까?",
+      "hintWord": "셋의 아들",
+      "hintLetter": "에",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P050",
+      "book": "창세기",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "므두셀라",
+      "question": "에녹의 아들이며 노아의 할아버지로 알려진 사람은 누구입니까?",
+      "hintWord": "에녹의 아들",
+      "hintLetter": "므",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P051",
+      "book": "창세기",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "라멕",
+      "question": "노아의 아버지로 소개된 사람은 누구입니까?",
+      "hintWord": "노아의 아버지",
+      "hintLetter": "라",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P052",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "나홀",
+      "question": "데라의 아들이며 아브람의 형제는 누구입니까?",
+      "hintWord": "아브람의 형제",
+      "hintLetter": "나",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P053",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "하란",
+      "question": "데라의 아들이며 롯의 아버지는 누구입니까?",
+      "hintWord": "롯의 아버지",
+      "hintLetter": "하",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P054",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "인물",
+      "answer": "브두엘",
+      "question": "리브가의 아버지이며 나홀의 아들은 누구입니까?",
+      "hintWord": "리브가의 아버지",
+      "hintLetter": "브",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P055",
+      "book": "창세기",
+      "chapter": 25,
+      "category": "인물",
+      "answer": "이스라엘",
+      "question": "야곱이 하나님과 씨름한 뒤 새로 받은 이름은 무엇입니까?",
+      "hintWord": "야곱의 새 이름",
+      "hintLetter": "이",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-P056",
+      "book": "창세기",
+      "chapter": 38,
+      "category": "인물",
+      "answer": "다말",
+      "question": "유다의 며느리로 후손을 이은 여인은 누구입니까?",
+      "hintWord": "유다 가문의 여인",
+      "hintLetter": "다",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P057",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "인물",
+      "answer": "아스낫",
+      "question": "바로가 요셉에게 아내로 준 온의 제사장의 딸은 누구입니까?",
+      "hintWord": "요셉의 아내",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P058",
+      "book": "창세기",
+      "chapter": 14,
+      "category": "인물",
+      "answer": "아므라벨",
+      "question": "아브라함 시대에 소돔 전쟁을 일으킨 시날 왕은 누구입니까?",
+      "hintWord": "시날 왕",
+      "hintLetter": "아",
+      "difficulty": 3,
+      "stageCandidate": 6
+    },
+    {
+      "id": "GEN-P059",
+      "book": "창세기",
+      "chapter": 36,
+      "category": "인물",
+      "answer": "에돔",
+      "question": "에서의 다른 이름과 관련된 민족 이름은 무엇입니까?",
+      "hintWord": "에서의 별칭",
+      "hintLetter": "에",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P060",
+      "book": "창세기",
+      "chapter": 10,
+      "category": "인물",
+      "answer": "구스",
+      "question": "함의 아들이며 니므롯의 아버지로 알려진 사람은 누구입니까?",
+      "hintWord": "함의 아들",
+      "hintLetter": "구",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L028",
+      "book": "창세기",
+      "chapter": 14,
+      "category": "지명",
+      "answer": "엘람",
+      "question": "소돔 전쟁 때 그돌라오멜이 다스리던 나라는 어디입니까?",
+      "hintWord": "동방의 나라",
+      "hintLetter": "엘",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L029",
+      "book": "창세기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "아다마",
+      "question": "소돔·고모라와 함께 심판받은 성읍 가운데 하나는 어디입니까?",
+      "hintWord": "심판받은 성읍",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L030",
+      "book": "창세기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "스보임",
+      "question": "소돔·고모라와 함께 심판받은 성읍 가운데 하나는 어디입니까?",
+      "hintWord": "심판받은 성읍",
+      "hintLetter": "스",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L031",
+      "book": "창세기",
+      "chapter": 32,
+      "category": "지명",
+      "answer": "얍복",
+      "question": "야곱이 가족과 재산을 먼저 보내고 홀로 건넌 시내는 어디입니까?",
+      "hintWord": "씨름 사건 전날의 시내",
+      "hintLetter": "얍",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L032",
+      "book": "창세기",
+      "chapter": 32,
+      "category": "지명",
+      "answer": "마하나임",
+      "question": "야곱이 하나님의 군대를 만나 그곳 이름을 무엇이라 불렀습니까?",
+      "hintWord": "하나님의 군대와 관련된 곳",
+      "hintLetter": "마",
+      "difficulty": 3,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L033",
+      "book": "창세기",
+      "chapter": 12,
+      "category": "지명",
+      "answer": "아이",
+      "question": "아브람이 벧엘과 그 사이에 장막을 친 곳 근처 성읍은 어디입니까?",
+      "hintWord": "벧엘 동쪽의 성읍",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L034",
+      "book": "창세기",
+      "chapter": 14,
+      "category": "지명",
+      "answer": "살렘",
+      "question": "멜기세덱이 왕으로 있던 곳은 어디입니까?",
+      "hintWord": "멜기세덱의 성",
+      "hintLetter": "살",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L035",
+      "book": "창세기",
+      "chapter": 21,
+      "category": "지명",
+      "answer": "블레셋",
+      "question": "아비멜렉과 관련된 지역의 백성 이름은 무엇입니까?",
+      "hintWord": "그랄 지역의 백성",
+      "hintLetter": "블",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L036",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "갈대아",
+      "question": "아브라함의 고향 우르가 있던 지역은 어디입니까?",
+      "hintWord": "우르가 속한 지역",
+      "hintLetter": "갈",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L037",
+      "book": "창세기",
+      "chapter": 14,
+      "category": "지명",
+      "answer": "단땅",
+      "question": "아브라함이 조카 롯을 구하러 쫓아가 이른 북쪽 지역을 무엇이라 부를 수 있습니까?",
+      "hintWord": "북쪽 단 지역",
+      "hintLetter": "단",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-E008",
+      "book": "창세기",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "창조",
+      "question": "하나님께서 천지를 만드신 일을 무엇이라고 합니까?",
+      "hintWord": "천지 창조",
+      "hintLetter": "창",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "GEN-E009",
+      "book": "창세기",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "무지개",
+      "question": "홍수 후 하나님께서 언약의 증거로 구름 속에 두신 것은 무엇입니까?",
+      "hintWord": "언약의 증거",
+      "hintLetter": "무",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-E010",
+      "book": "창세기",
+      "chapter": 8,
+      "category": "사물",
+      "answer": "방주",
+      "question": "노아가 가족과 짐승을 태우고 홍수를 피한 배는 무엇입니까?",
+      "hintWord": "노아가 만든 배",
+      "hintLetter": "방",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-E011",
+      "book": "창세기",
+      "chapter": 12,
+      "category": "사건",
+      "answer": "제단",
+      "question": "아브람이 여호와께 예배드리기 위해 쌓은 것은 무엇입니까?",
+      "hintWord": "예배를 위한 돌무더기",
+      "hintLetter": "제",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-E012",
+      "book": "창세기",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "십일조",
+      "question": "아브라함이 멜기세덱에게 드린 것의 이름은 무엇입니까?",
+      "hintWord": "십분의 일",
+      "hintLetter": "십",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E013",
+      "book": "창세기",
+      "chapter": 37,
+      "category": "사건",
+      "answer": "해몽",
+      "question": "요셉이 형들의 꿈이나 바로의 꿈을 알아맞힌 일을 무엇이라고 합니까?",
+      "hintWord": "꿈을 풀어 말함",
+      "hintLetter": "해",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-E014",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "사건",
+      "answer": "흉년",
+      "question": "요셉이 해석한 꿈 이후에 애굽에 일곱 해 동안 닥친 것은 무엇입니까?",
+      "hintWord": "기근과 같은 뜻의 재난",
+      "hintLetter": "흉",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E015",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "사건",
+      "answer": "번제",
+      "question": "아브라함이 모리아에서 이삭 대신 숫양으로 드린 제사는 무엇입니까?",
+      "hintWord": "불에 태워 드리는 제사",
+      "hintLetter": "번",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E016",
+      "book": "창세기",
+      "chapter": 25,
+      "category": "개념",
+      "answer": "장자권",
+      "question": "에서가 팥죽과 바꾸어 야곱에게 판 것은 무엇입니까?",
+      "hintWord": "맏아들의 권리",
+      "hintLetter": "장",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E017",
+      "book": "창세기",
+      "chapter": 27,
+      "category": "개념",
+      "answer": "축복",
+      "question": "이삭이 야곱에게 주기로 한 말과 관련된 것은 무엇입니까?",
+      "hintWord": "이삭이 아들에게 준 말",
+      "hintLetter": "축",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-E018",
+      "book": "창세기",
+      "chapter": 37,
+      "category": "사물",
+      "answer": "채색옷",
+      "question": "야곱이 요셉에게 특별히 지어 준 옷은 무엇입니까?",
+      "hintWord": "요셉의 특별한 옷",
+      "hintLetter": "채",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E019",
+      "book": "창세기",
+      "chapter": 3,
+      "category": "사건",
+      "answer": "유혹",
+      "question": "에덴동산에서 뱀이 하와를 꾀어 선악과를 먹게 한 일을 무엇이라고 합니까?",
+      "hintWord": "꾀어내는 것",
+      "hintLetter": "유",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-E020",
+      "book": "창세기",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "안식",
+      "question": "하나님께서 일곱째 날에 하시며 그날을 복 주신 것은 무엇입니까?",
+      "hintWord": "일을 쉬는 것",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-E021",
+      "book": "창세기",
+      "chapter": 37,
+      "category": "사건",
+      "answer": "노예",
+      "question": "요셉이 형들에 의해 이스마엘 상인에게 팔려 가게 된 신분과 관련된 것은 무엇입니까?",
+      "hintWord": "종이 되는 것",
+      "hintLetter": "노",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E022",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "개념",
+      "answer": "총리",
+      "question": "바로가 요셉을 애굽 온 땅을 다스리게 하며 세운 높은 자리는 무엇입니까?",
+      "hintWord": "나라의 높은 관직",
+      "hintLetter": "총",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-E023",
+      "book": "창세기",
+      "chapter": 45,
+      "category": "사건",
+      "answer": "화해",
+      "question": "요셉이 형들을 만나 울며 서로를 받아들인 일과 관련된 것은 무엇입니까?",
+      "hintWord": "사이가 좋아지는 일",
+      "hintLetter": "화",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-E024",
+      "book": "창세기",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "언약",
+      "question": "홍수 후 하나님께서 노아와 맺으신 약속을 무엇이라고 합니까?",
+      "hintWord": "무지개와 관련된 약속",
+      "hintLetter": "언",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-E025",
+      "book": "창세기",
+      "chapter": 28,
+      "category": "사건",
+      "answer": "사닥다리",
+      "question": "야곱이 벧엘에서 꿈에 본 땅에 닿아 하늘에 이르는 것은 무엇입니까?",
+      "hintWord": "야곱의 꿈에 나온 것",
+      "hintLetter": "사",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E026",
+      "book": "창세기",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "광명",
+      "question": "하나님께서 첫째 날에 있으라 하시며 만드신 밝음을 무엇이라 부를 수 있습니까?",
+      "hintWord": "밝음",
+      "hintLetter": "광",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "GEN-E027",
+      "book": "창세기",
+      "chapter": 7,
+      "category": "사물",
+      "answer": "큰비",
+      "question": "홍수 때 하늘에서 사십 주야를 내린 것은 무엇입니까?",
+      "hintWord": "많이 내리는 비",
+      "hintLetter": "큰",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-E028",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "사물",
+      "answer": "숫양",
+      "question": "아브라함이 이삭 대신 번제로 드린 동물은 무엇입니까?",
+      "hintWord": "뿔이 수풀에 걸린 동물",
+      "hintLetter": "숫",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E029",
+      "book": "창세기",
+      "chapter": 24,
+      "category": "사물",
+      "answer": "우물",
+      "question": "리브가가 아브라함의 종을 만난 곳은 무엇입니까?",
+      "hintWord": "물을 긷는 곳",
+      "hintLetter": "우",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-E030",
+      "book": "창세기",
+      "chapter": 45,
+      "category": "개념",
+      "answer": "구원",
+      "question": "요셉이 형들을 애굽으로 불러 살게 한 일과 관련된 것은 무엇입니까?",
+      "hintWord": "위험에서 건져 줌",
+      "hintLetter": "구",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P061",
+      "book": "창세기",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "야렛",
+      "question": "에녹의 아버지이며 아담의 자손으로 소개된 사람은 누구입니까?",
+      "hintWord": "에녹의 아버지",
+      "hintLetter": "야",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-P062",
+      "book": "창세기",
+      "chapter": 10,
+      "category": "인물",
+      "answer": "야완",
+      "question": "야벳의 아들로 열국의 표에 나오는 사람은 누구입니까?",
+      "hintWord": "야벳의 아들",
+      "hintLetter": "야",
+      "difficulty": 3,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L038",
+      "book": "창세기",
+      "chapter": 32,
+      "category": "지명",
+      "answer": "요단",
+      "question": "야곱이 지팡이만 가지고 건넜다고 말한 강은 어디입니까?",
+      "hintWord": "야곱이 건넌 강",
+      "hintLetter": "요",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L039",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "지명",
+      "answer": "여호와이레",
+      "question": "아브라함이 모리아에서 여호와께서 준비하신다며 부른 그곳 이름은 무엇입니까?",
+      "hintWord": "여호와께서 준비하심",
+      "hintLetter": "여",
+      "difficulty": 3,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L040",
+      "book": "창세기",
+      "chapter": 16,
+      "category": "지명",
+      "answer": "브엘라해로이",
+      "question": "하갈이 여호와의 사자를 만난 우물 이름은 무엇입니까?",
+      "hintWord": "살아 계신 하나님을 뵈온 우물",
+      "hintLetter": "브",
+      "difficulty": 3,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-L041",
+      "book": "창세기",
+      "chapter": 47,
+      "category": "지명",
+      "answer": "애굽땅",
+      "question": "요셉 가족이 내려가 살게 된 나라를 가리켜 무엇이라 부를 수 있습니까?",
+      "hintWord": "애굽의 땅",
+      "hintLetter": "애",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-E032",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "사건",
+      "answer": "풍년",
+      "question": "흉년이 오기 전 애굽에 일곱 해 동안 있었던 것은 무엇입니까?",
+      "hintWord": "곡식이 많은 해",
+      "hintLetter": "풍",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "GEN-L042",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "지명",
+      "answer": "온성",
+      "question": "요셉의 장인 보디베라가 제사장으로 있던 성읍은 어디입니까?",
+      "hintWord": "애굽의 성읍",
+      "hintLetter": "온",
+      "difficulty": 3,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-E033",
+      "book": "창세기",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "고페르",
+      "question": "노아가 방주를 만들 때 사용한 나무의 이름은 무엇입니까?",
+      "hintWord": "방주 재료인 나무",
+      "hintLetter": "고",
+      "difficulty": 3,
+      "stageCandidate": 3
+    },
+    {
+      "id": "GEN-E034",
+      "book": "창세기",
+      "chapter": 7,
+      "category": "사건",
+      "answer": "큰물",
+      "question": "노아 시대에 온 땅을 덮은 물을 무엇이라 부를 수 있습니까?",
+      "hintWord": "홍수의 물",
+      "hintLetter": "큰",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "GEN-E035",
+      "book": "창세기",
+      "chapter": 37,
+      "category": "사물",
+      "answer": "채색옷감",
+      "question": "야곱이 요셉에게 준 특별한 옷을 가리키는 말로 쓸 수 있는 것은 무엇입니까?",
+      "hintWord": "요셉의 옷",
+      "hintLetter": "채",
+      "difficulty": 2,
+      "stageCandidate": 5
+    },
+    {
+      "id": "GEN-P063",
+      "book": "창세기",
+      "chapter": 36,
+      "category": "인물",
+      "answer": "야람",
+      "question": "에서의 아들로 에돔 족장의 조상 가운데 한 사람은 누구입니까?",
+      "hintWord": "에서의 아들",
+      "hintLetter": "야",
+      "difficulty": 3,
+      "stageCandidate": 5
+    }
+  ],
+  "stages": [
+    {
+      "stageId": "GEN-S001",
+      "book": "창세기",
+      "bookCode": "GEN",
+      "stage": 1,
+      "title": "창세기 Stage 1",
+      "grid": {
+        "rows": 7,
+        "cols": 4
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 1,
+          "col": 0,
+          "length": 3,
+          "quizId": "GEN-L017"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "GEN-P016"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 3,
+          "quizId": "GEN-L015"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 1,
+          "length": 3,
+          "quizId": "GEN-P013"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 3,
+          "col": 2,
+          "length": 4,
+          "quizId": "GEN-L014"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 5,
+          "col": 2,
+          "length": 2,
+          "quizId": "GEN-L009"
+        }
+      ]
+    },
+    {
+      "stageId": "GEN-S002",
+      "book": "창세기",
+      "bookCode": "GEN",
+      "stage": 2,
+      "title": "창세기 Stage 2",
+      "grid": {
+        "rows": 5,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 4,
+          "quizId": "GEN-E025"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 3,
+          "length": 4,
+          "quizId": "GEN-P021"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 0,
+          "length": 3,
+          "quizId": "GEN-P041"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 1,
+          "col": 3,
+          "length": 2,
+          "quizId": "GEN-L028"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 4,
+          "length": 2,
+          "quizId": "GEN-P063"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 3,
+          "length": 2,
+          "quizId": "GEN-P025"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 4,
+          "col": 2,
+          "length": 2,
+          "quizId": "GEN-P040"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 4,
+          "length": 2,
+          "quizId": "GEN-P061"
+        }
+      ]
+    },
+    {
+      "stageId": "GEN-S003",
+      "book": "창세기",
+      "bookCode": "GEN",
+      "stage": 3,
+      "title": "창세기 Stage 3",
+      "grid": {
+        "rows": 7,
+        "cols": 9
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 5,
+          "quizId": "GEN-L039"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 3,
+          "length": 4,
+          "quizId": "GEN-P055"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 5,
+          "length": 4,
+          "quizId": "GEN-P058"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 5,
+          "length": 4,
+          "quizId": "GEN-P014"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 4,
+          "col": 1,
+          "length": 3,
+          "quizId": "GEN-L012"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 1,
+          "length": 3,
+          "quizId": "GEN-L029"
+        },
+        {
+          "number": 7,
+          "direction": "down",
+          "row": 4,
+          "col": 2,
+          "length": 3,
+          "quizId": "GEN-P047"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "GEN-P036"
+        }
+      ]
+    },
+    {
+      "stageId": "GEN-S004",
+      "book": "창세기",
+      "bookCode": "GEN",
+      "stage": 4,
+      "title": "창세기 Stage 4",
+      "grid": {
+        "rows": 5,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 2,
+          "length": 4,
+          "quizId": "GEN-L032"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 5,
+          "length": 4,
+          "quizId": "GEN-P048"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 2,
+          "length": 4,
+          "quizId": "GEN-P020"
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "row": 4,
+          "col": 0,
+          "length": 3,
+          "quizId": "GEN-P054"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "GEN-L033"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 5,
+          "length": 2,
+          "quizId": "GEN-P029"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 3,
+          "col": 4,
+          "length": 2,
+          "quizId": "GEN-P052"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 5,
+          "length": 2,
+          "quizId": "GEN-P006"
+        }
+      ]
+    },
+    {
+      "stageId": "GEN-S005",
+      "book": "창세기",
+      "bookCode": "GEN",
+      "stage": 5,
+      "title": "창세기 Stage 5",
+      "grid": {
+        "rows": 8,
+        "cols": 4
+      },
+      "words": [
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 3,
+          "col": 2,
+          "length": 3,
+          "quizId": "GEN-P042"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 1,
+          "length": 3,
+          "quizId": "GEN-P057"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 3,
+          "quizId": "GEN-L036"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 5,
+          "col": 0,
+          "length": 3,
+          "quizId": "GEN-L011"
+        },
+        {
+          "number": 7,
+          "direction": "down",
+          "row": 5,
+          "col": 1,
+          "length": 3,
+          "quizId": "GEN-L021"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 0,
+          "length": 2,
+          "quizId": "GEN-P019"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 0,
+          "length": 2,
+          "quizId": "GEN-P030"
+        }
+      ]
+    },
+    {
+      "stageId": "GEN-S006",
+      "book": "창세기",
+      "bookCode": "GEN",
+      "stage": 6,
+      "title": "창세기 Stage 6",
+      "grid": {
+        "rows": 4,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 4,
+          "quizId": "GEN-P050"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 0,
+          "length": 3,
+          "quizId": "GEN-P034"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 3,
+          "length": 3,
+          "quizId": "GEN-L003"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 1,
+          "col": 3,
+          "length": 2,
+          "quizId": "GEN-P004"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 4,
+          "length": 2,
+          "quizId": "GEN-L005"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 4,
+          "length": 2,
+          "quizId": "GEN-P046"
+        }
+      ]
+    },
+    {
+      "stageId": "GEN-S007",
+      "book": "창세기",
+      "bookCode": "GEN",
+      "stage": 7,
+      "title": "창세기 Stage 7",
+      "grid": {
+        "rows": 5,
+        "cols": 4
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 3,
+          "quizId": "GEN-P049"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "GEN-P059"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "GEN-P060"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "GEN-E030"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "GEN-L016"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "GEN-L018"
+        }
+      ]
+    },
+    {
+      "stageId": "GEN-S008",
+      "book": "창세기",
+      "bookCode": "GEN",
+      "stage": 8,
+      "title": "창세기 Stage 8",
+      "grid": {
+        "rows": 5,
+        "cols": 4
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 3,
+          "quizId": "GEN-E033"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 2,
+          "col": 1,
+          "length": 2,
+          "quizId": "GEN-L006"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 2,
+          "col": 1,
+          "length": 2,
+          "quizId": "GEN-E029"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "GEN-E034"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "GEN-E027"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "GEN-L025"
+        }
+      ]
+    }
+  ]
+}

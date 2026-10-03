@@ -1,0 +1,2739 @@
+{
+  "bookCode": "ACT",
+  "book": "사도행전",
+  "quizzes": [
+    {
+      "id": "ACT-P001",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "예수",
+      "question": "사도행전 서두에서 승천하신 분은 누구입니까?",
+      "hintWord": "주",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-P002",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "맛디아를 뽑기 전 제자들에게 말한 사도는 누구입니까?",
+      "hintWord": "열두 사도",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-P003",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "맛디아",
+      "question": "가룟 유다 대신 사도로 뽑힌 사람은 누구입니까?",
+      "hintWord": "새 사도",
+      "hintLetter": "맛",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P004",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "오순절에 일어나 설교하여 삼천 명이 회개하게 한 사도는 누구입니까?",
+      "hintWord": "오순절 설교자",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-P005",
+      "book": "사도행전",
+      "chapter": 3,
+      "category": "인물",
+      "answer": "요한",
+      "question": "미문에서 베드로와 함께 앉은뱅이를 고친 사도는 누구입니까?",
+      "hintWord": "세베대의 아들",
+      "hintLetter": "요",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P006",
+      "book": "사도행전",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "가야바",
+      "question": "베드로와 요한을 심문한 대제사장 가운데 한 사람은 누구입니까?",
+      "hintWord": "대제사장",
+      "hintLetter": "가",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P007",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "아나니아",
+      "question": "땅을 팔아 일부를 감추다 죽은 사람은 누구입니까?",
+      "hintWord": "삽비라의 남편",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P008",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "삽비라",
+      "question": "아나니아의 아내로 함께 속이다 죽은 여인은 누구입니까?",
+      "hintWord": "아나니아의 아내",
+      "hintLetter": "삽",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P009",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "가말리엘",
+      "question": "사도들을 죽이지 말라 조언한 율법교사는 누구입니까?",
+      "hintWord": "바리새인",
+      "hintLetter": "가",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P010",
+      "book": "사도행전",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "스데반",
+      "question": "은혜와 권능이 충만하여 기사와 표적을 행하다 순교한 집사는 누구입니까?",
+      "hintWord": "첫 순교자",
+      "hintLetter": "스",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-P011",
+      "book": "사도행전",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "빌립",
+      "question": "일곱 집사 가운데 한 사람으로 사마리아에 복음을 전한 사람은 누구입니까?",
+      "hintWord": "전도자",
+      "hintLetter": "빌",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P012",
+      "book": "사도행전",
+      "chapter": 7,
+      "category": "인물",
+      "answer": "사울",
+      "question": "스데반이 죽임당할 때 옷을 지킨 청년은 누구입니까?",
+      "hintWord": "후에 바울",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-P013",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "인물",
+      "answer": "시몬",
+      "question": "마술을 행하다 믿은 뒤 성령의 능력을 돈으로 사려 한 사람은 누구입니까?",
+      "hintWord": "마술사",
+      "hintLetter": "시",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P014",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "인물",
+      "answer": "에디오피아내시",
+      "question": "이사야를 읽다 빌립에게 세례받은 사람은 누구입니까?",
+      "hintWord": "간다게의 국고를 맡은 이",
+      "hintLetter": "에",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P015",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "인물",
+      "answer": "아나니아",
+      "question": "다메섹에서 사울에게 안수하여 눈을 뜨게 한 제자는 누구입니까?",
+      "hintWord": "다메섹 제자",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P016",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "인물",
+      "answer": "바나바",
+      "question": "사울을 사도들에게 데려가 변론한 사람은 누구입니까?",
+      "hintWord": "위로의 아들",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P017",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "인물",
+      "answer": "도르가",
+      "question": "욥바에서 선행과 구제하다 죽어 베드로가 살린 여인은 누구입니까?",
+      "hintWord": "다비다",
+      "hintLetter": "도",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P018",
+      "book": "사도행전",
+      "chapter": 10,
+      "category": "인물",
+      "answer": "고넬료",
+      "question": "가이사랴의 백부장으로 베드로를 청한 사람은 누구입니까?",
+      "hintWord": "이방인 백부장",
+      "hintLetter": "고",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P019",
+      "book": "사도행전",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "바나바",
+      "question": "안디옥 교회에 파송되어 사울을 데려온 사람은 누구입니까?",
+      "hintWord": "착한 사람",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P020",
+      "book": "사도행전",
+      "chapter": 12,
+      "category": "인물",
+      "answer": "헤롯",
+      "question": "야고보를 칼로 죽이고 베드로를 가둔 왕은 누구입니까?",
+      "hintWord": "유대 왕",
+      "hintLetter": "헤",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P021",
+      "book": "사도행전",
+      "chapter": 12,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "천사가 옥에서 인도하여 내보내 준 사도는 누구입니까?",
+      "hintWord": "옥에서 나온 이",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P022",
+      "book": "사도행전",
+      "chapter": 13,
+      "category": "인물",
+      "answer": "바울",
+      "question": "바나바와 함께 선교 여행을 떠난 사도는 누구입니까?",
+      "hintWord": "이방의 사도",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-P023",
+      "book": "사도행전",
+      "chapter": 13,
+      "category": "인물",
+      "answer": "마가",
+      "question": "바나바의 생질로 버가에서 떠난 사람은 누구입니까?",
+      "hintWord": "요한 마가",
+      "hintLetter": "마",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P024",
+      "book": "사도행전",
+      "chapter": 14,
+      "category": "인물",
+      "answer": "바나바",
+      "question": "루스드라에서 제우스라 불리며 바울과 함께한 사람은 누구입니까?",
+      "hintWord": "바울의 동역자",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P025",
+      "book": "사도행전",
+      "chapter": 15,
+      "category": "인물",
+      "answer": "야고보",
+      "question": "예루살렘 회의에서 이방인에 대한 결정을 선포한 사람은 누구입니까?",
+      "hintWord": "주의 형제",
+      "hintLetter": "야",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P026",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "디모데",
+      "question": "루스드라 출신으로 바울의 동역자가 된 청년은 누구입니까?",
+      "hintWord": "바울의 아들 같은 이",
+      "hintLetter": "디",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P027",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "루디아",
+      "question": "자주 장사로 빌립보에서 세례받은 여인은 누구입니까?",
+      "hintWord": "자주 장사",
+      "hintLetter": "루",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P028",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "간수",
+      "question": "빌립보 감옥에서 구원받은 사람은 누구입니까?",
+      "hintWord": "옥의 간수",
+      "hintLetter": "간",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P029",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "실라",
+      "question": "바울과 함께 빌립보에서 매맞고 감옥에 간 동역자는 누구입니까?",
+      "hintWord": "바울의 동역자",
+      "hintLetter": "실",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P030",
+      "book": "사도행전",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "아굴라",
+      "question": "천막을 만드는 일로 바울과 함께한 사람은 누구입니까?",
+      "hintWord": "브리스길라의 남편",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P031",
+      "book": "사도행전",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "브리스길라",
+      "question": "아굴라의 아내로 아볼로를 가르친 여인은 누구입니까?",
+      "hintWord": "아굴라의 아내",
+      "hintLetter": "브",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P032",
+      "book": "사도행전",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "아볼로",
+      "question": "알렉산드리아 출신으로 예수의 일을 열심으로 전한 사람은 누구입니까?",
+      "hintWord": "성경에 능한 이",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P033",
+      "book": "사도행전",
+      "chapter": 19,
+      "category": "인물",
+      "answer": "데메드리오",
+      "question": "은장색으로 아데미 신상 사업 때문에 소동을 일으킨 사람은 누구입니까?",
+      "hintWord": "은장색",
+      "hintLetter": "데",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "ACT-P034",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "인물",
+      "answer": "유두고",
+      "question": "바울의 긴 설교 중 창에서 떨어져 죽은 듯하다 살아난 청년은 누구입니까?",
+      "hintWord": "청년",
+      "hintLetter": "유",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P035",
+      "book": "사도행전",
+      "chapter": 21,
+      "category": "인물",
+      "answer": "아가보",
+      "question": "바울이 예루살렘에서 결박당할 것을 예언한 선지자는 누구입니까?",
+      "hintWord": "선지자",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "ACT-P036",
+      "book": "사도행전",
+      "chapter": 22,
+      "category": "인물",
+      "answer": "바울",
+      "question": "나면서부터 로마 시민이라 고백한 사도는 누구입니까?",
+      "hintWord": "이방의 사도",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P037",
+      "book": "사도행전",
+      "chapter": 23,
+      "category": "인물",
+      "answer": "아나니아",
+      "question": "바울을 심문하다 회칠한 담이라고 책망받은 대제사장은 누구입니까?",
+      "hintWord": "대제사장",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "ACT-P038",
+      "book": "사도행전",
+      "chapter": 24,
+      "category": "인물",
+      "answer": "벨릭스",
+      "question": "바울을 심문한 총독은 누구입니까?",
+      "hintWord": "총독",
+      "hintLetter": "벨",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P039",
+      "book": "사도행전",
+      "chapter": 25,
+      "category": "인물",
+      "answer": "베스도",
+      "question": "벨릭스 후임으로 바울을 심문한 총독은 누구입니까?",
+      "hintWord": "총독",
+      "hintLetter": "베",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P040",
+      "book": "사도행전",
+      "chapter": 26,
+      "category": "인물",
+      "answer": "아그립바",
+      "question": "바울이 복음을 전한 왕은 누구입니까?",
+      "hintWord": "유대 왕",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-P041",
+      "book": "사도행전",
+      "chapter": 27,
+      "category": "인물",
+      "answer": "바울",
+      "question": "배가 깨어지는 중에도 승객을 격려한 사도는 누구입니까?",
+      "hintWord": "죄수 바울",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-P042",
+      "book": "사도행전",
+      "chapter": 28,
+      "category": "인물",
+      "answer": "바울",
+      "question": "로마에서 온전히 담대하게 하나님 나라를 전파한 사도는 누구입니까?",
+      "hintWord": "로마의 바울",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L043",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "감람산",
+      "question": "예수께서 승천하신 산은 어디입니까?",
+      "hintWord": "올리브 산",
+      "hintLetter": "감",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-L044",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "예루살렘",
+      "question": "사도들이 머물며 성령을 기다린 성은 어디입니까?",
+      "hintWord": "거룩한 성",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-L045",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "지명",
+      "answer": "다락방",
+      "question": "성령이 임할 때 제자들이 모여 있던 곳은 어디입니까?",
+      "hintWord": "모인 다락",
+      "hintLetter": "다",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-L046",
+      "book": "사도행전",
+      "chapter": 3,
+      "category": "지명",
+      "answer": "성전",
+      "question": "앉은뱅이가 구걸하던 미문이 있는 곳은 어디입니까?",
+      "hintWord": "하나님의 집",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L047",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "지명",
+      "answer": "사마리아",
+      "question": "빌립이 복음을 전하고 많은 기쁨이 있던 지역은 어디입니까?",
+      "hintWord": "중간 지역",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L048",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "지명",
+      "answer": "가사",
+      "question": "에디오피아 내시가 병거를 타고 가던 길은 어디 방향입니까?",
+      "hintWord": "광야 길",
+      "hintLetter": "가",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-L049",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "지명",
+      "answer": "다메섹",
+      "question": "사울이 빛 가운데 예수를 만난 성은 어디입니까?",
+      "hintWord": "시리아의 성",
+      "hintLetter": "다",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-L050",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "지명",
+      "answer": "욥바",
+      "question": "도르가를 살리고 고넬료의 초청을 받은 곳은 어디입니까?",
+      "hintWord": "해변 성",
+      "hintLetter": "욥",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-L051",
+      "book": "사도행전",
+      "chapter": 10,
+      "category": "지명",
+      "answer": "가이사랴",
+      "question": "고넬료가 살던 성은 어디입니까?",
+      "hintWord": "로마 주둔 성",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L052",
+      "book": "사도행전",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "안디옥",
+      "question": "제자들이 비로소 그리스도인이라 일컬음을 받은 곳은 어디입니까?",
+      "hintWord": "선교의 기지",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L053",
+      "book": "사도행전",
+      "chapter": 13,
+      "category": "지명",
+      "answer": "구브로",
+      "question": "바나바의 고향으로 첫 선교 여행에서 거친 섬은 어디입니까?",
+      "hintWord": "섬",
+      "hintLetter": "구",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-L054",
+      "book": "사도행전",
+      "chapter": 13,
+      "category": "지명",
+      "answer": "비시디안디옥",
+      "question": "회당에서 바울이 길게 설교한 안디옥은 어디입니까?",
+      "hintWord": "비시디아의 안디옥",
+      "hintLetter": "비",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-L055",
+      "book": "사도행전",
+      "chapter": 14,
+      "category": "지명",
+      "answer": "루스드라",
+      "question": "앉은뱅이를 고치고 돌에 맞으신 곳은 어디입니까?",
+      "hintWord": "갈라디아 성",
+      "hintLetter": "루",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-L056",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "지명",
+      "answer": "빌립보",
+      "question": "루디아와 간수가 구원받은 마게도냐의 성은 어디입니까?",
+      "hintWord": "마게도냐 성",
+      "hintLetter": "빌",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L057",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "지명",
+      "answer": "데살로니가",
+      "question": "회당에서 세 안식일 강론한 성은 어디입니까?",
+      "hintWord": "마게도냐 성",
+      "hintLetter": "데",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-L058",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "지명",
+      "answer": "베뢰아",
+      "question": "마음이 열려 성경을 상고한 사람들의 성은 어디입니까?",
+      "hintWord": "성경을 상고한 성",
+      "hintLetter": "베",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-L059",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "지명",
+      "answer": "아덴",
+      "question": "바울이 아레오바고에서 설교한 성은 어디입니까?",
+      "hintWord": "그리스의 성",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L060",
+      "book": "사도행전",
+      "chapter": 18,
+      "category": "지명",
+      "answer": "고린도",
+      "question": "아굴라와 함께 머물며 일 년 반 가르친 성은 어디입니까?",
+      "hintWord": "아가야 성",
+      "hintLetter": "고",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L061",
+      "book": "사도행전",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "에베소",
+      "question": "두란노 서원에서 가르치고 소동이 일어난 성은 어디입니까?",
+      "hintWord": "아시아의 성",
+      "hintLetter": "에",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L062",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "지명",
+      "answer": "드로아",
+      "question": "유두고가 창에서 떨어진 성은 어디입니까?",
+      "hintWord": "아시아 성",
+      "hintLetter": "드",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "ACT-L063",
+      "book": "사도행전",
+      "chapter": 21,
+      "category": "지명",
+      "answer": "예루살렘",
+      "question": "바울이 결박당한 성은 어디입니까?",
+      "hintWord": "거룩한 성",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-L064",
+      "book": "사도행전",
+      "chapter": 27,
+      "category": "지명",
+      "answer": "멜리데",
+      "question": "배가 깨어져 상륙한 섬은 어디입니까?",
+      "hintWord": "말타",
+      "hintLetter": "멜",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-L065",
+      "book": "사도행전",
+      "chapter": 28,
+      "category": "지명",
+      "answer": "로마",
+      "question": "바울이 자기 셋집에서 복음을 전한 제국의 수도는 어디입니까?",
+      "hintWord": "제국의 수도",
+      "hintLetter": "로",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E066",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "승천",
+      "question": "구름이 가리어 보이지 않게 하늘로 올려지신 사건은 무엇입니까?",
+      "hintWord": "하늘로 올라가심",
+      "hintLetter": "승",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E067",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "사건",
+      "answer": "오순절",
+      "question": "성령이 불의 혀같이 임하고 방언으로 말한 사건은 무엇입니까?",
+      "hintWord": "오순절",
+      "hintLetter": "오",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E068",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "사건",
+      "answer": "회개세례",
+      "question": "베드로의 설교를 듣고 삼천 명이 받은 것은 무엇입니까?",
+      "hintWord": "회개하고 세례받음",
+      "hintLetter": "회",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E069",
+      "book": "사도행전",
+      "chapter": 3,
+      "category": "사건",
+      "answer": "앉은뱅이고침",
+      "question": "미문에서 은과 금은 내게 없거니와 하며 고친 기적은 무엇입니까?",
+      "hintWord": "앉은뱅이를 고침",
+      "hintLetter": "앉",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E070",
+      "book": "사도행전",
+      "chapter": 4,
+      "category": "사건",
+      "answer": "담대한증언",
+      "question": "베드로와 요한이 공회 앞에서 복음을 전한 일은 무엇입니까?",
+      "hintWord": "담대히 증언함",
+      "hintLetter": "담",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E071",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "사건",
+      "answer": "아나니아심판",
+      "question": "거짓말로 성령을 속이다 죽은 사건은 무엇입니까?",
+      "hintWord": "아나니아의 죽음",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E072",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "사건",
+      "answer": "기적과표적",
+      "question": "사도들의 손으로 백성 가운데 많이 나타난 것은 무엇입니까?",
+      "hintWord": "기적",
+      "hintLetter": "기",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E073",
+      "book": "사도행전",
+      "chapter": 7,
+      "category": "사건",
+      "answer": "스데반순교",
+      "question": "돌로 쳐 죽임을 당한 첫 순교 사건은 무엇입니까?",
+      "hintWord": "스데반의 죽음",
+      "hintLetter": "스",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E074",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "사건",
+      "answer": "사마리아전도",
+      "question": "빌립이 사마리아에 내려가 전한 일은 무엇입니까?",
+      "hintWord": "사마리아에 복음",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E075",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "사건",
+      "answer": "내시세례",
+      "question": "에디오피아 내시가 물 있는 곳에서 받은 것은 무엇입니까?",
+      "hintWord": "세례",
+      "hintLetter": "내",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E076",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "사건",
+      "answer": "다메섹회심",
+      "question": "사울이 빛 가운데 예수를 만나 회심한 사건은 무엇입니까?",
+      "hintWord": "다메섹 회심",
+      "hintLetter": "다",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E077",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "사건",
+      "answer": "도르가살림",
+      "question": "욥바에서 베드로가 살린 사건은 무엇입니까?",
+      "hintWord": "도르가를 살림",
+      "hintLetter": "도",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E078",
+      "book": "사도행전",
+      "chapter": 10,
+      "category": "사건",
+      "answer": "이방인세례",
+      "question": "고넬료 집에 성령이 임하고 세례받은 사건은 무엇입니까?",
+      "hintWord": "이방인에게 세례",
+      "hintLetter": "이",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E079",
+      "book": "사도행전",
+      "chapter": 12,
+      "category": "사건",
+      "answer": "옥중출감",
+      "question": "베드로가 천사의 인도로 감옥에서 나온 사건은 무엇입니까?",
+      "hintWord": "옥에서 나옴",
+      "hintLetter": "옥",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E080",
+      "book": "사도행전",
+      "chapter": 13,
+      "category": "사건",
+      "answer": "선교여행",
+      "question": "성령이 바나바와 사울을 보내어 떠난 여행은 무엇입니까?",
+      "hintWord": "선교 여행",
+      "hintLetter": "선",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E081",
+      "book": "사도행전",
+      "chapter": 14,
+      "category": "사건",
+      "answer": "앉은뱅이고침",
+      "question": "루스드라에서 바울이 고친 기적은 무엇입니까?",
+      "hintWord": "앉은뱅이를 고침",
+      "hintLetter": "앉",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E082",
+      "book": "사도행전",
+      "chapter": 15,
+      "category": "사건",
+      "answer": "예루살렘회의",
+      "question": "이방인 할례 문제를 논의한 모임은 무엇입니까?",
+      "hintWord": "사도 회의",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E083",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "사건",
+      "answer": "빌립보세례",
+      "question": "루디아와 가족이 받은 것은 무엇입니까?",
+      "hintWord": "세례",
+      "hintLetter": "빌",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E084",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "사건",
+      "answer": "옥중찬양",
+      "question": "한밤중에 바울과 실라가 기도하며 한 일은 무엇입니까?",
+      "hintWord": "찬미함",
+      "hintLetter": "옥",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E085",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "사건",
+      "answer": "지진",
+      "question": "옥문이 다 열리게 한 자연 현상은 무엇입니까?",
+      "hintWord": "땅이 흔들림",
+      "hintLetter": "지",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E086",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "사건",
+      "answer": "아레오바고설교",
+      "question": "바울이 아덴에서 한 설교의 장소는 무엇입니까?",
+      "hintWord": "아레오바고",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E087",
+      "book": "사도행전",
+      "chapter": 19,
+      "category": "사건",
+      "answer": "마술책소각",
+      "question": "에베소에서 마술을 행하던 이들이 책을 불사른 일은 무엇입니까?",
+      "hintWord": "책을 태움",
+      "hintLetter": "마",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E088",
+      "book": "사도행전",
+      "chapter": 19,
+      "category": "사건",
+      "answer": "에베소소동",
+      "question": "아데미 여신 때문에 일어난 큰 소동은 무엇입니까?",
+      "hintWord": "에베소의 소동",
+      "hintLetter": "에",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E089",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "사건",
+      "answer": "유두고살림",
+      "question": "떨어진 청년을 살린 사건은 무엇입니까?",
+      "hintWord": "유두고를 살림",
+      "hintLetter": "유",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E090",
+      "book": "사도행전",
+      "chapter": 21,
+      "category": "사건",
+      "answer": "바울체포",
+      "question": "예루살렘에서 바울이 붙잡힌 일은 무엇입니까?",
+      "hintWord": "바울이 잡힘",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E091",
+      "book": "사도행전",
+      "chapter": 27,
+      "category": "사건",
+      "answer": "파선",
+      "question": "유라굴로 광풍으로 배가 깨진 사건은 무엇입니까?",
+      "hintWord": "배가 깨짐",
+      "hintLetter": "파",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E092",
+      "book": "사도행전",
+      "chapter": 28,
+      "category": "사건",
+      "answer": "뱀물림",
+      "question": "장작을 불에 넣다 독사에 물렸으나 아무렇지 않은 사건은 무엇입니까?",
+      "hintWord": "뱀에 물림",
+      "hintLetter": "뱀",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E093",
+      "book": "사도행전",
+      "chapter": 28,
+      "category": "사건",
+      "answer": "로마전도",
+      "question": "로마에서 하나님 나라와 주 예수 그리스도에 대해 가르친 일은 무엇입니까?",
+      "hintWord": "로마에서 전도",
+      "hintLetter": "로",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E094",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "증인",
+      "question": "예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 무엇이 되리라 하셨습니까?",
+      "hintWord": "증인",
+      "hintLetter": "증",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E095",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "성령충만",
+      "question": "저희가 다 무엇하여 성령이 말하게 하심을 따라 다른 언어로 말하기를 시작하니라에서 강조된 것은 무엇입니까?",
+      "hintWord": "성령으로 채워짐",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E096",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "회개",
+      "question": "너희가 무엇을 하여 각각 예수 그리스도의 이름으로 세례를 받고 죄 사함을 받으라 하셨습니까?",
+      "hintWord": "돌이킴",
+      "hintLetter": "회",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E097",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "교회",
+      "question": "날마다 마음을 같이하여 성전에 모이기를 힘쓴 공동체의 이름은 무엇입니까?",
+      "hintWord": "믿는 이들의 모임",
+      "hintLetter": "교",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E098",
+      "book": "사도행전",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "구원",
+      "question": "천하 사람 중에 구원을 받을 만한 다른 이름을 주신 일이 없음이라에서 강조된 것은 무엇입니까?",
+      "hintWord": "구원",
+      "hintLetter": "구",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E099",
+      "book": "사도행전",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "담대함",
+      "question": "저희가 다 성령이 충만하여 담대히 하나님의 말씀을 전하니라에서 강조된 태도는 무엇입니까?",
+      "hintWord": "두려워하지 않음",
+      "hintLetter": "담",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E100",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "개념",
+      "answer": "순종",
+      "question": "사람보다 하나님을 무엇을 하는 것이 마땅하니라 하셨습니까?",
+      "hintWord": "순종함",
+      "hintLetter": "순",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E101",
+      "book": "사도행전",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "봉사",
+      "question": "일곱 사람을 택하여 구제 일을 맡긴 사역은 무엇입니까?",
+      "hintWord": "섬기는 일",
+      "hintLetter": "봉",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E102",
+      "book": "사도행전",
+      "chapter": 7,
+      "category": "개념",
+      "answer": "용서",
+      "question": "주여 이 죄를 저들에게 돌리지 마옵소서 한 스데반의 기도 핵심은 무엇입니까?",
+      "hintWord": "용서",
+      "hintLetter": "용",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E103",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "기쁨",
+      "question": "빌립이 사마리아에 복음을 전한 뒤 그 성에 무엇이 있더라 하였습니까?",
+      "hintWord": "기쁨",
+      "hintLetter": "기",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E104",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "택한그릇",
+      "question": "이 사람은 내 이름을 이방인과 임금들과 이스라엘 자손들에게 전하기 위하여 택한 무엇이라 하셨습니까?",
+      "hintWord": "그릇",
+      "hintLetter": "택",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E105",
+      "book": "사도행전",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "편견철폐",
+      "question": "하나님께서 깨끗하게 하신 것을 네가 속되다 하지 말라에서 깨뜨린 것은 무엇입니까?",
+      "hintWord": "편견",
+      "hintLetter": "편",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E106",
+      "book": "사도행전",
+      "chapter": 11,
+      "category": "개념",
+      "answer": "그리스도인",
+      "question": "제자들이 안디옥에서 비로소 일컬음을 받은 이름은 무엇입니까?",
+      "hintWord": "그리스도인",
+      "hintLetter": "그",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E107",
+      "book": "사도행전",
+      "chapter": 13,
+      "category": "개념",
+      "answer": "선교",
+      "question": "성령이 이르시되 내가 불러 시키는 일을 위하여 바나바와 사울을 따로 세우라에서 시작된 일은 무엇입니까?",
+      "hintWord": "선교",
+      "hintLetter": "선",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E108",
+      "book": "사도행전",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "믿음",
+      "question": "네 몸에 무엇이 있느니라 하시며 앉은뱅이를 고치신 근거는 무엇입니까?",
+      "hintWord": "믿는 마음",
+      "hintLetter": "믿",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E109",
+      "book": "사도행전",
+      "chapter": 15,
+      "category": "개념",
+      "answer": "은혜구원",
+      "question": "우리도 저희와 동일하게 주 예수의 은혜로 구원 받는 줄을 믿노라에서 강조된 것은 무엇입니까?",
+      "hintWord": "은혜로 구원",
+      "hintLetter": "은",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E110",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "개념",
+      "answer": "구원",
+      "question": "주 예수를 믿으라 그리하면 너와 네 집이 무엇을 받으리라 하셨습니까?",
+      "hintWord": "구원",
+      "hintLetter": "구",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E111",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "개념",
+      "answer": "회개",
+      "question": "하나님이 정하신 사람을 들어 모든 사람으로 하여금 어디에 이르게 하려 하심이라 하셨습니까?",
+      "hintWord": "회개",
+      "hintLetter": "회",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E112",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "개념",
+      "answer": "피흘림",
+      "question": "하나님이 자기 피로 사신 교회를 치라 하신 말씀과 관련된 것은 무엇입니까?",
+      "hintWord": "피 흘려 사심",
+      "hintLetter": "피",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E113",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "개념",
+      "answer": "나눔",
+      "question": "내가 아무의 은이나 금이나 의복을 탐하지 아니하였고에서 나타난 태도는 무엇입니까?",
+      "hintWord": "나누어 줌",
+      "hintLetter": "나",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E114",
+      "book": "사도행전",
+      "chapter": 24,
+      "category": "개념",
+      "answer": "부활소망",
+      "question": "의인과 악인의 무엇이 있으리라 바울이 고백한 소망은 무엇입니까?",
+      "hintWord": "부활",
+      "hintLetter": "부",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E115",
+      "book": "사도행전",
+      "chapter": 26,
+      "category": "개념",
+      "answer": "빛전환",
+      "question": "어두움에서 빛으로 사탄의 권세에서 하나님께로 돌아가게 하려 함이라에서 강조된 것은 무엇입니까?",
+      "hintWord": "돌이킴",
+      "hintLetter": "빛",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E116",
+      "book": "사도행전",
+      "chapter": 28,
+      "category": "개념",
+      "answer": "하나님나라",
+      "question": "바울이 로마에서 전파한 주제는 무엇입니까?",
+      "hintWord": "하나님의 나라",
+      "hintLetter": "하",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E117",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "구름",
+      "question": "예수를 가리어 보이지 않게 하신 것은 무엇입니까?",
+      "hintWord": "구름",
+      "hintLetter": "구",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E118",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "제비",
+      "question": "맛디아를 뽑을 때 사용한 방법은 무엇입니까?",
+      "hintWord": "제비",
+      "hintLetter": "제",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E119",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "사물",
+      "answer": "불의혀",
+      "question": "성령이 갈라진 무엇같이 임하였습니까?",
+      "hintWord": "불의 혀",
+      "hintLetter": "불",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E120",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "사물",
+      "answer": "방언",
+      "question": "성령이 말하게 하심을 따라 말한 다른 언어는 무엇입니까?",
+      "hintWord": "다른 언어",
+      "hintLetter": "방",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E121",
+      "book": "사도행전",
+      "chapter": 3,
+      "category": "사물",
+      "answer": "은과금",
+      "question": "베드로가 내게 없거니와 내게 있는 이것을 네게 주노니 한 대비의 재물은 무엇입니까?",
+      "hintWord": "은과 금",
+      "hintLetter": "은",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E122",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "사물",
+      "answer": "시체",
+      "question": "아나니아를 싸서 메고 나가 장사한 것은 무엇입니까?",
+      "hintWord": "죽은 몸",
+      "hintLetter": "시",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E123",
+      "book": "사도행전",
+      "chapter": 7,
+      "category": "사물",
+      "answer": "돌",
+      "question": "스데반을 친 것은 무엇입니까?",
+      "hintWord": "던지는 돌",
+      "hintLetter": "돌",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E124",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "사물",
+      "answer": "병거",
+      "question": "에디오피아 내시가 타고 가던 것은 무엇입니까?",
+      "hintWord": "수레",
+      "hintLetter": "병",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E125",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "사물",
+      "answer": "빛",
+      "question": "사울을 둘러 비춘 것은 무엇입니까?",
+      "hintWord": "하늘로부터의 빛",
+      "hintLetter": "빛",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E126",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "사물",
+      "answer": "비늘",
+      "question": "사울의 눈에서 벗어져 떨어진 것은 무엇입니까?",
+      "hintWord": "눈의 비늘",
+      "hintLetter": "비",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E127",
+      "book": "사도행전",
+      "chapter": 10,
+      "category": "사물",
+      "answer": "보자기",
+      "question": "하늘에서 내려오는 네 귀가 달린 그릇 같은 것은 무엇입니까?",
+      "hintWord": "큰 보자기",
+      "hintLetter": "보",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E128",
+      "book": "사도행전",
+      "chapter": 12,
+      "category": "사물",
+      "answer": "쇠사슬",
+      "question": "베드로의 두 손에 있던 것이 벗겨진 것은 무엇입니까?",
+      "hintWord": "쇠사슬",
+      "hintLetter": "쇠",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E129",
+      "book": "사도행전",
+      "chapter": 12,
+      "category": "사물",
+      "answer": "철문",
+      "question": "절로 열린 성으로 통하는 문은 무엇입니까?",
+      "hintWord": "철문",
+      "hintLetter": "철",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E130",
+      "book": "사도행전",
+      "chapter": 14,
+      "category": "사물",
+      "answer": "소와화환",
+      "question": "루스드라 사람들이 제사하려 가지고 온 것은 무엇입니까?",
+      "hintWord": "소와 화환",
+      "hintLetter": "소",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "ACT-E131",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "차꼬",
+      "question": "바울과 실라의 발을 고정한 것은 무엇입니까?",
+      "hintWord": "나무 차꼬",
+      "hintLetter": "차",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E132",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "세례물",
+      "question": "루디아와 가족이 세례받을 때 관련된 것은 무엇입니까?",
+      "hintWord": "세례의 물",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E133",
+      "book": "사도행전",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "손수건",
+      "question": "바울의 몸에서 가져가 병을 고친 것은 무엇입니까?",
+      "hintWord": "손수건",
+      "hintLetter": "손",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E134",
+      "book": "사도행전",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "마술책",
+      "question": "가치를 계산하여 불사른 것은 무엇입니까?",
+      "hintWord": "마술 책",
+      "hintLetter": "마",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E135",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "사물",
+      "answer": "창",
+      "question": "유두고가 떨어진 곳은 무엇입니까?",
+      "hintWord": "창",
+      "hintLetter": "창",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E136",
+      "book": "사도행전",
+      "chapter": 21,
+      "category": "사물",
+      "answer": "띠",
+      "question": "아가보가 바울의 손발을 잡아맨 것은 무엇입니까?",
+      "hintWord": "바울의 띠",
+      "hintLetter": "띠",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "ACT-E137",
+      "book": "사도행전",
+      "chapter": 27,
+      "category": "사물",
+      "answer": "닻",
+      "question": "광풍 중에 배에서 내린 것은 무엇입니까?",
+      "hintWord": "닻",
+      "hintLetter": "닻",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E138",
+      "book": "사도행전",
+      "chapter": 27,
+      "category": "사물",
+      "answer": "밀",
+      "question": "배를 가볍게 하려고 바다에 버린 것은 무엇입니까?",
+      "hintWord": "밀",
+      "hintLetter": "밀",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E139",
+      "book": "사도행전",
+      "chapter": 28,
+      "category": "사물",
+      "answer": "독사",
+      "question": "바울의 손에 붙었으나 불에 떨어뜨린 것은 무엇입니까?",
+      "hintWord": "독사",
+      "hintLetter": "독",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E140",
+      "book": "사도행전",
+      "chapter": 28,
+      "category": "사물",
+      "answer": "장작",
+      "question": "바울이 불에 넣은 것은 무엇입니까?",
+      "hintWord": "나무 장작",
+      "hintLetter": "장",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E141",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "교제",
+      "question": "사도의 가르침과 무엇과 떡을 떼는 것과 기도에 힘썼더라에서 함께 언급된 것은 무엇입니까?",
+      "hintWord": "서로 사귐",
+      "hintLetter": "교",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E142",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "나눔",
+      "question": "재산을 통용하고 필요한 대로 나눠 준 삶은 무엇입니까?",
+      "hintWord": "서로 나눔",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E143",
+      "book": "사도행전",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "믿음",
+      "question": "그 이름을 믿으므로 그 이름이 너희 보고 아는 이 사람을 성하게 하였나니에서 강조된 것은 무엇입니까?",
+      "hintWord": "믿는 마음",
+      "hintLetter": "믿",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E144",
+      "book": "사도행전",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "기도",
+      "question": "위협 가운데서도 담대히 말씀하게 하옵소서 구한 것은 무엇입니까?",
+      "hintWord": "기도",
+      "hintLetter": "기",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E145",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "개념",
+      "answer": "성령기만",
+      "question": "사람에게 거짓말한 것이 아니요 하나님께로다에서 지적된 죄는 무엇입니까?",
+      "hintWord": "성령을 속임",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E146",
+      "book": "사도행전",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "지혜",
+      "question": "성령과 무엇이 충만하여 칭찬받는 사람을 택하라 하였습니까?",
+      "hintWord": "지혜",
+      "hintLetter": "지",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E147",
+      "book": "사도행전",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "성령세례",
+      "question": "사마리아 사람들이 기도받아 받은 것은 무엇입니까?",
+      "hintWord": "성령",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E148",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "제자",
+      "question": "다메섹에 있는 누구의 무리에 속한 자들을 결박하려 하였습니까?",
+      "hintWord": "제자",
+      "hintLetter": "제",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E149",
+      "book": "사도행전",
+      "chapter": 11,
+      "category": "개념",
+      "answer": "구제",
+      "question": "안디옥 제자들이 유대 형제들에게 보낸 것은 무엇입니까?",
+      "hintWord": "구제",
+      "hintLetter": "구",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E150",
+      "book": "사도행전",
+      "chapter": 13,
+      "category": "개념",
+      "answer": "금식",
+      "question": "바나바와 사울을 보낼 때 하며 기도한 것은 무엇입니까?",
+      "hintWord": "금식",
+      "hintLetter": "금",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E151",
+      "book": "사도행전",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "환난",
+      "question": "우리가 하나님 나라에 들어가려면 많은 무엇을 겪어야 할 것이라 하였습니까?",
+      "hintWord": "환난",
+      "hintLetter": "환",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E152",
+      "book": "사도행전",
+      "chapter": 16,
+      "category": "개념",
+      "answer": "세례",
+      "question": "주 예수를 믿은 간수와 가족이 그 밤에 받은 것은 무엇입니까?",
+      "hintWord": "세례",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "ACT-E153",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "개념",
+      "answer": "부활",
+      "question": "예수와 무엇을 전한다 하니 외국 신들을 전하는도다 하였습니까?",
+      "hintWord": "부활",
+      "hintLetter": "부",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E154",
+      "book": "사도행전",
+      "chapter": 18,
+      "category": "개념",
+      "answer": "말씀사역",
+      "question": "바울이 일 년 육 개월을 머물며 그들 가운데서 한 일은 무엇입니까?",
+      "hintWord": "하나님의 말씀을 가르침",
+      "hintLetter": "말",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E155",
+      "book": "사도행전",
+      "chapter": 19,
+      "category": "개념",
+      "answer": "주이름",
+      "question": "마술하던 자들이 예수의 이름을 부르며 사용한 권세의 근거는 무엇입니까?",
+      "hintWord": "주의 이름",
+      "hintLetter": "주",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E156",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "개념",
+      "answer": "장로",
+      "question": "에베소 누구를 밀레도에 청하여 권면하였습니까?",
+      "hintWord": "장로",
+      "hintLetter": "장",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E157",
+      "book": "사도행전",
+      "chapter": 22,
+      "category": "개념",
+      "answer": "로마시민",
+      "question": "매질하려 할 때 바울이 밝힌 신분은 무엇입니까?",
+      "hintWord": "로마 시민",
+      "hintLetter": "로",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E158",
+      "book": "사도행전",
+      "chapter": 24,
+      "category": "개념",
+      "answer": "양심",
+      "question": "하나님을 향하고 사람을 향하여 무엇에 거리낌이 없기를 힘쓰노라 하였습니까?",
+      "hintWord": "양심",
+      "hintLetter": "양",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ACT-E159",
+      "book": "사도행전",
+      "chapter": 26,
+      "category": "개념",
+      "answer": "회심",
+      "question": "하늘에서 보이신 것을 내가 거스르지 아니하고에서 바울의 삶은 무엇입니까?",
+      "hintWord": "돌이킨 삶",
+      "hintLetter": "회",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E160",
+      "book": "사도행전",
+      "chapter": 27,
+      "category": "개념",
+      "answer": "믿음",
+      "question": "내가 믿으니 나와 함께 사나운 사람들도 다 그렇게 되리라 한 바울의 태도는 무엇입니까?",
+      "hintWord": "믿는 마음",
+      "hintLetter": "믿",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ACT-E161",
+      "book": "사도행전",
+      "chapter": 28,
+      "category": "개념",
+      "answer": "담대전파",
+      "question": "금하는 사람이 없이 온전히 무엇하게 하나님 나라를 전파하였습니까?",
+      "hintWord": "담대함",
+      "hintLetter": "담",
+      "difficulty": 1,
+      "stageCandidate": 1
+    }
+  ],
+  "stages": [
+    {
+      "stageId": "ACT-S001",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 1,
+      "title": "사도행전 Stage 1",
+      "grid": {
+        "rows": 8,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 1,
+          "length": 5,
+          "quizId": "ACT-E083"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 1,
+          "length": 3,
+          "quizId": "ACT-L056"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 6,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-E132"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 3,
+          "quizId": "ACT-P025"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 3,
+          "length": 3,
+          "quizId": "ACT-P018"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 6,
+          "col": 0,
+          "length": 2,
+          "quizId": "ACT-E152"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "ACT-P011"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S002",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 2,
+      "title": "사도행전 Stage 2",
+      "grid": {
+        "rows": 6,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 5,
+          "quizId": "ACT-E073"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 1,
+          "col": 2,
+          "length": 5,
+          "quizId": "ACT-P033"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-P010"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-P038"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 4,
+          "col": 2,
+          "length": 2,
+          "quizId": "ACT-E141"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 4,
+          "col": 3,
+          "length": 2,
+          "quizId": "ACT-E118"
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "row": 5,
+          "col": 3,
+          "length": 2,
+          "quizId": "ACT-E126"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S003",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 3,
+      "title": "사도행전 Stage 3",
+      "grid": {
+        "rows": 5,
+        "cols": 8
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 5,
+          "quizId": "ACT-E089"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 1,
+          "length": 4,
+          "quizId": "ACT-L044"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 3,
+          "length": 3,
+          "quizId": "ACT-P034"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 5,
+          "length": 3,
+          "quizId": "ACT-L060"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 5,
+          "length": 3,
+          "quizId": "ACT-P017"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 2,
+          "col": 7,
+          "length": 3,
+          "quizId": "ACT-P006"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 3,
+          "col": 1,
+          "length": 2,
+          "quizId": "ACT-P001"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 4,
+          "col": 0,
+          "length": 2,
+          "quizId": "ACT-P028"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S004",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 4,
+      "title": "사도행전 Stage 4",
+      "grid": {
+        "rows": 7,
+        "cols": 8
+      },
+      "words": [
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 1,
+          "col": 3,
+          "length": 5,
+          "quizId": "ACT-E070"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 3,
+          "length": 4,
+          "quizId": "ACT-E161"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 1,
+          "length": 4,
+          "quizId": "ACT-E093"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 3,
+          "col": 1,
+          "length": 4,
+          "quizId": "ACT-E157"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 5,
+          "col": 1,
+          "length": 2,
+          "quizId": "ACT-E122"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 5,
+          "length": 2,
+          "quizId": "ACT-P005"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 7,
+          "length": 2,
+          "quizId": "ACT-E120"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 4,
+          "col": 0,
+          "length": 2,
+          "quizId": "ACT-L065"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S005",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 5,
+      "title": "사도행전 Stage 5",
+      "grid": {
+        "rows": 8,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 2,
+          "col": 4,
+          "length": 5,
+          "quizId": "ACT-P031"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 2,
+          "length": 4,
+          "quizId": "ACT-P009"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 2,
+          "length": 3,
+          "quizId": "ACT-P035"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 6,
+          "col": 2,
+          "length": 3,
+          "quizId": "ACT-P030"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-L062"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 1,
+          "length": 3,
+          "quizId": "ACT-L053"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 6,
+          "col": 2,
+          "length": 2,
+          "quizId": "ACT-L059"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 1,
+          "length": 2,
+          "quizId": "ACT-E149"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S006",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 6,
+      "title": "사도행전 Stage 6",
+      "grid": {
+        "rows": 8,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 3,
+          "col": 2,
+          "length": 5,
+          "quizId": "ACT-E087"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 1,
+          "length": 4,
+          "quizId": "ACT-L047"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 6,
+          "col": 2,
+          "length": 4,
+          "quizId": "ACT-E130"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 4,
+          "length": 4,
+          "quizId": "ACT-P007"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 5,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-E134"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 2,
+          "length": 3,
+          "quizId": "ACT-P027"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 5,
+          "col": 0,
+          "length": 2,
+          "quizId": "ACT-P023"
+        },
+        {
+          "number": 7,
+          "direction": "down",
+          "row": 6,
+          "col": 5,
+          "length": 2,
+          "quizId": "ACT-E151"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S007",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 7,
+      "title": "사도행전 Stage 7",
+      "grid": {
+        "rows": 9,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 4,
+          "col": 2,
+          "length": 4,
+          "quizId": "ACT-P040"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 7,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-P016"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 4,
+          "col": 2,
+          "length": 3,
+          "quizId": "ACT-P032"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 2,
+          "col": 4,
+          "length": 3,
+          "quizId": "ACT-P002"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 2,
+          "col": 4,
+          "length": 3,
+          "quizId": "ACT-L058"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 6,
+          "length": 3,
+          "quizId": "ACT-P003"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 6,
+          "col": 0,
+          "length": 2,
+          "quizId": "ACT-L050"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 7,
+          "col": 1,
+          "length": 2,
+          "quizId": "ACT-E113"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S008",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 8,
+      "title": "사도행전 Stage 8",
+      "grid": {
+        "rows": 7,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 1,
+          "col": 4,
+          "length": 5,
+          "quizId": "ACT-E078"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 5,
+          "quizId": "ACT-E106"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 0,
+          "length": 4,
+          "quizId": "ACT-E104"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 5,
+          "col": 1,
+          "length": 4,
+          "quizId": "ACT-E075"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 1,
+          "col": 3,
+          "length": 3,
+          "quizId": "ACT-E155"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 5,
+          "length": 2,
+          "quizId": "ACT-E117"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 5,
+          "length": 2,
+          "quizId": "ACT-E098"
+        },
+        {
+          "number": 7,
+          "direction": "down",
+          "row": 5,
+          "col": 2,
+          "length": 2,
+          "quizId": "ACT-P013"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S009",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 9,
+      "title": "사도행전 Stage 9",
+      "grid": {
+        "rows": 8,
+        "cols": 8
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 2,
+          "col": 2,
+          "length": 5,
+          "quizId": "ACT-E076"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 5,
+          "col": 2,
+          "length": 4,
+          "quizId": "ACT-E068"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 3,
+          "col": 4,
+          "length": 4,
+          "quizId": "ACT-E147"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 4,
+          "length": 4,
+          "quizId": "ACT-E145"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 7,
+          "length": 4,
+          "quizId": "ACT-E095"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 4,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-L049"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 6,
+          "col": 1,
+          "length": 2,
+          "quizId": "ACT-E159"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 6,
+          "col": 1,
+          "length": 2,
+          "quizId": "ACT-E096"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S010",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 10,
+      "title": "사도행전 Stage 10",
+      "grid": {
+        "rows": 6,
+        "cols": 5
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 5,
+          "quizId": "ACT-E088"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 4,
+          "quizId": "ACT-E114"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 1,
+          "length": 3,
+          "quizId": "ACT-P039"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 4,
+          "col": 0,
+          "length": 2,
+          "quizId": "ACT-E144"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 3,
+          "length": 2,
+          "quizId": "ACT-E153"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 4,
+          "col": 0,
+          "length": 2,
+          "quizId": "ACT-E103"
+        }
+      ]
+    },
+    {
+      "stageId": "ACT-S011",
+      "book": "사도행전",
+      "bookCode": "ACT",
+      "stage": 11,
+      "title": "사도행전 Stage 11",
+      "grid": {
+        "rows": 7,
+        "cols": 4
+      },
+      "words": [
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 2,
+          "length": 5,
+          "quizId": "ACT-L057"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-P026"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 0,
+          "length": 3,
+          "quizId": "ACT-L052"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 5,
+          "col": 2,
+          "length": 2,
+          "quizId": "ACT-L048"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 1,
+          "length": 2,
+          "quizId": "ACT-E156"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 5,
+          "col": 3,
+          "length": 2,
+          "quizId": "ACT-P012"
+        }
+      ]
+    }
+  ]
+}

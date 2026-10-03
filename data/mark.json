@@ -1,0 +1,2104 @@
+{
+  "bookCode": "MRK",
+  "book": "마가복음",
+  "quizzes": [
+    {
+      "id": "MRK-P001",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "예수",
+      "question": "마가복음이 하나님의 아들로 선포하는 분은 누구입니까?",
+      "hintWord": "하나님의 아들",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-P002",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "세례요한",
+      "question": "광야에서 세례를 전파하며 예수를 세례 준 사람은 누구입니까?",
+      "hintWord": "길을 예비한 이",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-P003",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "그물을 버려두고 예수를 따른 어부 제자는 누구입니까?",
+      "hintWord": "안드레의 형제",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-P004",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "안드레",
+      "question": "베드로와 함께 예수를 따른 제자는 누구입니까?",
+      "hintWord": "베드로의 형제",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-P005",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "야고보",
+      "question": "세베대의 아들이며 요한과 함께 부름받은 제자는 누구입니까?",
+      "hintWord": "세베대의 아들",
+      "hintLetter": "야",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-P006",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "요한",
+      "question": "야고보의 동생이며 세베대의 아들인 제자는 누구입니까?",
+      "hintWord": "세베대의 아들",
+      "hintLetter": "요",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-P007",
+      "book": "마가복음",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "레위",
+      "question": "세관에 앉아 있다가 예수를 따라나선 사람은 누구입니까?",
+      "hintWord": "세리 출신",
+      "hintLetter": "레",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-P008",
+      "book": "마가복음",
+      "chapter": 3,
+      "category": "인물",
+      "answer": "가룟유다",
+      "question": "예수를 팔아넘긴 제자는 누구입니까?",
+      "hintWord": "배반한 제자",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-P009",
+      "book": "마가복음",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "야이로",
+      "question": "회당장으로 딸을 고쳐 달라고 간구한 사람은 누구입니까?",
+      "hintWord": "회당장",
+      "hintLetter": "야",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P010",
+      "book": "마가복음",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "귀신들린자",
+      "question": "군대 귀신에 들려 무덤 사이에 살던 사람은 누구입니까?",
+      "hintWord": "귀신 들린 이",
+      "hintLetter": "귀",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P011",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "헤롯",
+      "question": "요한의 목을 벤 명령을 내린 왕은 누구입니까?",
+      "hintWord": "갈릴리의 왕",
+      "hintLetter": "헤",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-P012",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "헤로디아",
+      "question": "요한의 죽음을 원한 헤롯의 아내는 누구입니까?",
+      "hintWord": "헤롯의 아내",
+      "hintLetter": "헤",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P013",
+      "book": "마가복음",
+      "chapter": 10,
+      "category": "인물",
+      "answer": "바디매오",
+      "question": "길가에서 눈먼 자로 고침받은 사람은 누구입니까?",
+      "hintWord": "눈먼 거지",
+      "hintLetter": "바",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P014",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "인물",
+      "answer": "가야바",
+      "question": "예수께서 끌려가 심문받으신 대제사장은 누구입니까?",
+      "hintWord": "대제사장",
+      "hintLetter": "가",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P015",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "인물",
+      "answer": "빌라도",
+      "question": "예수를 십자가에 넘긴 총독은 누구입니까?",
+      "hintWord": "로마 총독",
+      "hintLetter": "빌",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-P016",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "인물",
+      "answer": "바라바",
+      "question": "폭동과 살인으로 갇혔다가 풀려난 죄수는 누구입니까?",
+      "hintWord": "풀려난 죄수",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P017",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "인물",
+      "answer": "시몬",
+      "question": "구레네 사람으로 예수의 십자가를 진 사람은 누구입니까?",
+      "hintWord": "십자가를 진 사람",
+      "hintLetter": "시",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P018",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "인물",
+      "answer": "백부장",
+      "question": "참으로 이 사람은 하나님의 아들이었도다 고백한 군인은 누구입니까?",
+      "hintWord": "로마 군인",
+      "hintLetter": "백",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P019",
+      "book": "마가복음",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "막달라마리아",
+      "question": "안식 후 첫날 일찍 무덤에 간 여인 가운데 한 사람은 누구입니까?",
+      "hintWord": "무덤에 간 여인",
+      "hintLetter": "막",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-P020",
+      "book": "마가복음",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "살로메",
+      "question": "무덤에 향품을 가지고 간 여인 가운데 한 사람은 누구입니까?",
+      "hintWord": "무덤에 간 여인",
+      "hintLetter": "살",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "MRK-L021",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "광야",
+      "question": "세례 요한이 외치며 예수께서 시험받으신 곳은 어디입니까?",
+      "hintWord": "거친 들",
+      "hintLetter": "광",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-L022",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "갈릴리",
+      "question": "예수께서 하나님의 복음을 전파하기 시작하신 지역은 어디입니까?",
+      "hintWord": "북쪽 지역",
+      "hintLetter": "갈",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-L023",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "가버나움",
+      "question": "안식일에 회당에서 가르치신 동네는 어디입니까?",
+      "hintWord": "갈릴리의 동네",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-L024",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "요단강",
+      "question": "예수께서 세례를 받으신 강은 어디입니까?",
+      "hintWord": "세례의 강",
+      "hintLetter": "요",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-L025",
+      "book": "마가복음",
+      "chapter": 5,
+      "category": "지명",
+      "answer": "거라사",
+      "question": "군대 귀신 들린 자를 고치신 지방은 어디입니까?",
+      "hintWord": "바다 건너편",
+      "hintLetter": "거",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-L026",
+      "book": "마가복음",
+      "chapter": 7,
+      "category": "지명",
+      "answer": "두로",
+      "question": "수로보니게 여인의 딸을 고치신 지방은 어디입니까?",
+      "hintWord": "이방 지역",
+      "hintLetter": "두",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-L027",
+      "book": "마가복음",
+      "chapter": 8,
+      "category": "지명",
+      "answer": "가이사랴빌립보",
+      "question": "베드로가 신앙을 고백한 마을 지역은 어디입니까?",
+      "hintWord": "빌립보 근처",
+      "hintLetter": "가",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-L028",
+      "book": "마가복음",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "예루살렘",
+      "question": "나귀를 타고 입성하신 성은 어디입니까?",
+      "hintWord": "거룩한 성",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-L029",
+      "book": "마가복음",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "베다니",
+      "question": "무화과나무를 보시고 성전에 들어가시기 전 머무신 동네는 어디입니까?",
+      "hintWord": "감람산 근처",
+      "hintLetter": "베",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-L030",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "지명",
+      "answer": "겟세마네",
+      "question": "예수께서 기도하시다 잡히신 곳은 어디입니까?",
+      "hintWord": "감람산 동산",
+      "hintLetter": "겟",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-L031",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "지명",
+      "answer": "골고다",
+      "question": "예수께서 십자가에 못 박히신 곳은 어디입니까?",
+      "hintWord": "해골의 곳",
+      "hintLetter": "골",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-L032",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "나사렛",
+      "question": "예수께서 나오신 갈릴리의 동네는 어디입니까?",
+      "hintWord": "예수의 동네",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-L033",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "지명",
+      "answer": "고향",
+      "question": "예수께서 배척받으신 자신의 마을을 무엇이라 부릅니까?",
+      "hintWord": "자란 마을",
+      "hintLetter": "고",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-L034",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "지명",
+      "answer": "대제사장집",
+      "question": "예수께서 붙잡혀 끌려가신 곳은 어디입니까?",
+      "hintWord": "가야바의 집",
+      "hintLetter": "대",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E035",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "세례",
+      "question": "하늘이 갈라지며 성령이 비둘기같이 임하신 예식은 무엇입니까?",
+      "hintWord": "물에 잠기는 예식",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E036",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "시험",
+      "question": "광야에서 사탄에게 받으신 일은 무엇입니까?",
+      "hintWord": "유혹받으심",
+      "hintLetter": "시",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E037",
+      "book": "마가복음",
+      "chapter": 2,
+      "category": "사건",
+      "answer": "중풍병자고침",
+      "question": "침상을 들고 집으로 가게 하신 기적은 무엇입니까?",
+      "hintWord": "중풍병자를 고침",
+      "hintLetter": "중",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E038",
+      "book": "마가복음",
+      "chapter": 4,
+      "category": "사건",
+      "answer": "바람잠잠",
+      "question": "바람아 잠잠하라 꾸짖으시니 바람이 그친 사건은 무엇입니까?",
+      "hintWord": "바다를 잔잔케 함",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E039",
+      "book": "마가복음",
+      "chapter": 5,
+      "category": "사건",
+      "answer": "혈루증고침",
+      "question": "옷에 손을 대어 고침받은 여인의 병은 무엇입니까?",
+      "hintWord": "열두 해의 병",
+      "hintLetter": "혈",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E040",
+      "book": "마가복음",
+      "chapter": 5,
+      "category": "사건",
+      "answer": "소녀살림",
+      "question": "야이로의 딸을 일어나게 하신 일은 무엇입니까?",
+      "hintWord": "소녀를 살림",
+      "hintLetter": "소",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E041",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "사건",
+      "answer": "오병이어",
+      "question": "떡 다섯과 물고기 둘로 오천 명을 먹이신 기적은 무엇입니까?",
+      "hintWord": "오천 명을 먹임",
+      "hintLetter": "오",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E042",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "사건",
+      "answer": "물위를걸음",
+      "question": "바다 위로 걸어오신 일은 무엇입니까?",
+      "hintWord": "물 위를 걸으심",
+      "hintLetter": "물",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E043",
+      "book": "마가복음",
+      "chapter": 9,
+      "category": "사건",
+      "answer": "변화",
+      "question": "옷이 광채가 나며 희어져 변화하신 사건은 무엇입니까?",
+      "hintWord": "모습이 변하심",
+      "hintLetter": "변",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E044",
+      "book": "마가복음",
+      "chapter": 11,
+      "category": "사건",
+      "answer": "나귀입성",
+      "question": "나귀를 타고 입성하신 일은 무엇입니까?",
+      "hintWord": "나귀를 타심",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E045",
+      "book": "마가복음",
+      "chapter": 11,
+      "category": "사건",
+      "answer": "성전청결",
+      "question": "성전에서 매매하는 자들을 내쫓으신 일은 무엇입니까?",
+      "hintWord": "성전을 깨끗케 함",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E046",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "사건",
+      "answer": "성만찬",
+      "question": "유월절에 떡과 잔을 주신 식사는 무엇입니까?",
+      "hintWord": "마지막 만찬",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E047",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "사건",
+      "answer": "배반",
+      "question": "유다가 입맞춤으로 예수를 넘긴 일은 무엇입니까?",
+      "hintWord": "팔아넘김",
+      "hintLetter": "배",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E048",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "사건",
+      "answer": "십자가",
+      "question": "예수께서 못 박혀 죽으신 형은 무엇입니까?",
+      "hintWord": "십자가 처형",
+      "hintLetter": "십",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E049",
+      "book": "마가복음",
+      "chapter": 16,
+      "category": "사건",
+      "answer": "부활",
+      "question": "안식 후 첫날 살아나신 사건은 무엇입니까?",
+      "hintWord": "다시 살아나심",
+      "hintLetter": "부",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E050",
+      "book": "마가복음",
+      "chapter": 16,
+      "category": "사건",
+      "answer": "승천",
+      "question": "하늘로 올려지신 사건은 무엇입니까?",
+      "hintWord": "하늘로 올라가심",
+      "hintLetter": "승",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E051",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "복음",
+      "question": "하나님의 아들 예수 그리스도의 무엇의 시작이라 하였습니까?",
+      "hintWord": "기쁜 소식",
+      "hintLetter": "복",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E052",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "회개",
+      "question": "때가 찼고 하나님의 나라가 가까이 왔으니 무엇을 하고 복음을 믿으라 하셨습니까?",
+      "hintWord": "돌이킴",
+      "hintLetter": "회",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E053",
+      "book": "마가복음",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "안식일",
+      "question": "인자는 무엇의 주인이니라 하셨습니까?",
+      "hintWord": "쉬는 날",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E054",
+      "book": "마가복음",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "하나님의뜻",
+      "question": "누구든지 하나님의 뜻대로 하는 자가 내 형제이라 하신 기준은 무엇입니까?",
+      "hintWord": "하나님의 뜻",
+      "hintLetter": "하",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E055",
+      "book": "마가복음",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "씨뿌림",
+      "question": "말씀을 듣는 마음을 네 가지 땅에 비유하신 비유는 무엇입니까?",
+      "hintWord": "씨 뿌리는 비유",
+      "hintLetter": "씨",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E056",
+      "book": "마가복음",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "자기부인",
+      "question": "나를 따라오려거든 무엇을 하고 자기 십자가를 지라 하셨습니까?",
+      "hintWord": "자기를 부인함",
+      "hintLetter": "자",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E057",
+      "book": "마가복음",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "섬김",
+      "question": "누구든지 첫째가 되고자 하면 끝이 되며 모든 사람의 무엇이 되어야 하리라 하셨습니까?",
+      "hintWord": "남을 위함",
+      "hintLetter": "섬",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E058",
+      "book": "마가복음",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "영생",
+      "question": "내가 무엇을 하여야 무엇을 얻으리이까 한 질문의 주제는 무엇입니까?",
+      "hintWord": "영원한 생명",
+      "hintLetter": "영",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E059",
+      "book": "마가복음",
+      "chapter": 12,
+      "category": "개념",
+      "answer": "사랑",
+      "question": "첫째 되는 계명으로 마음을 다하여 하나님을 하라 하신 것은 무엇입니까?",
+      "hintWord": "하나님을 위함",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E060",
+      "book": "마가복음",
+      "chapter": 12,
+      "category": "개념",
+      "answer": "이웃사랑",
+      "question": "둘째는 네 이웃을 네 자신과 같이 하라 하신 것은 무엇입니까?",
+      "hintWord": "이웃을 위함",
+      "hintLetter": "이",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E061",
+      "book": "마가복음",
+      "chapter": 13,
+      "category": "개념",
+      "answer": "깨어있음",
+      "question": "그 날을 모르니 깨어 있으라 하신 태도는 무엇입니까?",
+      "hintWord": "정신을 차림",
+      "hintLetter": "깨",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E062",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "새언약",
+      "question": "많은 사람을 위하여 흘리는 나의 피 곧 언약의 피와 관련된 것은 무엇입니까?",
+      "hintWord": "새로운 약속",
+      "hintLetter": "새",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E063",
+      "book": "마가복음",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "어린아이",
+      "question": "하나님의 나라를 이런 자와 같이 받지 않는 자는 들어가지 못하리라 하신 대상은 누구입니까?",
+      "hintWord": "작은 아이",
+      "hintLetter": "어",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E064",
+      "book": "마가복음",
+      "chapter": 12,
+      "category": "개념",
+      "answer": "과부의헌금",
+      "question": "두 렙돈을 넣은 여인의 헌금이 더 많다고 하신 이유는 무엇입니까?",
+      "hintWord": "과부의 헌금",
+      "hintLetter": "과",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E065",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "비둘기",
+      "question": "세례 받으실 때 성령이 같이 임하신 모습은 무엇입니까?",
+      "hintWord": "성령의 모습",
+      "hintLetter": "비",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E066",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "그물",
+      "question": "베드로와 안드레가 바다에 던지던 것은 무엇입니까?",
+      "hintWord": "물고기 잡는 그물",
+      "hintLetter": "그",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E067",
+      "book": "마가복음",
+      "chapter": 4,
+      "category": "사물",
+      "answer": "배",
+      "question": "바람과 파도가 일 때 제자들이 탄 것은 무엇입니까?",
+      "hintWord": "바다의 배",
+      "hintLetter": "배",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E068",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "떡다섯",
+      "question": "오병이어에 사용된 떡의 수는 몇입니까?",
+      "hintWord": "떡의 개수",
+      "hintLetter": "떡",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E069",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "물고기",
+      "question": "오병이어에 사용된 것은 떡과 무엇입니까?",
+      "hintWord": "바다의 생물",
+      "hintLetter": "물",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E070",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "사물",
+      "answer": "떡",
+      "question": "이것은 내 몸이니라 하시며 떼신 것은 무엇입니까?",
+      "hintWord": "성만찬의 떡",
+      "hintLetter": "떡",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E071",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "사물",
+      "answer": "잔",
+      "question": "이것은 많은 사람을 위하여 흘리는 나의 피니라 하신 것은 무엇입니까?",
+      "hintWord": "성만찬의 잔",
+      "hintLetter": "잔",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E072",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "사물",
+      "answer": "가시관",
+      "question": "군인들이 가시로 엮어 씌운 것은 무엇입니까?",
+      "hintWord": "가시로 만든 관",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E073",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "사물",
+      "answer": "십자가",
+      "question": "예수께서 못 박히신 나무 형은 무엇입니까?",
+      "hintWord": "십자가 나무",
+      "hintLetter": "십",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E074",
+      "book": "마가복음",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "무덤",
+      "question": "여인들이 향품을 바르려 간 곳은 무엇입니까?",
+      "hintWord": "장사된 곳",
+      "hintLetter": "무",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E075",
+      "book": "마가복음",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "큰돌",
+      "question": "무덤 문에 있던 것으로 굴려져 있던 것은 무엇입니까?",
+      "hintWord": "무덤의 돌",
+      "hintLetter": "큰",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E076",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "낙타털옷",
+      "question": "세례 요한이 입은 옷의 재료는 무엇입니까?",
+      "hintWord": "낙타 털",
+      "hintLetter": "낙",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E077",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "가죽띠",
+      "question": "세례 요한이 허리에 띤 것은 무엇입니까?",
+      "hintWord": "허리띠",
+      "hintLetter": "가",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E078",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "메뚜기",
+      "question": "세례 요한이 먹은 음식 가운데 하나는 무엇입니까?",
+      "hintWord": "곤충 음식",
+      "hintLetter": "메",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E079",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "석청",
+      "question": "세례 요한이 먹은 음식 가운데 하나는 무엇입니까?",
+      "hintWord": "들꿀",
+      "hintLetter": "석",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E080",
+      "book": "마가복음",
+      "chapter": 4,
+      "category": "사물",
+      "answer": "등불",
+      "question": "등불을 가져와 말 아래에 두겠느냐 하신 비유의 대상은 무엇입니까?",
+      "hintWord": "밝히는 불",
+      "hintLetter": "등",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E081",
+      "book": "마가복음",
+      "chapter": 5,
+      "category": "사물",
+      "answer": "돼지떼",
+      "question": "군대 귀신이 들어가 바다에 빠져 죽은 짐승은 무엇입니까?",
+      "hintWord": "돼지 무리",
+      "hintLetter": "돼",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E082",
+      "book": "마가복음",
+      "chapter": 11,
+      "category": "사물",
+      "answer": "나귀새끼",
+      "question": "입성 때 타신 짐승은 무엇입니까?",
+      "hintWord": "작은 나귀",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E083",
+      "book": "마가복음",
+      "chapter": 11,
+      "category": "사물",
+      "answer": "무화과나무",
+      "question": "잎만 있고 열매가 없어 저주하신 나무는 무엇입니까?",
+      "hintWord": "무화과",
+      "hintLetter": "무",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E084",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "사물",
+      "answer": "옥합",
+      "question": "한 여인이 깨뜨려 예수의 머리에 부은 향유 그릇은 무엇입니까?",
+      "hintWord": "향유 그릇",
+      "hintLetter": "옥",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E085",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "사물",
+      "answer": "향유",
+      "question": "옥합에 담겨 예수께 부은 것은 무엇입니까?",
+      "hintWord": "값진 향유",
+      "hintLetter": "향",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E086",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "사물",
+      "answer": "은삼십",
+      "question": "유다가 예수를 팔기로 한 값은 얼마입니까?",
+      "hintWord": "배반의 값",
+      "hintLetter": "은",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E087",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "사물",
+      "answer": "신",
+      "question": "제비 뽑아 나눈 예수의 옷과 관련된 것은 무엇입니까?",
+      "hintWord": "옷가지",
+      "hintLetter": "신",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "MRK-E088",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "사물",
+      "answer": "포도주",
+      "question": "신 포도주를 해융에 머금어 드린 것은 무엇입니까?",
+      "hintWord": "신 포도주",
+      "hintLetter": "포",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E089",
+      "book": "마가복음",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "죄사함",
+      "question": "중풍병자에게 먼저 선포하신 은혜는 무엇입니까?",
+      "hintWord": "죄를 용서함",
+      "hintLetter": "죄",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E090",
+      "book": "마가복음",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "열두제자",
+      "question": "산에 불러 가까이 두시고 보내사 전도하게 하신 무리의 수는 몇입니까?",
+      "hintWord": "열두 제자",
+      "hintLetter": "열",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E091",
+      "book": "마가복음",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "믿음",
+      "question": "어찌하여 이렇게 무서워하느냐 너희가 어찌 무엇이 없느냐 하신 말씀의 핵심은 무엇입니까?",
+      "hintWord": "믿는 마음",
+      "hintLetter": "믿",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E092",
+      "book": "마가복음",
+      "chapter": 5,
+      "category": "개념",
+      "answer": "평안",
+      "question": "소녀에게 달리다굼 하시며 주시고자 하신 것은 무엇입니까?",
+      "hintWord": "평안함",
+      "hintLetter": "평",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E093",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "안식",
+      "question": "제자들이 사역하고 돌아와 한적한 곳에서 쉬라 하신 것은 무엇입니까?",
+      "hintWord": "쉼",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E094",
+      "book": "마가복음",
+      "chapter": 7,
+      "category": "개념",
+      "answer": "마음정결",
+      "question": "사람을 더럽게 하는 것은 속에서 나오는 것이라 하신 가르침의 핵심은 무엇입니까?",
+      "hintWord": "마음의 깨끗함",
+      "hintLetter": "마",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E095",
+      "book": "마가복음",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "십자가짐",
+      "question": "자기 십자가를 지고 나를 따를 것이니라에서 강조된 것은 무엇입니까?",
+      "hintWord": "십자가를 짐",
+      "hintLetter": "십",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E096",
+      "book": "마가복음",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "기도",
+      "question": "이런 유는 무엇으로 아니면 나갈 수 없느니라 하신 것은 무엇입니까?",
+      "hintWord": "기도함",
+      "hintLetter": "기",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E097",
+      "book": "마가복음",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "이혼금지",
+      "question": "하나님이 짝지어 주신 것을 사람이 나누지 못할지니라에서 강조된 것은 무엇입니까?",
+      "hintWord": "이혼을 금함",
+      "hintLetter": "이",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E098",
+      "book": "마가복음",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "섬김의길",
+      "question": "인자가 온 것은 섬김을 받으려 함이 아니라 도리어 섬기려 함이니라에서 강조된 것은 무엇입니까?",
+      "hintWord": "섬기는 길",
+      "hintLetter": "섬",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E099",
+      "book": "마가복음",
+      "chapter": 11,
+      "category": "개념",
+      "answer": "믿음기도",
+      "question": "하나님을 믿으라 하시며 기도할 때 필요하다고 하신 것은 무엇입니까?",
+      "hintWord": "믿는 기도",
+      "hintLetter": "믿",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E100",
+      "book": "마가복음",
+      "chapter": 12,
+      "category": "개념",
+      "answer": "부활",
+      "question": "하나님은 죽은 자의 하나님이 아니요 산 자의 하나님이시니라에서 밝히신 것은 무엇입니까?",
+      "hintWord": "다시 살아남",
+      "hintLetter": "부",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E101",
+      "book": "마가복음",
+      "chapter": 13,
+      "category": "개념",
+      "answer": "복음전파",
+      "question": "복음이 먼저 만국에 전파되어야 할 것이니라에서 강조된 것은 무엇입니까?",
+      "hintWord": "복음을 전함",
+      "hintLetter": "복",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E102",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "깨어기도",
+      "question": "시험에 들지 않게 깨어 있어 기도하라 하신 말씀의 핵심은 무엇입니까?",
+      "hintWord": "깨어 기도함",
+      "hintLetter": "깨",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E103",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "개념",
+      "answer": "대속",
+      "question": "자기 목숨을 많은 사람의 대속물로 주려 함이니라에서 관련된 것은 무엇입니까?",
+      "hintWord": "대신 갚음",
+      "hintLetter": "대",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E104",
+      "book": "마가복음",
+      "chapter": 16,
+      "category": "개념",
+      "answer": "세계선교",
+      "question": "온 천하에 다니며 만민에게 복음을 전파하라 하신 사명은 무엇입니까?",
+      "hintWord": "세계 선교",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E105",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "귀신쫓음",
+      "question": "회당에서 더러운 귀신을 꾸짖어 나가게 하신 일은 무엇입니까?",
+      "hintWord": "귀신을 쫓음",
+      "hintLetter": "귀",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E106",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "열병고침",
+      "question": "시몬의 장모의 열병을 고쳐 주신 일은 무엇입니까?",
+      "hintWord": "열병을 고침",
+      "hintLetter": "열",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E107",
+      "book": "마가복음",
+      "chapter": 2,
+      "category": "사건",
+      "answer": "안식일논쟁",
+      "question": "밀 이삭을 잘라 먹은 일로 일어난 논쟁은 무엇입니까?",
+      "hintWord": "안식일 다툼",
+      "hintLetter": "안",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E108",
+      "book": "마가복음",
+      "chapter": 3,
+      "category": "사건",
+      "answer": "손마름고침",
+      "question": "안식일에 손 마른 사람을 고치신 일은 무엇입니까?",
+      "hintWord": "손을 고침",
+      "hintLetter": "손",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E109",
+      "book": "마가복음",
+      "chapter": 7,
+      "category": "사건",
+      "answer": "귀먹고침",
+      "question": "에바다 하시며 귀를 열고 혀를 푸신 기적은 무엇입니까?",
+      "hintWord": "귀먹고 말 더듬는 이를 고침",
+      "hintLetter": "귀",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E110",
+      "book": "마가복음",
+      "chapter": 8,
+      "category": "사건",
+      "answer": "소경고침",
+      "question": "벳새다에서 소경의 눈을 고치신 일은 무엇입니까?",
+      "hintWord": "소경을 고침",
+      "hintLetter": "소",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E111",
+      "book": "마가복음",
+      "chapter": 9,
+      "category": "사건",
+      "answer": "귀신들린아이",
+      "question": "아버지 없는 듯 경련하는 아이를 고쳐 주신 일은 무엇입니까?",
+      "hintWord": "아이 귀신을 쫓음",
+      "hintLetter": "귀",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E112",
+      "book": "마가복음",
+      "chapter": 10,
+      "category": "사건",
+      "answer": "부자청년",
+      "question": "재물이 많아 근심하며 떠난 사람은 누구와 관련된 사건입니까?",
+      "hintWord": "부자 청년",
+      "hintLetter": "부",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E113",
+      "book": "마가복음",
+      "chapter": 12,
+      "category": "사건",
+      "answer": "포도원비유",
+      "question": "악한 농부들이 주인의 아들을 죽인 비유는 무엇입니까?",
+      "hintWord": "포도원 비유",
+      "hintLetter": "포",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E114",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "사건",
+      "answer": "기도",
+      "question": "겟세마네에서 아버지여 이 잔을 내게서 옮기시옵소서 하신 일은 무엇입니까?",
+      "hintWord": "간절히 구함",
+      "hintLetter": "기",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E115",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "사건",
+      "answer": "운명",
+      "question": "크게 소리 지르시고 운명하신 일은 무엇입니까?",
+      "hintWord": "숨을 거두심",
+      "hintLetter": "운",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E116",
+      "book": "마가복음",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "권세",
+      "question": "서기관과 달리 가르치심에 놀란 이유는 그 가르치심에 무엇이 있었기 때문입니까?",
+      "hintWord": "가르치는 힘",
+      "hintLetter": "권",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E117",
+      "book": "마가복음",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "금식",
+      "question": "신랑과 함께 있을 때는 할 수 없다 하신 것은 무엇입니까?",
+      "hintWord": "음식을 끊음",
+      "hintLetter": "금",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E118",
+      "book": "마가복음",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "하나님나라",
+      "question": "씨앗이 자라 열매를 맺듯 자라는 것은 무엇입니까?",
+      "hintWord": "하나님의 나라",
+      "hintLetter": "하",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E119",
+      "book": "마가복음",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "믿음없음",
+      "question": "고향에서 능력을 행하지 못하신 이유는 그들의 무엇이 없음 때문입니까?",
+      "hintWord": "믿지 않음",
+      "hintLetter": "믿",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E120",
+      "book": "마가복음",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "그리스도고백",
+      "question": "주는 그리스도시니이다 한 베드로의 고백은 무엇입니까?",
+      "hintWord": "그리스도 고백",
+      "hintLetter": "그",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E121",
+      "book": "마가복음",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "첫째됨",
+      "question": "누구든지 첫째가 되고자 하면 뭇 사람의 끝이 되며 뭇 사람을 섬기는 자가 되어야 하리라에서 강조된 것은 무엇입니까?",
+      "hintWord": "섬김으로 첫째 됨",
+      "hintLetter": "첫",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E122",
+      "book": "마가복음",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "영생유업",
+      "question": "어린아이와 같이 하나님의 나라를 받는 자와 관련된 기업은 무엇입니까?",
+      "hintWord": "영원한 유업",
+      "hintLetter": "영",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E123",
+      "book": "마가복음",
+      "chapter": 11,
+      "category": "개념",
+      "answer": "용서",
+      "question": "기도할 때에 누구에 대한 무엇을 하라 하셨습니까?",
+      "hintWord": "허물을 덮음",
+      "hintLetter": "용",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "MRK-E124",
+      "book": "마가복음",
+      "chapter": 12,
+      "category": "개념",
+      "answer": "세금",
+      "question": "가이사의 것은 가이사에게 하나님의 것은 하나님께 바치라 하신 가르침과 관련된 것은 무엇입니까?",
+      "hintWord": "세금",
+      "hintLetter": "세",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E125",
+      "book": "마가복음",
+      "chapter": 13,
+      "category": "개념",
+      "answer": "환난",
+      "question": "그 날들은 그 전에 없던 무엇이 있겠음이라 하신 것은 무엇입니까?",
+      "hintWord": "큰 어려움",
+      "hintLetter": "환",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "MRK-E126",
+      "book": "마가복음",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "순종",
+      "question": "나의 원대로 마시옵고 아버지의 원대로 하옵소서에서 나타난 태도는 무엇입니까?",
+      "hintWord": "뜻에 따름",
+      "hintLetter": "순",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E127",
+      "book": "마가복음",
+      "chapter": 15,
+      "category": "개념",
+      "answer": "하나님의아들",
+      "question": "백부장이 고백한 예수의 정체는 무엇입니까?",
+      "hintWord": "하나님의 아들",
+      "hintLetter": "하",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "MRK-E128",
+      "book": "마가복음",
+      "chapter": 16,
+      "category": "개념",
+      "answer": "표적",
+      "question": "믿는 자들에게 따르는 일들로 귀신을 쫓고 방언을 말하는 것은 무엇입니까?",
+      "hintWord": "따르는 표적",
+      "hintLetter": "표",
+      "difficulty": 2,
+      "stageCandidate": 3
+    }
+  ],
+  "stages": [
+    {
+      "stageId": "MRK-S001",
+      "book": "마가복음",
+      "bookCode": "MRK",
+      "stage": 1,
+      "title": "마가복음 Stage 1",
+      "grid": {
+        "rows": 7,
+        "cols": 8
+      },
+      "words": [
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 2,
+          "length": 4,
+          "quizId": "MRK-E110"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 5,
+          "length": 4,
+          "quizId": "MRK-E109"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 3,
+          "col": 2,
+          "length": 4,
+          "quizId": "MRK-E040"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 4,
+          "length": 4,
+          "quizId": "MRK-E082"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 5,
+          "col": 2,
+          "length": 3,
+          "quizId": "MRK-P020"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 6,
+          "col": 0,
+          "length": 3,
+          "quizId": "MRK-E055"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 5,
+          "length": 2,
+          "quizId": "MRK-L033"
+        }
+      ]
+    },
+    {
+      "stageId": "MRK-S002",
+      "book": "마가복음",
+      "bookCode": "MRK",
+      "stage": 2,
+      "title": "마가복음 Stage 2",
+      "grid": {
+        "rows": 7,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 4,
+          "quizId": "MRK-E041"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 2,
+          "length": 4,
+          "quizId": "MRK-E061"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 3,
+          "col": 2,
+          "length": 4,
+          "quizId": "MRK-E102"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 2,
+          "col": 5,
+          "length": 4,
+          "quizId": "MRK-E099"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 6,
+          "col": 0,
+          "length": 3,
+          "quizId": "MRK-P015"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 5,
+          "col": 2,
+          "length": 2,
+          "quizId": "MRK-E096"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 2,
+          "col": 5,
+          "length": 2,
+          "quizId": "MRK-E091"
+        }
+      ]
+    },
+    {
+      "stageId": "MRK-S003",
+      "book": "마가복음",
+      "bookCode": "MRK",
+      "stage": 3,
+      "title": "마가복음 Stage 3",
+      "grid": {
+        "rows": 8,
+        "cols": 5
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 5,
+          "quizId": "MRK-P010"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 4,
+          "quizId": "MRK-E105"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 4,
+          "length": 4,
+          "quizId": "MRK-E119"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 5,
+          "col": 0,
+          "length": 4,
+          "quizId": "MRK-E095"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 5,
+          "col": 0,
+          "length": 3,
+          "quizId": "MRK-E048"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 5,
+          "col": 2,
+          "length": 3,
+          "quizId": "MRK-P014"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 7,
+          "col": 2,
+          "length": 3,
+          "quizId": "MRK-P016"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 3,
+          "length": 2,
+          "quizId": "MRK-E051"
+        }
+      ]
+    },
+    {
+      "stageId": "MRK-S004",
+      "book": "마가복음",
+      "bookCode": "MRK",
+      "stage": 4,
+      "title": "마가복음 Stage 4",
+      "grid": {
+        "rows": 6,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 1,
+          "col": 5,
+          "length": 5,
+          "quizId": "MRK-L034"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 3,
+          "col": 3,
+          "length": 4,
+          "quizId": "MRK-E060"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 4,
+          "quizId": "MRK-E063"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 4,
+          "quizId": "MRK-P012"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 1,
+          "length": 3,
+          "quizId": "MRK-P009"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "MRK-P011"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 0,
+          "length": 2,
+          "quizId": "MRK-L021"
+        }
+      ]
+    },
+    {
+      "stageId": "MRK-S005",
+      "book": "마가복음",
+      "bookCode": "MRK",
+      "stage": 5,
+      "title": "마가복음 Stage 5",
+      "grid": {
+        "rows": 7,
+        "cols": 13
+      },
+      "words": [
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 2,
+          "length": 5,
+          "quizId": "MRK-E108"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 6,
+          "length": 4,
+          "quizId": "MRK-E106"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 6,
+          "length": 4,
+          "quizId": "MRK-E090"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 9,
+          "length": 4,
+          "quizId": "MRK-E056"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 3,
+          "col": 3,
+          "length": 4,
+          "quizId": "MRK-E094"
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "row": 6,
+          "col": 0,
+          "length": 4,
+          "quizId": "MRK-E045"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 9,
+          "length": 4,
+          "quizId": "MRK-E112"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 11,
+          "length": 2,
+          "quizId": "MRK-E079"
+        }
+      ]
+    },
+    {
+      "stageId": "MRK-S006",
+      "book": "마가복음",
+      "bookCode": "MRK",
+      "stage": 6,
+      "title": "마가복음 Stage 6",
+      "grid": {
+        "rows": 7,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 4,
+          "length": 5,
+          "quizId": "MRK-E064"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 2,
+          "length": 5,
+          "quizId": "MRK-E083"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 1,
+          "length": 5,
+          "quizId": "MRK-E054"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 2,
+          "col": 1,
+          "length": 5,
+          "quizId": "MRK-E118"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 6,
+          "col": 0,
+          "length": 3,
+          "quizId": "MRK-L025"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 4,
+          "col": 3,
+          "length": 2,
+          "quizId": "MRK-E124"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 0,
+          "col": 6,
+          "length": 2,
+          "quizId": "MRK-E074"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 4,
+          "col": 3,
+          "length": 2,
+          "quizId": "MRK-E035"
+        }
+      ]
+    },
+    {
+      "stageId": "MRK-S007",
+      "book": "마가복음",
+      "bookCode": "MRK",
+      "stage": 7,
+      "title": "마가복음 Stage 7",
+      "grid": {
+        "rows": 6,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 0,
+          "length": 4,
+          "quizId": "MRK-L023"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 4,
+          "quizId": "MRK-P008"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 3,
+          "length": 3,
+          "quizId": "MRK-L029"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 3,
+          "length": 3,
+          "quizId": "MRK-P003"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 4,
+          "col": 0,
+          "length": 3,
+          "quizId": "MRK-L032"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 5,
+          "length": 2,
+          "quizId": "MRK-L026"
+        }
+      ]
+    },
+    {
+      "stageId": "MRK-S008",
+      "book": "마가복음",
+      "bookCode": "MRK",
+      "stage": 8,
+      "title": "마가복음 Stage 8",
+      "grid": {
+        "rows": 5,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 5,
+          "quizId": "MRK-E107"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 3,
+          "length": 3,
+          "quizId": "MRK-P004"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 1,
+          "length": 3,
+          "quizId": "MRK-E053"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 1,
+          "length": 2,
+          "quizId": "MRK-E093"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "MRK-E117"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 5,
+          "length": 2,
+          "quizId": "MRK-P007"
+        }
+      ]
+    }
+  ]
+}
