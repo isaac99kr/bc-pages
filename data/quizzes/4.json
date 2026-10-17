@@ -1,0 +1,154 @@
+{
+  "id": 4,
+  "date": "2026-10-14",
+  "publishedAt": "2026-10-14",
+  "timezone": "Asia/Seoul",
+  "title": "여호와의 절기",
+  "theme": {
+    "books": [
+      "레위기"
+    ],
+    "note": "절기와 희년의 규례"
+  },
+  "grid": {
+    "rows": 6,
+    "cols": 4
+  },
+  "quizzes": [
+    {
+      "id": "Q4-01",
+      "book": "레위기",
+      "chapter": 25,
+      "category": "개념",
+      "answer": "자유",
+      "question": "오십 년 째 희년에 선포되는 것은 무엇입니까?",
+      "hintVerse": "레25:10",
+      "hintLetter": "자",
+      "difficulty": 1
+    },
+    {
+      "id": "Q4-02",
+      "book": "레위기",
+      "chapter": 23,
+      "category": "사건",
+      "answer": "유월절",
+      "question": "애굽에서 건져 내신 밤을 기념하여 정월 십사일 저녁에 지키라 하신 절기는 무엇입니까?",
+      "hintVerse": "레23:5",
+      "hintLetter": "유",
+      "difficulty": 1
+    },
+    {
+      "id": "Q4-03",
+      "book": "레위기",
+      "chapter": 23,
+      "category": "사건",
+      "answer": "초실절",
+      "question": "첫 이삭 한 단을 제사장에게 가져오는 절기와 관련된 이름은 무엇입니까?",
+      "hintVerse": "레23:10",
+      "hintLetter": "초",
+      "difficulty": 2
+    },
+    {
+      "id": "Q4-04",
+      "book": "레위기",
+      "chapter": 23,
+      "category": "사건",
+      "answer": "초막절",
+      "question": "일곱째 달 십오일에 시작하는, 이레 동안 지키는 절기는 무엇입니까?",
+      "hintVerse": "레23:34",
+      "hintLetter": "초",
+      "difficulty": 1
+    },
+    {
+      "id": "Q4-05",
+      "book": "레위기",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "성막",
+      "question": "여호와께서 모세를 부르시고 제물에 대해 말씀하신 회막은 무엇입니까?",
+      "hintVerse": "레1:1",
+      "hintLetter": "성",
+      "difficulty": 1
+    },
+    {
+      "id": "Q4-06",
+      "book": "레위기",
+      "chapter": 23,
+      "category": "개념",
+      "answer": "절기",
+      "question": "여호와의 모임을 공포하는 거룩한 대회들을 무엇이라 부릅니까?",
+      "hintVerse": "레23:2",
+      "hintLetter": "절",
+      "difficulty": 1
+    },
+    {
+      "id": "Q4-07",
+      "book": "레위기",
+      "chapter": 25,
+      "category": "개념",
+      "answer": "기업",
+      "question": "땅을 영영히 팔지 못하는 이유로, 땅은 여호와의 것이라 하신 것과 관련된 개념은 무엇입니까?",
+      "hintVerse": "레25:23",
+      "hintLetter": "기",
+      "difficulty": 1
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 2,
+      "quizId": "Q4-01"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "quizId": "Q4-02"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q4-03"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q4-04"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q4-05"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 2,
+      "quizId": "Q4-06"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 2,
+      "quizId": "Q4-07"
+    }
+  ]
+}

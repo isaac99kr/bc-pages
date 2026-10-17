@@ -1,0 +1,135 @@
+{
+  "id": 12,
+  "date": "2026-10-16",
+  "publishedAt": "2026-10-16",
+  "timezone": "Asia/Seoul",
+  "title": "아라랏과 바벨",
+  "theme": {
+    "books": [
+      "창세기"
+    ],
+    "note": "홍수와 민족의 시작"
+  },
+  "grid": {
+    "rows": 4,
+    "cols": 6
+  },
+  "quizzes": [
+    {
+      "id": "Q12-01",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "인물",
+      "answer": "바로",
+      "question": "요셉의 꿈 해석을 듣고 그를 애굽의 높은 자리에 세운 왕은 누구입니까?",
+      "hintVerse": "창41:40",
+      "hintLetter": "바",
+      "difficulty": 1
+    },
+    {
+      "id": "Q12-02",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "바벨",
+      "question": "사람들이 성읍과 탑을 쌓으려다 언어가 혼잡해진 곳은 어디입니까?",
+      "hintVerse": "창11:9",
+      "hintLetter": "바",
+      "difficulty": 1
+    },
+    {
+      "id": "Q12-03",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "시므온",
+      "question": "야곱의 둘째 아들로 레위와 함께 세겜 사건에 관여한 사람은 누구입니까?",
+      "hintVerse": "창29:33",
+      "hintLetter": "시",
+      "difficulty": 2
+    },
+    {
+      "id": "Q12-04",
+      "book": "창세기",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "아벨",
+      "question": "가인이 죽인 아담과 하와의 둘째 아들은 누구입니까?",
+      "hintVerse": "창4:8",
+      "hintLetter": "아",
+      "difficulty": 1
+    },
+    {
+      "id": "Q12-05",
+      "book": "창세기",
+      "chapter": 8,
+      "category": "지명",
+      "answer": "아라랏",
+      "question": "홍수 후 방주가 머문 산의 지역은 어디입니까?",
+      "hintVerse": "창8:4",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "Q12-06",
+      "book": "창세기",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "므두셀라",
+      "question": "에녹의 아들이며 노아의 할아버지로 알려진 사람은 누구입니까?",
+      "hintVerse": "창5:21",
+      "hintLetter": "므",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 2,
+      "quizId": "Q12-01"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 2,
+      "quizId": "Q12-02"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "quizId": "Q12-03"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 2,
+      "quizId": "Q12-04"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "quizId": "Q12-05"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "quizId": "Q12-06"
+    }
+  ]
+}

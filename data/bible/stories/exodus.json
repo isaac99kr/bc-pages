@@ -1,0 +1,141 @@
+{
+  "bookId": "exodus",
+  "stories": [
+    {
+      "id": "story-moses-call",
+      "bookId": "exodus",
+      "title": "모세의 부르심",
+      "summary": "하나님이 호렙 산 떨기나무 가운데서 모세를 부르시고, 이스라엘을 이집트에서 이끌어 내라고 하셨습니다.",
+      "references": [
+        {
+          "book": "출애굽기",
+          "chapterStart": 3,
+          "verseStart": 1,
+          "chapterEnd": 4,
+          "verseEnd": 17
+        }
+      ],
+      "entityIds": ["person-moses", "place-horeb"],
+      "tags": ["모세", "부르심", "호렙"]
+    },
+    {
+      "id": "story-ten-plagues",
+      "bookId": "exodus",
+      "title": "열 가지 재앙",
+      "summary": "바로가 이스라엘을 보내지 않자, 하나님이 이집트에 열 가지 재앙을 내리셨습니다.",
+      "references": [
+        {
+          "book": "출애굽기",
+          "chapterStart": 7,
+          "verseStart": 14,
+          "chapterEnd": 12,
+          "verseEnd": 30
+        }
+      ],
+      "entityIds": ["person-pharaoh", "person-moses"],
+      "tags": ["재앙", "출애굽", "유월절"]
+    },
+    {
+      "id": "story-red-sea",
+      "bookId": "exodus",
+      "title": "홍해를 건너다",
+      "summary": "하나님이 바다를 가르셔서 이스라엘이 마른 땅으로 건너고, 이집트 군대는 물에 잠겼습니다.",
+      "references": [
+        {
+          "book": "출애굽기",
+          "chapterStart": 14,
+          "verseStart": 1,
+          "chapterEnd": 15,
+          "verseEnd": 21
+        }
+      ],
+      "entityIds": ["place-red-sea", "person-moses"],
+      "tags": ["홍해", "구원"]
+    },
+    {
+      "id": "story-manna",
+      "bookId": "exodus",
+      "title": "만나와 광야",
+      "summary": "광야에서 하나님이 만나와 메추라기로 백성을 먹이시고, 반석에서 물을 주셨습니다.",
+      "references": [
+        {
+          "book": "출애굽기",
+          "chapterStart": 16,
+          "verseStart": 1,
+          "chapterEnd": 17,
+          "verseEnd": 7
+        }
+      ],
+      "entityIds": ["object-manna"],
+      "tags": ["만나", "광야"]
+    },
+    {
+      "id": "story-ten-commandments",
+      "bookId": "exodus",
+      "title": "십계명",
+      "summary": "시내산에서 하나님이 모세에게 십계명을 주시고, 이스라엘과 언약을 세우셨습니다.",
+      "references": [
+        {
+          "book": "출애굽기",
+          "chapterStart": 19,
+          "verseStart": 1,
+          "chapterEnd": 20,
+          "verseEnd": 21
+        }
+      ],
+      "entityIds": ["object-ten-commandments", "place-sinai"],
+      "tags": ["십계명", "시내산", "언약"]
+    },
+    {
+      "id": "story-golden-calf",
+      "bookId": "exodus",
+      "title": "금송아지",
+      "summary": "모세가 산에서 내려오기 전에 백성이 금송아지를 만들었고, 하나님과 모세가 그 죄를 다루셨습니다.",
+      "references": [
+        {
+          "book": "출애굽기",
+          "chapterStart": 32,
+          "verseStart": 1,
+          "chapterEnd": 32,
+          "verseEnd": 35
+        }
+      ],
+      "entityIds": ["person-aaron", "object-golden-calf"],
+      "tags": ["금송아지", "아론"]
+    },
+    {
+      "id": "story-tabernacle",
+      "bookId": "exodus",
+      "title": "성막",
+      "summary": "하나님이 말씀하신 대로 성막을 세워, 이스라엘 가운데 함께하시는 처소를 마련했습니다.",
+      "references": [
+        {
+          "book": "출애굽기",
+          "chapterStart": 25,
+          "verseStart": 1,
+          "chapterEnd": 40,
+          "verseEnd": 38
+        }
+      ],
+      "entityIds": ["object-tabernacle"],
+      "tags": ["성막", "언약궤"]
+    },
+    {
+      "id": "story-exodus-review",
+      "bookId": "exodus",
+      "title": "출애굽 복습",
+      "summary": "출애굽기에서 만난 인물과 장소를 크로스워드로 다시 확인합니다.",
+      "references": [
+        {
+          "book": "출애굽기",
+          "chapterStart": 1,
+          "verseStart": 1,
+          "chapterEnd": 40,
+          "verseEnd": 38
+        }
+      ],
+      "entityIds": [],
+      "tags": ["복습"]
+    }
+  ]
+}

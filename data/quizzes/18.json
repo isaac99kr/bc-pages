@@ -1,0 +1,156 @@
+{
+  "id": 18,
+  "date": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "금송아지와 함성",
+  "theme": {
+    "books": [
+      "출애굽기",
+      "여호수아"
+    ],
+    "note": "우상과 정복의 장면"
+  },
+  "grid": {
+    "rows": 6,
+    "cols": 5
+  },
+  "quizzes": [
+    {
+      "id": "Q18-01",
+      "book": "레위기",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "염소",
+      "question": "속죄일에 백성의 죄를 위하여 광야로 보내는 산 짐승은 무엇입니까?",
+      "hintVerse": "레16:10",
+      "hintLetter": "염",
+      "difficulty": 2
+    },
+    {
+      "id": "Q18-02",
+      "book": "레위기",
+      "chapter": 2,
+      "category": "사물",
+      "answer": "소금",
+      "question": "모든 소제물에 치라 하신, 언약의 표와 같이 쓰인 것은 무엇입니까?",
+      "hintVerse": "레2:13",
+      "hintLetter": "소",
+      "difficulty": 2
+    },
+    {
+      "id": "Q18-03",
+      "book": "신명기",
+      "chapter": 9,
+      "category": "사물",
+      "answer": "금송아지",
+      "question": "호렙에서 백성이 부어 만들어 여호와를 격노하게 한 형상은 무엇입니까?",
+      "hintVerse": "신9:16",
+      "hintLetter": "금",
+      "difficulty": 2
+    },
+    {
+      "id": "Q18-04",
+      "book": "창세기",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "아브라함",
+      "question": "열국의 아버지가 되리라 하시며 이름을 새로 주신 사람은 누구입니까?",
+      "hintVerse": "창17:5",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "Q18-05",
+      "book": "사사기",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "드보라",
+      "question": "여선지자로 사사가 되어 바락과 함께 가나안 군대를 친 여인은 누구입니까?",
+      "hintVerse": "삿4:4",
+      "hintLetter": "드",
+      "difficulty": 2
+    },
+    {
+      "id": "Q18-06",
+      "book": "여호수아",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "함성",
+      "question": "여리고에서 제사장들이 나팔을 불매 백성이 큰 (  )을 지르니 무너져 내렸습니다. 빈칸에 들어갈 말은 무엇입니까?",
+      "hintVerse": "수6:20",
+      "hintLetter": "함",
+      "difficulty": 2,
+      "questionType": "blank"
+    },
+    {
+      "id": "Q18-07",
+      "book": "여호수아",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "성벽",
+      "question": "여리고에서 나팔 소리와 백성의 외침 뒤에 무너져 내린 것은 무엇입니까?",
+      "hintVerse": "수6:20",
+      "hintLetter": "성",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q18-01"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 2,
+      "quizId": "Q18-02"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "quizId": "Q18-03"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 4,
+      "quizId": "Q18-04"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q18-05"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 2,
+      "quizId": "Q18-06"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 2,
+      "quizId": "Q18-07"
+    }
+  ]
+}

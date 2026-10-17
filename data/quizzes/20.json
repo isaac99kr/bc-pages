@@ -1,0 +1,175 @@
+{
+  "id": 20,
+  "date": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "택한그릇과 도르가",
+  "theme": {
+    "books": [
+      "사도행전"
+    ],
+    "note": "이방과 교회의 확장"
+  },
+  "grid": {
+    "rows": 6,
+    "cols": 7
+  },
+  "quizzes": [
+    {
+      "id": "Q20-01",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "택한그릇",
+      "question": "주께서 사울을 가리켜 '그는 이방인과 임금들과 이스라엘 자손 앞에 내 이름을 전하기 위한 (  )이라' 하셨습니다. 빈칸에 들어갈 말은 무엇입니까?",
+      "hintVerse": "행9:15",
+      "hintLetter": "택",
+      "difficulty": 2,
+      "questionType": "blank"
+    },
+    {
+      "id": "Q20-02",
+      "book": "사도행전",
+      "chapter": 24,
+      "category": "인물",
+      "answer": "벨릭스",
+      "question": "바울을 가이사랴에서 심문하며 재판을 미룬 총독은 누구입니까?",
+      "hintVerse": "행24:22",
+      "hintLetter": "벨",
+      "difficulty": 2
+    },
+    {
+      "id": "Q20-03",
+      "book": "사도행전",
+      "chapter": 3,
+      "category": "인물",
+      "answer": "요한",
+      "question": "성전 미문으로 올라가다 앉은뱅이를 고칠 때 베드로와 함께한 사도는 누구입니까?",
+      "hintVerse": "행3:1",
+      "hintLetter": "요",
+      "difficulty": 2
+    },
+    {
+      "id": "Q20-04",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "증인",
+      "question": "예루살렘과 온 유대와 사마리아와 땅끝까지 이르러 내 (  )이 되리라 하셨습니다. 빈칸에 들어갈 말은 무엇입니까?",
+      "hintVerse": "행1:8",
+      "hintLetter": "증",
+      "difficulty": 2,
+      "questionType": "blank"
+    },
+    {
+      "id": "Q20-05",
+      "book": "사도행전",
+      "chapter": 11,
+      "category": "개념",
+      "answer": "그리스도인",
+      "question": "제자들이 안디옥에서 비로소 일컬음을 받은 이름은 무엇입니까?",
+      "hintVerse": "행11:26",
+      "hintLetter": "그",
+      "difficulty": 2
+    },
+    {
+      "id": "Q20-06",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "인물",
+      "answer": "도르가",
+      "question": "욥바에서 선행과 구제를 하다 죽어 베드로가 살린 여인은 누구입니까?",
+      "hintVerse": "행9:36",
+      "hintLetter": "도",
+      "difficulty": 2
+    },
+    {
+      "id": "Q20-07",
+      "book": "사도행전",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "가야바",
+      "question": "베드로와 요한을 공회에서 심문한 대제사장 가운데 한 사람은 누구입니까?",
+      "hintVerse": "행4:6",
+      "hintLetter": "가",
+      "difficulty": 2
+    },
+    {
+      "id": "Q20-08",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "인물",
+      "answer": "바울",
+      "question": "사울이라 하던 이가 이방 선교를 위해 불리게 된 이름은 무엇입니까?",
+      "hintVerse": "행13:9",
+      "hintLetter": "바",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "quizId": "Q20-01"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "quizId": "Q20-02"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q20-03"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 2,
+      "quizId": "Q20-04"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "quizId": "Q20-05"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "quizId": "Q20-06"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "quizId": "Q20-07"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 2,
+      "quizId": "Q20-08"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="450" viewBox="0 0 360 450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D7F3FF"/>
+      <stop offset="100%" stop-color="#9AD8F5"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect x="6" y="6" width="348" height="438" rx="36" ry="36" fill="url(#bg)" stroke="#4BA8D4" stroke-width="8"/>
+  <g filter="url(#soft)">
+  <ellipse cx="180" cy="200" rx="95" ry="70" fill="#6EC8F0"/>
+  <ellipse cx="180" cy="190" rx="70" ry="48" fill="#9ADCFF"/>
+  <path d="M180 70 C145 110 120 145 120 175 C120 210 148 235 180 235 C212 235 240 210 240 175 C240 145 215 110 180 70 Z" fill="#5BBCF0"/>
+  <path d="M180 95 C155 125 140 150 140 172 C140 195 157 212 180 212 C203 212 220 195 220 172 C220 150 205 125 180 95 Z" fill="#A6E4FF"/>
+  <circle cx="165" cy="150" r="10" fill="#fff" opacity="0.75"/>
+</g>
+  <rect x="40" y="358" width="280" height="62" rx="22" ry="22" fill="#fff" stroke="#4BA8D4" stroke-width="3"/>
+  <text x="180.0" y="400" text-anchor="middle" font-family="Noto Sans CJK KR, NanumGothic, sans-serif" font-size="34" font-weight="700" fill="#2a3a5c">물</text>
+</svg>

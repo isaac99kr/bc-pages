@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "gameTypes": [
+    {
+      "id": "memory-match",
+      "title": "그림 짝맞추기",
+      "priority": 1
+    },
+    {
+      "id": "character-riddle",
+      "title": "인물·사건 추리",
+      "priority": 1
+    },
+    {
+      "id": "word-arrange",
+      "title": "흩어진 글자 맞추기",
+      "priority": 1
+    },
+    {
+      "id": "crossword-link",
+      "title": "성경 크로스워드",
+      "priority": 0
+    },
+    {
+      "id": "spot-difference",
+      "title": "틀린그림 찾기",
+      "priority": 1
+    }
+  ]
+}

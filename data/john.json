@@ -1,0 +1,2204 @@
+{
+  "bookCode": "JHN",
+  "book": "요한복음",
+  "quizzes": [
+    {
+      "id": "JHN-P001",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "예수",
+      "question": "태초에 계신 말씀이며 육신이 되어 오신 분은 누구입니까?",
+      "hintWord": "하나님의 아들",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-P002",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "세례요한",
+      "question": "빛에 대하여 증언하러 온 사람은 누구입니까?",
+      "hintWord": "길을 예비한 이",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-P003",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "안드레",
+      "question": "세례 요한의 제자였다가 예수를 따르며 베드로를 데려온 사람은 누구입니까?",
+      "hintWord": "베드로의 형제",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P004",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "안드레가 데려온 시몬에게 게바라 이름하신 제자는 누구입니까?",
+      "hintWord": "반석",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-P005",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "빌립",
+      "question": "갈릴리 벳새다 사람으로 따라오라 부름받은 제자는 누구입니까?",
+      "hintWord": "열두 제자",
+      "hintLetter": "빌",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P006",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "나다나엘",
+      "question": "빌립이 모세와 선지자가 기록한 이를 만났다 전한 사람은 누구입니까?",
+      "hintWord": "참 이스라엘 사람",
+      "hintLetter": "나",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-P007",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "마리아",
+      "question": "가나 혼인 잔치에서 포도주가 떨어졌다고 알린 여인은 누구입니까?",
+      "hintWord": "예수의 어머니",
+      "hintLetter": "마",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P008",
+      "book": "요한복음",
+      "chapter": 3,
+      "category": "인물",
+      "answer": "니고데모",
+      "question": "밤에 예수를 찾아와 중생에 대해 들은 바리새인은 누구입니까?",
+      "hintWord": "유대 관원",
+      "hintLetter": "니",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P009",
+      "book": "요한복음",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "사마리아여인",
+      "question": "야곱의 우물가에서 예수를 만나 생수를 들은 여인은 누구입니까?",
+      "hintWord": "우물의 여인",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P010",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "가룟유다",
+      "question": "떡을 나눠 주라 할 때 마귀가 넣은 제자는 누구입니까?",
+      "hintWord": "배반할 제자",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P011",
+      "book": "요한복음",
+      "chapter": 9,
+      "category": "인물",
+      "answer": "소경",
+      "question": "날 때부터 눈먼 자로 실로암에서 씻고 보게 된 사람은 누구입니까?",
+      "hintWord": "눈먼 이",
+      "hintLetter": "소",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P012",
+      "book": "요한복음",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "나사로",
+      "question": "죽은 지 나흘 되어 무덤에서 살아나온 사람은 누구입니까?",
+      "hintWord": "마리아의 오라비",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-P013",
+      "book": "요한복음",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "마르다",
+      "question": "나사로의 누이로 나는 부활이요 생명이니라를 들은 여인은 누구입니까?",
+      "hintWord": "마리아의 자매",
+      "hintLetter": "마",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P014",
+      "book": "요한복음",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "마리아",
+      "question": "나사로의 누이로 예수의 발 앞에 엎드린 여인은 누구입니까?",
+      "hintWord": "마르다의 자매",
+      "hintLetter": "마",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P015",
+      "book": "요한복음",
+      "chapter": 12,
+      "category": "인물",
+      "answer": "나사로",
+      "question": "잔치에 함께 앉아 있던 살아난 사람은 누구입니까?",
+      "hintWord": "살아난 이",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-P016",
+      "book": "요한복음",
+      "chapter": 13,
+      "category": "인물",
+      "answer": "요한",
+      "question": "예수의 품에 의지하여 배반자를 물은 제자는 누구입니까?",
+      "hintWord": "사랑받는 제자",
+      "hintLetter": "요",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P017",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "가야바",
+      "question": "그 해의 대제사장으로 예수를 심문한 사람은 누구입니까?",
+      "hintWord": "대제사장",
+      "hintLetter": "가",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-P018",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "안나스",
+      "question": "먼저 예수를 심문한 가야바의 장인은 누구입니까?",
+      "hintWord": "전 대제사장",
+      "hintLetter": "안",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-P019",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "빌라도",
+      "question": "예수를 심문하고 십자가에 넘긴 총독은 누구입니까?",
+      "hintWord": "로마 총독",
+      "hintLetter": "빌",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-P020",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "바라바",
+      "question": "강도인데 놓아 준 죄수는 누구입니까?",
+      "hintWord": "풀려난 죄수",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-P021",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "인물",
+      "answer": "요셉",
+      "question": "아리마대 사람으로 예수의 시신을 장사한 사람은 누구입니까?",
+      "hintWord": "제자",
+      "hintLetter": "요",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-P022",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "인물",
+      "answer": "니고데모",
+      "question": "몰약과 침향 섞은 것을 가지고 온 사람은 누구입니까?",
+      "hintWord": "밤에 왔던 이",
+      "hintLetter": "니",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-P023",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "인물",
+      "answer": "막달라마리아",
+      "question": "빈 무덤을 보고 주님을 만났다 전한 여인은 누구입니까?",
+      "hintWord": "무덤에 간 여인",
+      "hintLetter": "막",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P024",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "인물",
+      "answer": "도마",
+      "question": "내 손에 못 자국을 보고 만져 보기 전에는 믿지 않겠다 한 제자는 누구입니까?",
+      "hintWord": "의심하던 제자",
+      "hintLetter": "도",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-P025",
+      "book": "요한복음",
+      "chapter": 21,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "부활 후 나를 사랑하느냐 세 번 물으신 제자는 누구입니까?",
+      "hintWord": "양 치라 맡은 이",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-L026",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "갈릴리",
+      "question": "빌립과 나다나엘이 살던 지역과 관련된 곳은 어디입니까?",
+      "hintWord": "북쪽 지역",
+      "hintLetter": "갈",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-L027",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "나사렛",
+      "question": "나다나엘이 무슨 선한 것이 날 수 있느냐 한 동네는 어디입니까?",
+      "hintWord": "예수의 동네",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-L028",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "요단강건너",
+      "question": "세례 요한이 세례 주던 베다니가 있는 쪽은 어디입니까?",
+      "hintWord": "요단 건너",
+      "hintLetter": "요",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-L029",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "지명",
+      "answer": "가나",
+      "question": "물을 포도주로 바꾸신 혼인 잔치가 열린 곳은 어디입니까?",
+      "hintWord": "갈릴리의 동네",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-L030",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "지명",
+      "answer": "예루살렘",
+      "question": "유월절에 올라가 성전을 깨끗케 하신 성은 어디입니까?",
+      "hintWord": "거룩한 성",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-L031",
+      "book": "요한복음",
+      "chapter": 4,
+      "category": "지명",
+      "answer": "수가",
+      "question": "사마리아 여인을 만나신 성읍은 어디입니까?",
+      "hintWord": "사마리아의 성",
+      "hintLetter": "수",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-L032",
+      "book": "요한복음",
+      "chapter": 4,
+      "category": "지명",
+      "answer": "사마리아",
+      "question": "야곱의 우물이 있는 지역은 어디입니까?",
+      "hintWord": "중간 지역",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-L033",
+      "book": "요한복음",
+      "chapter": 5,
+      "category": "지명",
+      "answer": "베데스다",
+      "question": "병자들이 누워 있던 연못의 이름은 무엇입니까?",
+      "hintWord": "은혜의 집",
+      "hintLetter": "베",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-L034",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "지명",
+      "answer": "갈릴리바다",
+      "question": "오병이어와 물 위를 걸으신 일이 일어난 바다는 어디입니까?",
+      "hintWord": "디베랴 바다",
+      "hintLetter": "갈",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-L035",
+      "book": "요한복음",
+      "chapter": 9,
+      "category": "지명",
+      "answer": "실로암",
+      "question": "소경이 가서 씻고 보게 된 못은 어디입니까?",
+      "hintWord": "보냄을 받았다",
+      "hintLetter": "실",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-L036",
+      "book": "요한복음",
+      "chapter": 11,
+      "category": "지명",
+      "answer": "베다니",
+      "question": "나사로가 살던 동네는 어디입니까?",
+      "hintWord": "마리아의 동네",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-L037",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "지명",
+      "answer": "기드론",
+      "question": "제자들과 함께 건너가신 시내는 어디입니까?",
+      "hintWord": "골짜기의 시내",
+      "hintLetter": "기",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-L038",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "지명",
+      "answer": "겟세마네",
+      "question": "동산에서 잡히신 곳은 어디입니까?",
+      "hintWord": "기도의 동산",
+      "hintLetter": "겟",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-L039",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "골고다",
+      "question": "히브리 말로 해골의 곳이라 하는 곳은 어디입니까?",
+      "hintWord": "십자가의 장소",
+      "hintLetter": "골",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-L040",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "아리마대",
+      "question": "요셉의 고향으로 언급된 곳은 어디입니까?",
+      "hintWord": "요셉의 고향",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "JHN-L041",
+      "book": "요한복음",
+      "chapter": 21,
+      "category": "지명",
+      "answer": "디베랴바다",
+      "question": "부활 후 제자들이 고기를 잡던 바다는 어디입니까?",
+      "hintWord": "갈릴리 바다",
+      "hintLetter": "디",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E042",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "성육신",
+      "question": "말씀이 육신이 되어 우리 가운데 거하신 사건은 무엇입니까?",
+      "hintWord": "사람이 되심",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E043",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "세례증거",
+      "question": "요한이 성령이 비둘기같이 내려 머무는 것을 본 사건은 무엇입니까?",
+      "hintWord": "세례의 증거",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E044",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "사건",
+      "answer": "물포도주",
+      "question": "물을 포도주로 바꾸신 첫 표적은 무엇입니까?",
+      "hintWord": "물을 포도주로",
+      "hintLetter": "물",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E045",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "사건",
+      "answer": "성전청결",
+      "question": "성전에서 소와 양과 비둘기 파는 자들을 내쫓으신 일은 무엇입니까?",
+      "hintWord": "성전을 깨끗케 함",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E046",
+      "book": "요한복음",
+      "chapter": 3,
+      "category": "사건",
+      "answer": "중생대화",
+      "question": "니고데모에게 거듭나야 함을 가르치신 대화는 무엇입니까?",
+      "hintWord": "거듭남의 대화",
+      "hintLetter": "중",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E047",
+      "book": "요한복음",
+      "chapter": 4,
+      "category": "사건",
+      "answer": "생수약속",
+      "question": "사마리아 여인에게 영원히 목마르지 않는 물을 약속하신 일은 무엇입니까?",
+      "hintWord": "생수를 약속하심",
+      "hintLetter": "생",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E048",
+      "book": "요한복음",
+      "chapter": 5,
+      "category": "사건",
+      "answer": "중풍병자고침",
+      "question": "삼십팔 년 된 병자를 일어나 걸어가라 하신 기적은 무엇입니까?",
+      "hintWord": "병자를 고침",
+      "hintLetter": "중",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E049",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "사건",
+      "answer": "오병이어",
+      "question": "보리떡 다섯과 물고기 둘로 오천 명을 먹이신 표적은 무엇입니까?",
+      "hintWord": "오천 명을 먹임",
+      "hintLetter": "오",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E050",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "사건",
+      "answer": "물위를걸음",
+      "question": "바다 위로 걸어오신 일은 무엇입니까?",
+      "hintWord": "물 위를 걸으심",
+      "hintLetter": "물",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E051",
+      "book": "요한복음",
+      "chapter": 9,
+      "category": "사건",
+      "answer": "소경고침",
+      "question": "날 때부터 눈먼 자의 눈을 열어 주신 표적은 무엇입니까?",
+      "hintWord": "소경을 고침",
+      "hintLetter": "소",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E052",
+      "book": "요한복음",
+      "chapter": 11,
+      "category": "사건",
+      "answer": "나사로부활",
+      "question": "나사로야 나오라 하시며 살리신 사건은 무엇입니까?",
+      "hintWord": "나사로를 살림",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E053",
+      "book": "요한복음",
+      "chapter": 12,
+      "category": "사건",
+      "answer": "나귀입성",
+      "question": "나귀 새끼를 타고 입성하신 일은 무엇입니까?",
+      "hintWord": "나귀를 타심",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E054",
+      "book": "요한복음",
+      "chapter": 13,
+      "category": "사건",
+      "answer": "세족",
+      "question": "제자들의 발을 씻기신 일은 무엇입니까?",
+      "hintWord": "발을 씻기심",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E055",
+      "book": "요한복음",
+      "chapter": 13,
+      "category": "사건",
+      "answer": "배반예고",
+      "question": "너희 중 하나가 나를 팔리라 하신 예고는 무엇입니까?",
+      "hintWord": "배반을 알리심",
+      "hintLetter": "배",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E056",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "사건",
+      "answer": "체포",
+      "question": "동산에서 군병들에게 잡히신 일은 무엇입니까?",
+      "hintWord": "붙잡히심",
+      "hintLetter": "체",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E057",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "사건",
+      "answer": "십자가",
+      "question": "예수께서 못 박혀 죽으신 형은 무엇입니까?",
+      "hintWord": "십자가 처형",
+      "hintLetter": "십",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E058",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "사건",
+      "answer": "부활",
+      "question": "안식 후 첫날 살아나신 사건은 무엇입니까?",
+      "hintWord": "다시 살아나심",
+      "hintLetter": "부",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E059",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "사건",
+      "answer": "도마만남",
+      "question": "내 주님이시요 나의 하나님이시니이다 고백하게 된 만남은 무엇입니까?",
+      "hintWord": "도마를 만나심",
+      "hintLetter": "도",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E060",
+      "book": "요한복음",
+      "chapter": 21,
+      "category": "사건",
+      "answer": "베드로회복",
+      "question": "나를 사랑하느냐 세 번 물으시고 양을 치라 하신 일은 무엇입니까?",
+      "hintWord": "베드로를 회복하심",
+      "hintLetter": "베",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E061",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "말씀",
+      "question": "태초에 하나님과 함께 계신 분은 무엇으로 소개됩니까?",
+      "hintWord": "로고스",
+      "hintLetter": "말",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E062",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "생명",
+      "question": "그 안에 무엇이 있었으니 사람들의 빛이라 하였습니까?",
+      "hintWord": "생명",
+      "hintLetter": "생",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E063",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "빛",
+      "question": "어둠에 비치되 어둠이 이기지 못한 것은 무엇입니까?",
+      "hintWord": "빛",
+      "hintLetter": "빛",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E064",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "은혜",
+      "question": "우리가 다 그의 충만한 데서 받으니 무엇 위에 무엇이라 하였습니까?",
+      "hintWord": "거저 주시는 사랑",
+      "hintLetter": "은",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E065",
+      "book": "요한복음",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "중생",
+      "question": "사람이 무엇을 하지 아니하면 하나님의 나라를 볼 수 없느니라 하셨습니까?",
+      "hintWord": "거듭남",
+      "hintLetter": "중",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E066",
+      "book": "요한복음",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "영생",
+      "question": "하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니 이는 그를 믿는 자마다 무엇을 얻게 하려 하심이라 하셨습니까?",
+      "hintWord": "영원한 생명",
+      "hintLetter": "영",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E067",
+      "book": "요한복음",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "예배",
+      "question": "영과 진리로 예배할 때가 오나니에서 강조된 것은 무엇입니까?",
+      "hintWord": "참된 예배",
+      "hintLetter": "예",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E068",
+      "book": "요한복음",
+      "chapter": 5,
+      "category": "개념",
+      "answer": "부활",
+      "question": "무덤 속에 있는 자가 다 그의 음성을 들을 때가 오나니에서 선포된 것은 무엇입니까?",
+      "hintWord": "다시 살아남",
+      "hintLetter": "부",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E069",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "생명의떡",
+      "question": "나는 하늘에서 내려온 무엇이라 하셨습니까?",
+      "hintWord": "생명의 떡",
+      "hintLetter": "생",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E070",
+      "book": "요한복음",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "진리",
+      "question": "너희가 내 말에 거하면 참으로 내 제자가 되고 무엇을 알지니 무엇이 너희를 자유롭게 하리라 하셨습니까?",
+      "hintWord": "진리",
+      "hintLetter": "진",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E071",
+      "book": "요한복음",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "자유",
+      "question": "진리가 너희를 무엇하게 하리라 하셨습니까?",
+      "hintWord": "자유롭게 함",
+      "hintLetter": "자",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E072",
+      "book": "요한복음",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "선한목자",
+      "question": "나는 무엇이라 하시며 양을 위해 목숨을 버리신다 하셨습니까?",
+      "hintWord": "선한 목자",
+      "hintLetter": "선",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E073",
+      "book": "요한복음",
+      "chapter": 11,
+      "category": "개념",
+      "answer": "부활생명",
+      "question": "나는 무엇이요 생명이니 나를 믿는 자는 죽어도 살겠고 하셨습니까?",
+      "hintWord": "부활",
+      "hintLetter": "부",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E074",
+      "book": "요한복음",
+      "chapter": 13,
+      "category": "개념",
+      "answer": "새계명",
+      "question": "서로 사랑하라 내가 너희를 사랑한 것 같이 너희도 사랑하라 하신 계명은 무엇입니까?",
+      "hintWord": "새 계명",
+      "hintLetter": "새",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E075",
+      "book": "요한복음",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "길",
+      "question": "나는 무엇이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라 하셨습니까?",
+      "hintWord": "길",
+      "hintLetter": "길",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E076",
+      "book": "요한복음",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "보혜사",
+      "question": "아버지께서 내 이름으로 보내실 다른 무엇은 무엇입니까?",
+      "hintWord": "성령",
+      "hintLetter": "보",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E077",
+      "book": "요한복음",
+      "chapter": 15,
+      "category": "개념",
+      "answer": "포도나무",
+      "question": "나는 참무엇이요 내 아버지는 농부라 하셨습니까?",
+      "hintWord": "포도나무",
+      "hintLetter": "포",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E078",
+      "book": "요한복음",
+      "chapter": 15,
+      "category": "개념",
+      "answer": "열매",
+      "question": "너희가 과실을 많이 맺으면 내 아버지께서 영광을 받으실 것이요에서 강조된 것은 무엇입니까?",
+      "hintWord": "열매",
+      "hintLetter": "열",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E079",
+      "book": "요한복음",
+      "chapter": 16,
+      "category": "개념",
+      "answer": "기도응답",
+      "question": "내 이름으로 아버지께 구하라 그리하면 받으리라에서 약속된 것은 무엇입니까?",
+      "hintWord": "기도의 응답",
+      "hintLetter": "기",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E080",
+      "book": "요한복음",
+      "chapter": 17,
+      "category": "개념",
+      "answer": "거룩",
+      "question": "저희를 진리로 무엇하게 하옵소서 하셨습니까?",
+      "hintWord": "거룩하게 함",
+      "hintLetter": "거",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E081",
+      "book": "요한복음",
+      "chapter": 17,
+      "category": "개념",
+      "answer": "하나됨",
+      "question": "아버지께서 내 안에 내가 아버지 안에 있는 것 같이 그들도 다 무엇이 되어 하게 하옵소서 하셨습니까?",
+      "hintWord": "하나 됨",
+      "hintLetter": "하",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E082",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "개념",
+      "answer": "다이루었다",
+      "question": "십자가에서 마지막으로 선포하신 완성의 말씀은 무엇입니까?",
+      "hintWord": "다 이루심",
+      "hintLetter": "다",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E083",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "개념",
+      "answer": "평안",
+      "question": "문이 닫혔는데 오사 선포하신 인사는 무엇입니까?",
+      "hintWord": "평안",
+      "hintLetter": "평",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E084",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "개념",
+      "answer": "믿음",
+      "question": "보지 못하고 믿는 자들은 복되도다에서 강조된 것은 무엇입니까?",
+      "hintWord": "믿는 마음",
+      "hintLetter": "믿",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E085",
+      "book": "요한복음",
+      "chapter": 21,
+      "category": "개념",
+      "answer": "사랑",
+      "question": "요한아 네가 나를 무엇을 하느냐 세 번 물으신 주제는 무엇입니까?",
+      "hintWord": "사랑하느냐",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E086",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "사물",
+      "answer": "물항아리",
+      "question": "돌로 만든 여섯에 물을 채우라 하신 그릇은 무엇입니까?",
+      "hintWord": "물 담는 항아리",
+      "hintLetter": "물",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E087",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "사물",
+      "answer": "포도주",
+      "question": "물이 변하여 된 좋은 것은 무엇입니까?",
+      "hintWord": "포도 술",
+      "hintLetter": "포",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E088",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "사물",
+      "answer": "채찍",
+      "question": "성전에서 양과 소를 다 성전에서 내쫓으실 때 만드신 것은 무엇입니까?",
+      "hintWord": "끈으로 만든 채찍",
+      "hintLetter": "채",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E089",
+      "book": "요한복음",
+      "chapter": 4,
+      "category": "사물",
+      "answer": "우물",
+      "question": "사마리아 여인이 물을 길러 온 곳은 무엇입니까?",
+      "hintWord": "야곱의 우물",
+      "hintLetter": "우",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E090",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "보리떡",
+      "question": "오병이어에 사용된 떡의 종류는 무엇입니까?",
+      "hintWord": "보리로 만든 떡",
+      "hintLetter": "보",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E091",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "물고기",
+      "question": "어린아이가 가진 보리떡과 함께 있던 것은 무엇입니까?",
+      "hintWord": "바다의 생물",
+      "hintLetter": "물",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E092",
+      "book": "요한복음",
+      "chapter": 9,
+      "category": "사물",
+      "answer": "진흙",
+      "question": "소경의 눈에 바르신 것은 무엇입니까?",
+      "hintWord": "침과 흙",
+      "hintLetter": "진",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E093",
+      "book": "요한복음",
+      "chapter": 11,
+      "category": "사물",
+      "answer": "수건",
+      "question": "죽은 자의 얼굴을 싸맸던 것은 무엇입니까?",
+      "hintWord": "얼굴 수건",
+      "hintLetter": "수",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E094",
+      "book": "요한복음",
+      "chapter": 12,
+      "category": "사물",
+      "answer": "나귀새끼",
+      "question": "입성 때 타신 짐승은 무엇입니까?",
+      "hintWord": "작은 나귀",
+      "hintLetter": "나",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E095",
+      "book": "요한복음",
+      "chapter": 12,
+      "category": "사물",
+      "answer": "향유",
+      "question": "마리아가 예수의 발에 바르고 머리털로 닦은 것은 무엇입니까?",
+      "hintWord": "값진 향유",
+      "hintLetter": "향",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E096",
+      "book": "요한복음",
+      "chapter": 13,
+      "category": "사물",
+      "answer": "대야",
+      "question": "발을 씻기실 물을 담으신 그릇은 무엇입니까?",
+      "hintWord": "물 대야",
+      "hintLetter": "대",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E097",
+      "book": "요한복음",
+      "chapter": 13,
+      "category": "사물",
+      "answer": "수건",
+      "question": "허리에 두르시고 발을 씻기신 뒤 닦으신 것은 무엇입니까?",
+      "hintWord": "수건",
+      "hintLetter": "수",
+      "difficulty": 1,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E098",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "사물",
+      "answer": "검",
+      "question": "베드로가 대제사장의 종의 귀를 친 무기는 무엇입니까?",
+      "hintWord": "베드로의 무기",
+      "hintLetter": "검",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E099",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "가시관",
+      "question": "가시로 관을 엮어 씌운 것은 무엇입니까?",
+      "hintWord": "가시 관",
+      "hintLetter": "가",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E100",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "자색옷",
+      "question": "군인들이 예수께 입힌 옷은 무엇입니까?",
+      "hintWord": "자색 옷",
+      "hintLetter": "자",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E101",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "십자가패",
+      "question": "유대인의 왕 나사렛 예수라 쓴 패와 관련된 것은 무엇입니까?",
+      "hintWord": "죄명 패",
+      "hintLetter": "십",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E102",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "창",
+      "question": "옆구리를 찌른 무기는 무엇입니까?",
+      "hintWord": "창",
+      "hintLetter": "창",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E103",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "몰약",
+      "question": "니고데모가 가지고 온 향품 가운데 하나는 무엇입니까?",
+      "hintWord": "향품",
+      "hintLetter": "몰",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E104",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "사물",
+      "answer": "세마포",
+      "question": "무덤에 개켜 놓인 것은 무엇입니까?",
+      "hintWord": "시신 옷",
+      "hintLetter": "세",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E105",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "사물",
+      "answer": "큰돌",
+      "question": "무덤 문에서 옮겨진 것은 무엇입니까?",
+      "hintWord": "무덤의 돌",
+      "hintLetter": "큰",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E106",
+      "book": "요한복음",
+      "chapter": 21,
+      "category": "사물",
+      "answer": "그물",
+      "question": "오른편에 던지라 하시니 고기가 많아 들 수 없던 것은 무엇입니까?",
+      "hintWord": "고기 그물",
+      "hintLetter": "그",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E107",
+      "book": "요한복음",
+      "chapter": 21,
+      "category": "사물",
+      "answer": "숯불",
+      "question": "시몬 베드로가 숯불에 구운 생선과 떡을 본 것은 무엇입니까?",
+      "hintWord": "숯불",
+      "hintLetter": "숯",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E108",
+      "book": "요한복음",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "어린양",
+      "question": "세상 죄를 지고 가는 하나님의 무엇이라 요한이 증거하였습니까?",
+      "hintWord": "어린 양",
+      "hintLetter": "어",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E109",
+      "book": "요한복음",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "사랑",
+      "question": "하나님이 세상을 이처럼 무엇하사 독생자를 주셨느니라 하셨습니까?",
+      "hintWord": "사랑하심",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E110",
+      "book": "요한복음",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "메시아",
+      "question": "내가 그라 하시며 사마리아 여인에게 밝히신 정체는 무엇입니까?",
+      "hintWord": "그리스도",
+      "hintLetter": "메",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E111",
+      "book": "요한복음",
+      "chapter": 5,
+      "category": "개념",
+      "answer": "안식일",
+      "question": "안식일에 자리를 들고 걸어가라 하심으로 일어난 논쟁의 주제는 무엇입니까?",
+      "hintWord": "쉬는 날",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E112",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "영생양식",
+      "question": "인자의 살을 먹지 아니하고 인자의 피를 마시지 아니하면 너희 속에 생명이 없느니라에서 관련된 것은 무엇입니까?",
+      "hintWord": "영생의 양식",
+      "hintLetter": "영",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E113",
+      "book": "요한복음",
+      "chapter": 7,
+      "category": "개념",
+      "answer": "생수의강",
+      "question": "나를 믿는 자는 그 배에서 무엇이 흘러나오리라 하셨습니까?",
+      "hintWord": "생수의 강",
+      "hintLetter": "생",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E114",
+      "book": "요한복음",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "세상의빛",
+      "question": "나는 무엇이라 하시며 나를 따르는 자는 어둠에 다니지 아니하고 생명의 빛을 얻으리라 하셨습니까?",
+      "hintWord": "세상의 빛",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E115",
+      "book": "요한복음",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "생명",
+      "question": "내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라에서 강조된 것은 무엇입니까?",
+      "hintWord": "생명",
+      "hintLetter": "생",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E116",
+      "book": "요한복음",
+      "chapter": 12,
+      "category": "개념",
+      "answer": "밀알",
+      "question": "한 알의 밀이 땅에 떨어져 죽지 아니하면 한 알 그대로 있고 죽으면 많은 열매를 맺느니라에서 강조된 것은 무엇입니까?",
+      "hintWord": "밀알의 죽음",
+      "hintLetter": "밀",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E117",
+      "book": "요한복음",
+      "chapter": 13,
+      "category": "개념",
+      "answer": "섬김",
+      "question": "내가 주와 선생이 되어 너희 발을 씻겼으니 너희도 서로 발을 씻기는 것이 옳으니라에서 강조된 것은 무엇입니까?",
+      "hintWord": "섬김",
+      "hintLetter": "섬",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E118",
+      "book": "요한복음",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "처소",
+      "question": "내가 너희를 위하여 처소를 예비하러 가노니에서 약속된 것은 무엇입니까?",
+      "hintWord": "거할 곳",
+      "hintLetter": "처",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E119",
+      "book": "요한복음",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "평안",
+      "question": "나의 무엇을 너희에게 주노니 내가 너희에게 주는 것은 세상이 주는 것과 같지 아니하니라 하셨습니까?",
+      "hintWord": "평안",
+      "hintLetter": "평",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E120",
+      "book": "요한복음",
+      "chapter": 15,
+      "category": "개념",
+      "answer": "사랑계명",
+      "question": "내 계명은 곧 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라 함이니라에서 강조된 것은 무엇입니까?",
+      "hintWord": "서로 사랑",
+      "hintLetter": "사",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E121",
+      "book": "요한복음",
+      "chapter": 16,
+      "category": "개념",
+      "answer": "성령",
+      "question": "그가 와서 죄에 대하여 의에 대하여 심판에 대하여 세상을 책망하시리라 하신 분은 누구입니까?",
+      "hintWord": "보혜사",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E122",
+      "book": "요한복음",
+      "chapter": 17,
+      "category": "개념",
+      "answer": "영생",
+      "question": "영생은 유일하신 참 하나님과 그가 보내신 자 예수 그리스도를 아는 것이니이다에서 정의된 것은 무엇입니까?",
+      "hintWord": "영생",
+      "hintLetter": "영",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E123",
+      "book": "요한복음",
+      "chapter": 18,
+      "category": "개념",
+      "answer": "진리",
+      "question": "진리가 무엇이냐 한 빌라도의 질문과 관련된 주제는 무엇입니까?",
+      "hintWord": "진리",
+      "hintLetter": "진",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E124",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "개념",
+      "answer": "완성",
+      "question": "다 이루었다 하신 말씀의 의미는 무엇입니까?",
+      "hintWord": "구원을 완성하심",
+      "hintLetter": "완",
+      "difficulty": 1,
+      "stageCandidate": 1
+    },
+    {
+      "id": "JHN-E125",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "개념",
+      "answer": "파송",
+      "question": "아버지께서 나를 보내신 것 같이 나도 너희를 보내노라에서 강조된 것은 무엇입니까?",
+      "hintWord": "보내심",
+      "hintLetter": "파",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E126",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "개념",
+      "answer": "성령받음",
+      "question": "그들을 향하사 숨을 내쉬며 성령을 받으라 하신 일은 무엇입니까?",
+      "hintWord": "성령을 주심",
+      "hintLetter": "성",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E127",
+      "book": "요한복음",
+      "chapter": 21,
+      "category": "개념",
+      "answer": "양침",
+      "question": "내 어린 양을 먹이라 내 양을 치라 하신 사명은 무엇입니까?",
+      "hintWord": "양을 돌봄",
+      "hintLetter": "양",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E128",
+      "book": "요한복음",
+      "chapter": 3,
+      "category": "사물",
+      "answer": "놋뱀",
+      "question": "모세가 광야에서 든 것 같이 인자도 들려야 하리니에서 비유된 것은 무엇입니까?",
+      "hintWord": "놋뱀",
+      "hintLetter": "놋",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E129",
+      "book": "요한복음",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "만나",
+      "question": "조상들은 광야에서 무엇을 먹었어도 죽었느니라 하신 대비의 양식은 무엇입니까?",
+      "hintWord": "하늘 양식",
+      "hintLetter": "만",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E130",
+      "book": "요한복음",
+      "chapter": 10,
+      "category": "사물",
+      "answer": "우리",
+      "question": "다른 양들이 있어 이끌어야 하리니 한 무리가 되어 한 목자에게 있으리라에서 관련된 것은 무엇입니까?",
+      "hintWord": "양의 우리",
+      "hintLetter": "우",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E131",
+      "book": "요한복음",
+      "chapter": 12,
+      "category": "사물",
+      "answer": "종려가지",
+      "question": "무리가 예수를 맞으러 나가며 들고 외친 것은 무엇입니까?",
+      "hintWord": "종려 가지",
+      "hintLetter": "종",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "JHN-E132",
+      "book": "요한복음",
+      "chapter": 13,
+      "category": "사물",
+      "answer": "떡조각",
+      "question": "유다에게 찍어 주신 것은 무엇입니까?",
+      "hintWord": "떡 조각",
+      "hintLetter": "떡",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E133",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "신",
+      "question": "겉옷을 제비 뽑아 나눈 것과 관련된 옷가지는 무엇입니까?",
+      "hintWord": "옷",
+      "hintLetter": "신",
+      "difficulty": 2,
+      "stageCandidate": 4
+    },
+    {
+      "id": "JHN-E134",
+      "book": "요한복음",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "해융",
+      "question": "신 포도주를 적신 것은 무엇입니까?",
+      "hintWord": "해융",
+      "hintLetter": "해",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "JHN-E135",
+      "book": "요한복음",
+      "chapter": 20,
+      "category": "사물",
+      "answer": "무덤",
+      "question": "마리아가 돌이 옮겨진 것을 본 곳은 무엇입니까?",
+      "hintWord": "장사된 곳",
+      "hintLetter": "무",
+      "difficulty": 1,
+      "stageCandidate": 1
+    }
+  ],
+  "stages": [
+    {
+      "stageId": "JHN-S001",
+      "book": "요한복음",
+      "bookCode": "JHN",
+      "stage": 1,
+      "title": "요한복음 Stage 1",
+      "grid": {
+        "rows": 6,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 4,
+          "length": 5,
+          "quizId": "JHN-E082"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 4,
+          "quizId": "JHN-P010"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 3,
+          "length": 4,
+          "quizId": "JHN-L030"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 5,
+          "col": 2,
+          "length": 3,
+          "quizId": "JHN-L039"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "JHN-L029"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 2,
+          "quizId": "JHN-E071"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "JHN-E129"
+        }
+      ]
+    },
+    {
+      "stageId": "JHN-S002",
+      "book": "요한복음",
+      "bookCode": "JHN",
+      "stage": 2,
+      "title": "요한복음 Stage 2",
+      "grid": {
+        "rows": 5,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 5,
+          "quizId": "JHN-E052"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 2,
+          "length": 4,
+          "quizId": "JHN-E073"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 1,
+          "col": 5,
+          "length": 3,
+          "quizId": "JHN-E074"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 3,
+          "quizId": "JHN-P012"
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "row": 4,
+          "col": 1,
+          "length": 2,
+          "quizId": "JHN-E058"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 3,
+          "col": 4,
+          "length": 2,
+          "quizId": "JHN-E062"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 2,
+          "length": 2,
+          "quizId": "JHN-E085"
+        }
+      ]
+    },
+    {
+      "stageId": "JHN-S003",
+      "book": "요한복음",
+      "bookCode": "JHN",
+      "stage": 3,
+      "title": "요한복음 Stage 3",
+      "grid": {
+        "rows": 11,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 4,
+          "length": 4,
+          "quizId": "JHN-L040"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 5,
+          "col": 2,
+          "length": 4,
+          "quizId": "JHN-E046"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 5,
+          "col": 3,
+          "length": 4,
+          "quizId": "JHN-E069"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 8,
+          "col": 1,
+          "length": 3,
+          "quizId": "JHN-E090"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 2,
+          "col": 2,
+          "length": 3,
+          "quizId": "JHN-P007"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 3,
+          "quizId": "JHN-L026"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 8,
+          "col": 1,
+          "length": 3,
+          "quizId": "JHN-E076"
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "row": 9,
+          "col": 0,
+          "length": 2,
+          "quizId": "JHN-E064"
+        }
+      ]
+    },
+    {
+      "stageId": "JHN-S004",
+      "book": "요한복음",
+      "bookCode": "JHN",
+      "stage": 4,
+      "title": "요한복음 Stage 4",
+      "grid": {
+        "rows": 7,
+        "cols": 11
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 6,
+          "length": 5,
+          "quizId": "JHN-L041"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 6,
+          "length": 5,
+          "quizId": "JHN-E060"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 4,
+          "col": 3,
+          "length": 4,
+          "quizId": "JHN-L033"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 4,
+          "col": 3,
+          "length": 3,
+          "quizId": "JHN-L036"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 5,
+          "col": 1,
+          "length": 3,
+          "quizId": "JHN-P013"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 4,
+          "col": 1,
+          "length": 3,
+          "quizId": "JHN-E104"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 6,
+          "length": 3,
+          "quizId": "JHN-P020"
+        },
+        {
+          "number": 7,
+          "direction": "across",
+          "row": 6,
+          "col": 0,
+          "length": 2,
+          "quizId": "JHN-E056"
+        }
+      ]
+    },
+    {
+      "stageId": "JHN-S005",
+      "book": "요한복음",
+      "bookCode": "JHN",
+      "stage": 5,
+      "title": "요한복음 Stage 5",
+      "grid": {
+        "rows": 7,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 2,
+          "length": 4,
+          "quizId": "JHN-E044"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 4,
+          "col": 2,
+          "length": 4,
+          "quizId": "JHN-E059"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 2,
+          "length": 4,
+          "quizId": "JHN-E086"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 5,
+          "col": 0,
+          "length": 3,
+          "quizId": "JHN-E087"
+        },
+        {
+          "number": 6,
+          "direction": "down",
+          "row": 5,
+          "col": 1,
+          "length": 2,
+          "quizId": "JHN-P024"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 5,
+          "length": 2,
+          "quizId": "JHN-E130"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 5,
+          "length": 2,
+          "quizId": "JHN-E089"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 6,
+          "length": 2,
+          "quizId": "JHN-E106"
+        }
+      ]
+    },
+    {
+      "stageId": "JHN-S006",
+      "book": "요한복음",
+      "bookCode": "JHN",
+      "stage": 6,
+      "title": "요한복음 Stage 6",
+      "grid": {
+        "rows": 6,
+        "cols": 7
+      },
+      "words": [
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 4,
+          "quizId": "JHN-E072"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 3,
+          "length": 4,
+          "quizId": "JHN-E101"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 1,
+          "length": 4,
+          "quizId": "JHN-P002"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 1,
+          "length": 4,
+          "quizId": "JHN-E114"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 4,
+          "col": 3,
+          "length": 3,
+          "quizId": "JHN-P017"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 3,
+          "length": 3,
+          "quizId": "JHN-E057"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 5,
+          "length": 2,
+          "quizId": "JHN-L031"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 5,
+          "length": 2,
+          "quizId": "JHN-E093"
+        }
+      ]
+    },
+    {
+      "stageId": "JHN-S007",
+      "book": "요한복음",
+      "bookCode": "JHN",
+      "stage": 7,
+      "title": "요한복음 Stage 7",
+      "grid": {
+        "rows": 8,
+        "cols": 5
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 5,
+          "quizId": "JHN-L034"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 4,
+          "col": 1,
+          "length": 4,
+          "quizId": "JHN-P006"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 4,
+          "col": 1,
+          "length": 4,
+          "quizId": "JHN-E053"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 4,
+          "quizId": "JHN-L032"
+        },
+        {
+          "number": 5,
+          "direction": "down",
+          "row": 4,
+          "col": 3,
+          "length": 4,
+          "quizId": "JHN-E094"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 0,
+          "length": 3,
+          "quizId": "JHN-L027"
+        },
+        {
+          "number": 6,
+          "direction": "across",
+          "row": 7,
+          "col": 0,
+          "length": 2,
+          "quizId": "JHN-E124"
+        }
+      ]
+    },
+    {
+      "stageId": "JHN-S008",
+      "book": "요한복음",
+      "bookCode": "JHN",
+      "stage": 8,
+      "title": "요한복음 Stage 8",
+      "grid": {
+        "rows": 6,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 4,
+          "length": 5,
+          "quizId": "JHN-L028"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 1,
+          "length": 4,
+          "quizId": "JHN-E113"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 1,
+          "length": 4,
+          "quizId": "JHN-E047"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 4,
+          "length": 2,
+          "quizId": "JHN-P021"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 2,
+          "length": 2,
+          "quizId": "JHN-P001"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 4,
+          "col": 0,
+          "length": 2,
+          "quizId": "JHN-E103"
+        }
+      ]
+    }
+  ]
+}

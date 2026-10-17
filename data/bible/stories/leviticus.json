@@ -1,0 +1,56 @@
+{
+  "bookId": "leviticus",
+  "stories": [
+    {
+      "id": "story-offerings",
+      "bookId": "leviticus",
+      "title": "제사와 제물",
+      "summary": "하나님께 드리는 여러 제사와 제물에 대한 규례가 주어졌습니다.",
+      "references": [
+        {
+          "book": "레위기",
+          "chapterStart": 1,
+          "verseStart": 1,
+          "chapterEnd": 7,
+          "verseEnd": 38
+        }
+      ],
+      "entityIds": ["object-offering"],
+      "tags": ["제사", "제물"]
+    },
+    {
+      "id": "story-day-of-atonement",
+      "bookId": "leviticus",
+      "title": "속죄일",
+      "summary": "대제사장이 일 년에 한 번 지성소에 들어가 백성의 죄를 속하는 날이 정해졌습니다.",
+      "references": [
+        {
+          "book": "레위기",
+          "chapterStart": 16,
+          "verseStart": 1,
+          "chapterEnd": 16,
+          "verseEnd": 34
+        }
+      ],
+      "entityIds": ["person-aaron", "event-atonement"],
+      "tags": ["속죄일", "대제사장"]
+    },
+    {
+      "id": "story-feasts",
+      "bookId": "leviticus",
+      "title": "여호와의 절기",
+      "summary": "유월절, 무교절, 초막절 등 하나님을 기억하는 절기들이 정해졌습니다.",
+      "references": [
+        {
+          "book": "레위기",
+          "chapterStart": 23,
+          "verseStart": 1,
+          "chapterEnd": 23,
+          "verseEnd": 44
+        }
+      ],
+      "entityIds": ["event-feasts"],
+      "tags": ["절기", "유월절"]
+    }
+  ]
+}

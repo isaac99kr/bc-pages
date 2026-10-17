@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Asia/Seoul",
+  "title": "출애굽의 시작",
+  "theme": {
+    "books": [
+      "출애굽기"
+    ],
+    "note": "모세와 구원"
+  },
+  "grid": {
+    "rows": 4,
+    "cols": 7
+  },
+  "quizzes": [
+    {
+      "id": "D20261013-01",
+      "book": "출애굽기",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "아론",
+      "question": "모세의 형이며 이스라엘의 첫 대제사장이 된 사람은 누구입니까?",
+      "hintWord": "모세의 형",
+      "hintLetter": "아",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261013-02",
+      "book": "출애굽기",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "아말렉",
+      "question": "르비딤에서 이스라엘과 싸운 민족의 이름은 무엇입니까?",
+      "hintWord": "이스라엘과 싸운 민족",
+      "hintLetter": "아",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261013-03",
+      "book": "출애굽기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "시내",
+      "question": "이스라엘이 진을 치고 십계명을 받은 산이 있는 곳은 어디입니까?",
+      "hintWord": "십계명을 받은 산",
+      "hintLetter": "시",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261013-04",
+      "book": "출애굽기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "시내산",
+      "question": "하나님께서 십계명을 주신 산의 이름은 무엇입니까?",
+      "hintWord": "십계명의 산",
+      "hintLetter": "시",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261013-05",
+      "book": "출애굽기",
+      "chapter": 17,
+      "category": "사건",
+      "answer": "아말렉전쟁",
+      "question": "르비딤에서 아말렉과 싸운 일을 무엇이라 부를 수 있습니까?",
+      "hintWord": "아말렉과의 싸움",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261013-06",
+      "book": "출애굽기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "산아래",
+      "question": "이스라엘이 시내 산에서 진을 친 위치를 무엇이라 부를 수 있습니까?",
+      "hintWord": "산 기슭",
+      "hintLetter": "산",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261013-07",
+      "book": "출애굽기",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "시므온",
+      "question": "출애굽기 족보에 나오는 야곱의 아들 가운데 한 사람은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "시",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "quizId": "D20261013-05"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "quizId": "D20261013-06"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "quizId": "D20261013-04"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "quizId": "D20261013-07"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 3,
+      "quizId": "D20261013-02"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 2,
+      "quizId": "D20261013-03"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 2,
+      "quizId": "D20261013-01"
+    }
+  ]
+}

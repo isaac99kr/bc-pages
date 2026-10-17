@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-11",
+  "timezone": "Asia/Seoul",
+  "title": "아브라함의 발자취",
+  "theme": {
+    "books": [
+      "창세기"
+    ],
+    "note": "부르심과 약속의 땅"
+  },
+  "grid": {
+    "rows": 7,
+    "cols": 4
+  },
+  "quizzes": [
+    {
+      "id": "D20261011-01",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "아브람",
+      "question": "하나님께서 본토와 친척과 아버지의 집을 떠나라고 부르신 사람은 누구입니까?",
+      "hintWord": "후에 아브라함이라 불린 사람",
+      "hintLetter": "아",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261011-02",
+      "book": "창세기",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "사라",
+      "question": "이삭의 어머니이며 아브라함의 아내는 누구입니까?",
+      "hintWord": "이삭의 어머니",
+      "hintLetter": "사",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261011-03",
+      "book": "창세기",
+      "chapter": 12,
+      "category": "지명",
+      "answer": "세겜",
+      "question": "아브람이 가나안 땅에 들어와 처음으로 제단을 쌓은 곳 가운데 하나는 어디입니까?",
+      "hintWord": "모레 상수리나무와 관련된 곳",
+      "hintLetter": "세",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261011-04",
+      "book": "창세기",
+      "chapter": 21,
+      "category": "지명",
+      "answer": "브엘세바",
+      "question": "아브라함이 아비멜렉과 언약을 맺은 곳은 어디입니까?",
+      "hintWord": "우물과 언약으로 유명한 곳",
+      "hintLetter": "브",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261011-05",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "지명",
+      "answer": "모리아",
+      "question": "아브라함이 이삭을 데리고 가도록 명령받은 땅은 어디입니까?",
+      "hintWord": "이삭을 번제로 드리라는 시험과 관련된 곳",
+      "hintLetter": "모",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261011-06",
+      "book": "창세기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "고모라",
+      "question": "소돔과 함께 하나님의 심판을 받은 성읍은 어디입니까?",
+      "hintWord": "소돔과 함께 언급되는 성읍",
+      "hintLetter": "고",
+      "difficulty": 1
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "quizId": "D20261011-06"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 2,
+      "quizId": "D20261011-02"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 3,
+      "quizId": "D20261011-05"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "quizId": "D20261011-01"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "quizId": "D20261011-04"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 2,
+      "quizId": "D20261011-03"
+    }
+  ]
+}

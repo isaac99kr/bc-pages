@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "사도행전의 길",
+  "theme": {
+    "books": [
+      "사도행전"
+    ],
+    "note": "복음이 퍼져 나가다"
+  },
+  "grid": {
+    "rows": 7,
+    "cols": 4
+  },
+  "quizzes": [
+    {
+      "id": "D20261015-01",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "오순절 날 성령 충만하여 군중 앞에서 설교한 사도는 누구입니까?",
+      "hintWord": "열두 사도의 한 사람",
+      "hintLetter": "베",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261015-02",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "개념",
+      "answer": "장로",
+      "question": "바울이 밀레도에서 에베소 교회를 위해 청해 함께 권면한 직분은 무엇입니까?",
+      "hintWord": "교회 지도자",
+      "hintLetter": "장",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261015-03",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "지명",
+      "answer": "드로아",
+      "question": "바울이 밤새 말씀을 전하던 가운데 유두고가 창에서 떨어진 성은 어디입니까?",
+      "hintWord": "아시아의 항구 성",
+      "hintLetter": "드",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261015-04",
+      "book": "사도행전",
+      "chapter": 21,
+      "category": "인물",
+      "answer": "아가보",
+      "question": "바울이 예루살렘에서 결박당할 것을 예언한 선지자는 누구입니까?",
+      "hintWord": "예언자",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261015-05",
+      "book": "사도행전",
+      "chapter": 10,
+      "category": "지명",
+      "answer": "가이사랴",
+      "question": "이탈리아 부대 백부장 고넬료가 살던 성은 어디입니까?",
+      "hintWord": "로마 주둔지가 있는 해변 성",
+      "hintLetter": "가",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261015-06",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "사도",
+      "question": "예수님을 따르며 증인의 직분을 받은 열두 제자를 무엇이라 부릅니까?",
+      "hintWord": "열두 제자",
+      "hintLetter": "사",
+      "difficulty": 1
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "quizId": "D20261015-01"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 2,
+      "quizId": "D20261015-02"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 3,
+      "quizId": "D20261015-03"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "quizId": "D20261015-04"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "quizId": "D20261015-05"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 2,
+      "quizId": "D20261015-06"
+    }
+  ]
+}

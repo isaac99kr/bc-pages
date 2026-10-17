@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Seoul",
+  "title": "야곱의 이야기",
+  "theme": {
+    "books": [
+      "창세기"
+    ],
+    "note": "꿈과 씨름"
+  },
+  "grid": {
+    "rows": 7,
+    "cols": 9
+  },
+  "quizzes": [
+    {
+      "id": "D20261014-01",
+      "book": "창세기",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "아브라함",
+      "question": "하나님께서 아브람에게 새로 주신 이름은 무엇입니까?",
+      "hintWord": "많은 민족의 아버지와 관련된 이름",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261014-02",
+      "book": "창세기",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "유다",
+      "question": "야곱의 아들로 요셉을 죽이지 말고 팔자고 제안한 사람은 누구입니까?",
+      "hintWord": "요셉의 형",
+      "hintLetter": "유",
+      "difficulty": 1
+    },
+    {
+      "id": "D20261014-03",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "인물",
+      "answer": "므낫세",
+      "question": "요셉이 애굽에서 낳은 첫째 아들은 누구입니까?",
+      "hintWord": "요셉의 첫째 아들",
+      "hintLetter": "므",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261014-04",
+      "book": "창세기",
+      "chapter": 13,
+      "category": "지명",
+      "answer": "마므레",
+      "question": "아브람이 헤브론 근처에서 장막을 친 곳은 어디입니까?",
+      "hintWord": "상수리나무와 관련된 곳",
+      "hintLetter": "마",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261014-05",
+      "book": "창세기",
+      "chapter": 25,
+      "category": "인물",
+      "answer": "이스라엘",
+      "question": "야곱이 하나님과 씨름한 뒤 새로 받은 이름은 무엇입니까?",
+      "hintWord": "야곱의 새 이름",
+      "hintLetter": "이",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261014-06",
+      "book": "창세기",
+      "chapter": 14,
+      "category": "인물",
+      "answer": "아므라벨",
+      "question": "아브라함 시대에 소돔 전쟁을 일으킨 시날 왕은 누구입니까?",
+      "hintWord": "시날 왕",
+      "hintLetter": "아",
+      "difficulty": 3
+    },
+    {
+      "id": "D20261014-07",
+      "book": "창세기",
+      "chapter": 19,
+      "category": "지명",
+      "answer": "아다마",
+      "question": "소돔·고모라와 함께 심판받은 성읍 가운데 하나는 어디입니까?",
+      "hintWord": "심판받은 성읍",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "D20261014-08",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "지명",
+      "answer": "여호와이레",
+      "question": "아브라함이 모리아에서 여호와께서 준비하신다며 부른 그곳 이름은 무엇입니까?",
+      "hintWord": "여호와께서 준비하심",
+      "hintLetter": "여",
+      "difficulty": 3
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "quizId": "D20261014-08"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "quizId": "D20261014-05"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "quizId": "D20261014-06"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "quizId": "D20261014-01"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "quizId": "D20261014-04"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "quizId": "D20261014-07"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "quizId": "D20261014-03"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 2,
+      "quizId": "D20261014-02"
+    }
+  ]
+}

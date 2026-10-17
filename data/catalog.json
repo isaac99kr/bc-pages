@@ -1,0 +1,481 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "bookCode": "GEN",
+      "slug": "genesis",
+      "title": "창세기",
+      "books": [
+        "창세기"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "EXO",
+      "slug": "exodus",
+      "title": "출애굽기",
+      "books": [
+        "출애굽기"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 7
+    },
+    {
+      "bookCode": "LEV",
+      "slug": "leviticus",
+      "title": "레위기",
+      "books": [
+        "레위기"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 9
+    },
+    {
+      "bookCode": "NUM",
+      "slug": "numbers",
+      "title": "민수기",
+      "books": [
+        "민수기"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "DEU",
+      "slug": "deuteronomy",
+      "title": "신명기",
+      "books": [
+        "신명기"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 9
+    },
+    {
+      "bookCode": "JOS",
+      "slug": "joshua",
+      "title": "여호수아",
+      "books": [
+        "여호수아"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "JDG",
+      "slug": "judges",
+      "title": "사사기",
+      "books": [
+        "사사기"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 6
+    },
+    {
+      "bookCode": "RUT",
+      "slug": "ruth",
+      "title": "룻기",
+      "books": [
+        "룻기"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 4
+    },
+    {
+      "bookCode": "SAM",
+      "slug": "samuel",
+      "title": "사무엘",
+      "books": [
+        "사무엘상",
+        "사무엘하"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "KGS",
+      "slug": "kings",
+      "title": "열왕기",
+      "books": [
+        "열왕기상",
+        "열왕기하"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 7
+    },
+    {
+      "bookCode": "CHR",
+      "slug": "chronicles",
+      "title": "역대기",
+      "books": [
+        "역대상",
+        "역대하"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 4
+    },
+    {
+      "bookCode": "EZRNEH",
+      "slug": "ezra-nehemiah",
+      "title": "에스라·느헤미야",
+      "books": [
+        "에스라",
+        "느헤미야"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "EST",
+      "slug": "esther",
+      "title": "에스더",
+      "books": [
+        "에스더"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "JOB",
+      "slug": "job",
+      "title": "욥기",
+      "books": [
+        "욥기"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 4
+    },
+    {
+      "bookCode": "PSA",
+      "slug": "psalms",
+      "title": "시편",
+      "books": [
+        "시편"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "PRO",
+      "slug": "proverbs",
+      "title": "잠언",
+      "books": [
+        "잠언"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "ECCSOS",
+      "slug": "ecc-sos",
+      "title": "전도·아가",
+      "books": [
+        "전도서",
+        "아가"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 4
+    },
+    {
+      "bookCode": "ISA",
+      "slug": "isaiah",
+      "title": "이사야",
+      "books": [
+        "이사야"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "JERLAM",
+      "slug": "jer-lam",
+      "title": "예레미야·애가",
+      "books": [
+        "예레미야",
+        "예레미야애가"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "EZK",
+      "slug": "ezekiel",
+      "title": "에스겔",
+      "books": [
+        "에스겔"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "DAN",
+      "slug": "daniel",
+      "title": "다니엘",
+      "books": [
+        "다니엘"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 6
+    },
+    {
+      "bookCode": "MINOR1",
+      "slug": "minor1",
+      "title": "호세아~미가",
+      "books": [
+        "호세아",
+        "요엘",
+        "아모스",
+        "오바댜",
+        "요나",
+        "미가"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 6
+    },
+    {
+      "bookCode": "MINOR2",
+      "slug": "minor2",
+      "title": "나훔~스바냐",
+      "books": [
+        "나훔",
+        "하박국",
+        "스바냐"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 7
+    },
+    {
+      "bookCode": "MINOR3",
+      "slug": "minor3",
+      "title": "학개~말라기",
+      "books": [
+        "학개",
+        "스가랴",
+        "말라기"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 6
+    },
+    {
+      "bookCode": "MAT",
+      "slug": "matthew",
+      "title": "마태복음",
+      "books": [
+        "마태복음"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "MRK",
+      "slug": "mark",
+      "title": "마가복음",
+      "books": [
+        "마가복음"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "LUK",
+      "slug": "luke",
+      "title": "누가복음",
+      "books": [
+        "누가복음"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 7
+    },
+    {
+      "bookCode": "JHN",
+      "slug": "john",
+      "title": "요한복음",
+      "books": [
+        "요한복음"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "ACT",
+      "slug": "acts",
+      "title": "사도행전",
+      "books": [
+        "사도행전"
+      ],
+      "size": "large",
+      "status": "available",
+      "stageCount": 11
+    },
+    {
+      "bookCode": "ROM",
+      "slug": "romans",
+      "title": "로마서",
+      "books": [
+        "로마서"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 4
+    },
+    {
+      "bookCode": "COR",
+      "slug": "corinthians",
+      "title": "고린도",
+      "books": [
+        "고린도전서",
+        "고린도후서"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "GAL",
+      "slug": "galatians",
+      "title": "갈라디아서",
+      "books": [
+        "갈라디아서"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 7
+    },
+    {
+      "bookCode": "EPHPHP",
+      "slug": "eph-phil",
+      "title": "에베소·빌립보",
+      "books": [
+        "에베소서",
+        "빌립보서"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "COLTHS",
+      "slug": "col-ths",
+      "title": "골로새·데살로니가",
+      "books": [
+        "골로새서",
+        "데살로니가전서",
+        "데살로니가후서"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 6
+    },
+    {
+      "bookCode": "PASTORAL",
+      "slug": "pastoral",
+      "title": "디모데·디도·빌레몬",
+      "books": [
+        "디모데전서",
+        "디모데후서",
+        "디도서",
+        "빌레몬서"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 8
+    },
+    {
+      "bookCode": "HEB",
+      "slug": "hebrews",
+      "title": "히브리서",
+      "books": [
+        "히브리서"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 7
+    },
+    {
+      "bookCode": "JAS",
+      "slug": "james",
+      "title": "야고보서",
+      "books": [
+        "야고보서"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 5
+    },
+    {
+      "bookCode": "PET",
+      "slug": "peter",
+      "title": "베드로",
+      "books": [
+        "베드로전서",
+        "베드로후서"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 7
+    },
+    {
+      "bookCode": "JOHNLET",
+      "slug": "john-letters",
+      "title": "요한서신",
+      "books": [
+        "요한일서",
+        "요한이서",
+        "요한삼서"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 4
+    },
+    {
+      "bookCode": "JUD",
+      "slug": "jude",
+      "title": "유다서",
+      "books": [
+        "유다서"
+      ],
+      "size": "short",
+      "status": "available",
+      "stageCount": 4
+    },
+    {
+      "bookCode": "REV",
+      "slug": "revelation",
+      "title": "요한계시록",
+      "books": [
+        "요한계시록"
+      ],
+      "size": "medium",
+      "status": "available",
+      "stageCount": 5
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": 16,
+  "date": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "탕자와 십자가",
+  "theme": {
+    "books": [
+      "누가복음"
+    ],
+    "note": "비유와 십자가의 길"
+  },
+  "grid": {
+    "rows": 5,
+    "cols": 5
+  },
+  "quizzes": [
+    {
+      "id": "Q16-01",
+      "book": "누가복음",
+      "chapter": 19,
+      "category": "개념",
+      "answer": "잃은자",
+      "question": "인자가 온 것은 (  )를 찾아 구원하려 함이니라. 빈칸에 들어갈 말은 무엇입니까?",
+      "hintVerse": "눅19:10",
+      "hintLetter": "잃",
+      "difficulty": 2,
+      "questionType": "blank"
+    },
+    {
+      "id": "Q16-02",
+      "book": "마태복음",
+      "chapter": 26,
+      "category": "사물",
+      "answer": "은삼십",
+      "question": "가룟 유다가 예수를 팔기로 하고 대제사장들이 달아 준 값은 얼마입니까?",
+      "hintVerse": "마26:15",
+      "hintLetter": "은",
+      "difficulty": 2
+    },
+    {
+      "id": "Q16-03",
+      "book": "누가복음",
+      "chapter": 23,
+      "category": "사물",
+      "answer": "십자가",
+      "question": "해골이라 하는 곳에서 예수를 못 박으신 형틀은 무엇입니까?",
+      "hintVerse": "눅23:33",
+      "hintLetter": "십",
+      "difficulty": 2
+    },
+    {
+      "id": "Q16-04",
+      "book": "누가복음",
+      "chapter": 15,
+      "category": "인물",
+      "answer": "탕자",
+      "question": "재산을 가지고 먼 나라에 갔다가 돌아와 아버지께 용서를 구한 아들은 누구입니까?",
+      "hintVerse": "눅15:21",
+      "hintLetter": "탕",
+      "difficulty": 2
+    },
+    {
+      "id": "Q16-05",
+      "book": "누가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "사가랴",
+      "question": "성전에서 분향하다가 천사의 소식을 들은, 요한의 아버지는 누구입니까?",
+      "hintVerse": "눅1:13",
+      "hintLetter": "사",
+      "difficulty": 2
+    },
+    {
+      "id": "Q16-06",
+      "book": "요한계시록",
+      "chapter": 3,
+      "category": "지명",
+      "answer": "사데",
+      "question": "살았다 하는 이름은 있으나 죽은 자로 책망받은 일곱 교회 가운데 하나는 어디입니까?",
+      "hintVerse": "계3:1",
+      "hintLetter": "사",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q16-01"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q16-02"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "quizId": "Q16-03"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q16-04"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q16-05"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 2,
+      "quizId": "Q16-06"
+    }
+  ]
+}
