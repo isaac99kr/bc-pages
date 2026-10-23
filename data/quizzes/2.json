@@ -1,0 +1,152 @@
+{
+  "id": 2,
+  "date": "2026-10-12",
+  "publishedAt": "2026-10-12",
+  "timezone": "Asia/Seoul",
+  "title": "호렙에서 엘림까지",
+  "theme": {
+    "books": ["출애굽기"],
+    "note": "부르심과 광야의 첫 진영"
+  },
+  "grid": {
+    "rows": 6,
+    "cols": 5
+  },
+  "quizzes": [
+    {
+      "id": "Q2-01",
+      "book": "출애굽기",
+      "chapter": 3,
+      "category": "가문",
+      "answer": "이스라엘",
+      "question": "하나님께서 모세를 보내어 애굽에서 건져 내신 백성의 이름은 무엇입니까?",
+      "hintVerse": "출3:10",
+      "hintLetter": "이",
+      "difficulty": 1
+    },
+    {
+      "id": "Q2-02",
+      "book": "출애굽기",
+      "chapter": 17,
+      "category": "인물",
+      "answer": "여호수아",
+      "question": "아말렉과 싸울 때 모세가 군대를 이끌도록 택한 젊은이는 누구입니까?",
+      "hintVerse": "출17:9",
+      "hintLetter": "여",
+      "difficulty": 1
+    },
+    {
+      "id": "Q2-03",
+      "book": "출애굽기",
+      "chapter": 3,
+      "category": "지명",
+      "answer": "호렙",
+      "question": "떨기나무 불꽃 가운데서 하나님이 모세를 부르신 산은 어디입니까?",
+      "hintVerse": "출3:1",
+      "hintLetter": "호",
+      "difficulty": 1
+    },
+    {
+      "id": "Q2-04",
+      "book": "출애굽기",
+      "chapter": 15,
+      "category": "지명",
+      "answer": "마라",
+      "question": "물이 써서 백성이 마실 수 없다며 원망했던 곳은 어디입니까?",
+      "hintVerse": "출15:23",
+      "hintLetter": "마",
+      "difficulty": 2
+    },
+    {
+      "id": "Q2-05",
+      "book": "출애굽기",
+      "chapter": 6,
+      "category": "인물",
+      "answer": "엘르아살",
+      "question": "아론의 아들 가운데 나중에 대제사장이 된 사람은 누구입니까?",
+      "hintVerse": "출6:25",
+      "hintLetter": "엘",
+      "difficulty": 2
+    },
+    {
+      "id": "Q2-06",
+      "book": "출애굽기",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "르우엘",
+      "question": "미디안 제사장 이드로의 다른 이름으로 불리는 사람은 누구입니까?",
+      "hintVerse": "출2:18",
+      "hintLetter": "르",
+      "difficulty": 3
+    },
+    {
+      "id": "Q2-07",
+      "book": "출애굽기",
+      "chapter": 15,
+      "category": "지명",
+      "answer": "엘림",
+      "question": "열두 샘과 칠십 그루 야자나무가 있어 백성이 진을 친 곳은 어디입니까?",
+      "hintVerse": "출15:27",
+      "hintLetter": "엘",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "quizId": "Q2-01"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "quizId": "Q2-02"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 2,
+      "quizId": "Q2-03"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q2-04"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "quizId": "Q2-05"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q2-06"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 2,
+      "quizId": "Q2-07"
+    }
+  ]
+}

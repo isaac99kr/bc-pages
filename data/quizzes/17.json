@@ -1,0 +1,136 @@
+{
+  "id": 17,
+  "date": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "야고보와 보좌",
+  "theme": {
+    "books": [
+      "야고보서",
+      "복음서"
+    ],
+    "note": "믿음의 행함과 이름의 증거"
+  },
+  "grid": {
+    "rows": 3,
+    "cols": 6
+  },
+  "quizzes": [
+    {
+      "id": "Q17-01",
+      "book": "예레미야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "예레미야",
+      "question": "모태에서부터 민족들에게 선지자로 세움을 받은 사람은 누구입니까?",
+      "hintVerse": "렘1:5",
+      "hintLetter": "예",
+      "difficulty": 2
+    },
+    {
+      "id": "Q17-02",
+      "book": "마태복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "예수",
+      "question": "자기 백성을 그들의 죄에서 구원할 자라 하여 부르라 하신 이름은 무엇입니까?",
+      "hintVerse": "마1:21",
+      "hintLetter": "예",
+      "difficulty": 2
+    },
+    {
+      "id": "Q17-03",
+      "book": "야고보서",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "야고보",
+      "question": "흩어져 있는 열두 지파에게 문안하며 이 서신을 연 사람은 누구입니까?",
+      "hintVerse": "약1:1",
+      "hintLetter": "야",
+      "difficulty": 2
+    },
+    {
+      "id": "Q17-04",
+      "book": "요한복음",
+      "chapter": 4,
+      "category": "사물",
+      "answer": "생수",
+      "question": "야곱의 우물가에서 사마리아 여인에게 주시면 영원히 목마르지 아니하리라 하신 것은 무엇입니까?",
+      "hintVerse": "요4:10",
+      "hintLetter": "생",
+      "difficulty": 2
+    },
+    {
+      "id": "Q17-05",
+      "book": "요한복음",
+      "chapter": 21,
+      "category": "사물",
+      "answer": "생선",
+      "question": "디베랴 바다에서 제자들이 올라와 보니 숯불에 올려져 있던 것은 무엇입니까?",
+      "hintVerse": "요21:9",
+      "hintLetter": "생",
+      "difficulty": 2
+    },
+    {
+      "id": "Q17-06",
+      "book": "요한계시록",
+      "chapter": 4,
+      "category": "사물",
+      "answer": "보좌",
+      "question": "하늘에 열린 문을 보니 놓여 있고 앉으신 이가 계신 것은 무엇입니까?",
+      "hintVerse": "계4:2",
+      "hintLetter": "보",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "quizId": "Q17-01"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 2,
+      "quizId": "Q17-02"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 3,
+      "quizId": "Q17-03"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q17-04"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q17-05"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 2,
+      "quizId": "Q17-06"
+    }
+  ]
+}

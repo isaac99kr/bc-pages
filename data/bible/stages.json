@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "stages": [
+    {
+      "id": "genesis-pack-memory-match",
+      "groupId": "genesis",
+      "bookId": "genesis",
+      "storyId": "story-creation",
+      "gameType": "memory-match",
+      "title": "창세기 짝맞추기",
+      "contentIds": [
+        "memory-creation-001",
+        "memory-noah-animals-001",
+        "memory-joseph-001"
+      ],
+      "order": 1,
+      "required": true
+    },
+    {
+      "id": "genesis-pack-character-riddle",
+      "groupId": "genesis",
+      "bookId": "genesis",
+      "storyId": "story-eden",
+      "gameType": "character-riddle",
+      "title": "창세기 인물 추리",
+      "contentIds": [
+        "riddle-adam-001",
+        "riddle-noah-001",
+        "riddle-abraham-001",
+        "riddle-jacob-001",
+        "riddle-joseph-001"
+      ],
+      "order": 2,
+      "required": true
+    },
+    {
+      "id": "genesis-pack-word-arrange",
+      "groupId": "genesis",
+      "bookId": "genesis",
+      "storyId": "story-abraham",
+      "gameType": "word-arrange",
+      "title": "창세기 글자 배열",
+      "contentIds": [
+        "word-abraham-001",
+        "word-israel-001",
+        "word-eden-001",
+        "word-jireh-001",
+        "word-creation-001"
+      ],
+      "order": 3,
+      "required": true
+    },
+    {
+      "id": "genesis-pack-crossword-link",
+      "groupId": "genesis",
+      "bookId": "genesis",
+      "storyId": "story-genesis-review",
+      "gameType": "crossword-link",
+      "title": "창세기 크로스워드",
+      "contentIds": [
+        "crossword-link-quiz-1",
+        "crossword-link-quiz-3",
+        "crossword-link-quiz-7",
+        "crossword-link-quiz-11",
+        "crossword-link-quiz-12"
+      ],
+      "order": 4,
+      "required": true
+    },
+    {
+      "id": "genesis-pack-spot-difference",
+      "groupId": "genesis",
+      "bookId": "genesis",
+      "storyId": "story-noah-ark",
+      "gameType": "spot-difference",
+      "title": "창세기 틀린그림 찾기",
+      "contentIds": ["spot-genesis-001"],
+      "order": 5,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0001",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-moses-call",
+      "gameType": "character-riddle",
+      "title": "떨기나무의 사람을 찾아라",
+      "contentId": "riddle-moses-001",
+      "order": 1,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0002",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-moses-call",
+      "gameType": "word-arrange",
+      "title": "호렙의 이름 맞추기",
+      "contentId": "word-moses-001",
+      "order": 2,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0003",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-ten-plagues",
+      "gameType": "memory-match",
+      "title": "재앙의 짝 찾기",
+      "contentId": "memory-plagues-001",
+      "order": 3,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0004",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-red-sea",
+      "gameType": "word-arrange",
+      "title": "갈라진 물의 이름 맞추기",
+      "contentId": "word-red-sea-001",
+      "order": 4,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0005",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-manna",
+      "gameType": "memory-match",
+      "title": "광야 양식 짝 찾기",
+      "contentId": "memory-wilderness-001",
+      "order": 5,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0006",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-ten-commandments",
+      "gameType": "word-arrange",
+      "title": "돌판의 말씀 맞추기",
+      "contentId": "word-ten-commandments-001",
+      "order": 6,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0007",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-golden-calf",
+      "gameType": "character-riddle",
+      "title": "금송아지와 관련된 사람을 찾아라",
+      "contentId": "riddle-aaron-001",
+      "order": 7,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0008",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-tabernacle",
+      "gameType": "memory-match",
+      "title": "성막 물건 짝 찾기",
+      "contentId": "memory-tabernacle-001",
+      "order": 8,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0009",
+      "groupId": "exodus-wilderness",
+      "bookId": "exodus",
+      "storyId": "story-exodus-review",
+      "gameType": "crossword-link",
+      "title": "출애굽 복습 크로스워드",
+      "contentId": "crossword-link-quiz-2",
+      "order": 9,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0010",
+      "groupId": "exodus-wilderness",
+      "bookId": "leviticus",
+      "storyId": "story-feasts",
+      "gameType": "memory-match",
+      "title": "절기 짝 찾기",
+      "contentId": "memory-feasts-001",
+      "order": 10,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0011",
+      "groupId": "exodus-wilderness",
+      "bookId": "leviticus",
+      "storyId": "story-day-of-atonement",
+      "gameType": "word-arrange",
+      "title": "거룩한 날의 이름 맞추기",
+      "contentId": "word-atonement-001",
+      "order": 11,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0012",
+      "groupId": "exodus-wilderness",
+      "bookId": "leviticus",
+      "storyId": "story-feasts",
+      "gameType": "crossword-link",
+      "title": "절기 복습 크로스워드",
+      "contentId": "crossword-link-quiz-4",
+      "order": 12,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0013",
+      "groupId": "exodus-wilderness",
+      "bookId": "numbers",
+      "storyId": "story-spies",
+      "gameType": "character-riddle",
+      "title": "믿음으로 말한 정탐꾼을 찾아라",
+      "contentId": "riddle-caleb-001",
+      "order": 13,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0014",
+      "groupId": "exodus-wilderness",
+      "bookId": "numbers",
+      "storyId": "story-spies",
+      "gameType": "word-arrange",
+      "title": "약속의 땅 이름 맞추기",
+      "contentId": "word-canaan-001",
+      "order": 14,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0015",
+      "groupId": "exodus-wilderness",
+      "bookId": "numbers",
+      "storyId": "story-wilderness-rebellion",
+      "gameType": "memory-match",
+      "title": "광야 사건 짝 찾기",
+      "contentId": "memory-wilderness-events-001",
+      "order": 15,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0016",
+      "groupId": "exodus-wilderness",
+      "bookId": "numbers",
+      "storyId": "story-balaam",
+      "gameType": "character-riddle",
+      "title": "축복만 말하게 된 사람을 찾아라",
+      "contentId": "riddle-balaam-001",
+      "order": 16,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0017",
+      "groupId": "exodus-wilderness",
+      "bookId": "deuteronomy",
+      "storyId": "story-shema",
+      "gameType": "word-arrange",
+      "title": "들으라는 말씀 맞추기",
+      "contentId": "word-shema-001",
+      "order": 17,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0018",
+      "groupId": "exodus-wilderness",
+      "bookId": "deuteronomy",
+      "storyId": "story-moses-farewell",
+      "gameType": "word-arrange",
+      "title": "다음 지도자의 이름 맞추기",
+      "contentId": "word-joshua-001",
+      "order": 18,
+      "required": true
+    },
+    {
+      "id": "ew-stage-0019",
+      "groupId": "exodus-wilderness",
+      "bookId": "deuteronomy",
+      "storyId": "story-wilderness-review",
+      "gameType": "memory-match",
+      "title": "성막 물건 복습 짝 찾기",
+      "contentId": "memory-tabernacle-001",
+      "order": 19,
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": 13,
+  "date": "2026-10-16",
+  "publishedAt": "2026-10-16",
+  "timezone": "Asia/Seoul",
+  "title": "시내와 불기둥",
+  "theme": {
+    "books": [
+      "출애굽기"
+    ],
+    "note": "인도하심과 원망의 광야"
+  },
+  "grid": {
+    "rows": 7,
+    "cols": 7
+  },
+  "quizzes": [
+    {
+      "id": "Q13-01",
+      "book": "출애굽기",
+      "chapter": 3,
+      "category": "사건",
+      "answer": "소명",
+      "question": "호렙 떨기나무 불꽃 가운데서 하나님이 모세를 불러 바로에게 보내신 일을 무엇이라 부를 수 있습니까?",
+      "hintVerse": "출3:10",
+      "hintLetter": "소",
+      "difficulty": 2
+    },
+    {
+      "id": "Q13-02",
+      "book": "출애굽기",
+      "chapter": 20,
+      "category": "사물",
+      "answer": "십계명",
+      "question": "하나님께서 시내 산에서 돌판에 기록하여 주신 열 가지 말씀은 무엇입니까?",
+      "hintVerse": "출20:1",
+      "hintLetter": "십",
+      "difficulty": 1
+    },
+    {
+      "id": "Q13-03",
+      "book": "출애굽기",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "십보라",
+      "question": "미디안에서 모세가 아내로 맞이한 이드로의 딸은 누구입니까?",
+      "hintVerse": "출2:21",
+      "hintLetter": "십",
+      "difficulty": 2
+    },
+    {
+      "id": "Q13-04",
+      "book": "출애굽기",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "메추라기",
+      "question": "광야에서 저녁에 진에 덮여 이스라엘 백성이 먹은 새는 무엇입니까?",
+      "hintVerse": "출16:13",
+      "hintLetter": "메",
+      "difficulty": 1
+    },
+    {
+      "id": "Q13-05",
+      "book": "출애굽기",
+      "chapter": 10,
+      "category": "사건",
+      "answer": "메뚜기",
+      "question": "애굽의 남은 푸성귀를 다 먹은 여덟 번째 재앙의 곤충은 무엇입니까?",
+      "hintVerse": "출10:14",
+      "hintLetter": "메",
+      "difficulty": 1
+    },
+    {
+      "id": "Q13-06",
+      "book": "출애굽기",
+      "chapter": 13,
+      "category": "사물",
+      "answer": "불기둥",
+      "question": "밤에 이스라엘을 비추며 길을 인도한 것은 무엇입니까?",
+      "hintVerse": "출13:21",
+      "hintLetter": "불",
+      "difficulty": 1
+    },
+    {
+      "id": "Q13-07",
+      "book": "출애굽기",
+      "chapter": 16,
+      "category": "사건",
+      "answer": "불평",
+      "question": "광야에서 이스라엘 자손이 모세와 아론을 향하여 원망한 일을 무엇이라 부를 수 있습니까?",
+      "hintVerse": "출16:2",
+      "hintLetter": "불",
+      "difficulty": 2
+    },
+    {
+      "id": "Q13-08",
+      "book": "민수기",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "화평",
+      "question": "아론의 축복에서 여호와께서 얼굴을 들어 네게 향하게 하시고 주시기를 원하신 것은 무엇입니까?",
+      "hintVerse": "민6:26",
+      "hintLetter": "화",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 2,
+      "quizId": "Q13-01"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "quizId": "Q13-02"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "quizId": "Q13-03"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "quizId": "Q13-04"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q13-05"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q13-06"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 2,
+      "quizId": "Q13-07"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q13-08"
+    }
+  ]
+}

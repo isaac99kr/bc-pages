@@ -1,0 +1,56 @@
+{
+  "bookId": "numbers",
+  "stories": [
+    {
+      "id": "story-spies",
+      "bookId": "numbers",
+      "title": "가나안 정탐",
+      "summary": "열두 정탐꾼이 가나안을 살펴보고 돌아왔고, 믿음으로 말한 사람과 두려워한 사람이 갈렸습니다.",
+      "references": [
+        {
+          "book": "민수기",
+          "chapterStart": 13,
+          "verseStart": 1,
+          "chapterEnd": 14,
+          "verseEnd": 38
+        }
+      ],
+      "entityIds": ["person-caleb", "person-joshua", "place-canaan"],
+      "tags": ["정탐", "가나안", "갈렙"]
+    },
+    {
+      "id": "story-wilderness-rebellion",
+      "bookId": "numbers",
+      "title": "광야의 불순종",
+      "summary": "백성이 광야에서 여러 번 원망하고 불순종하여, 그 세대가 광야에서 지내게 되었습니다.",
+      "references": [
+        {
+          "book": "민수기",
+          "chapterStart": 14,
+          "verseStart": 26,
+          "chapterEnd": 21,
+          "verseEnd": 9
+        }
+      ],
+      "entityIds": ["place-wilderness"],
+      "tags": ["광야", "불순종"]
+    },
+    {
+      "id": "story-balaam",
+      "bookId": "numbers",
+      "title": "발람",
+      "summary": "발람은 이스라엘을 저주하려 했으나, 하나님이 그 입을 통해 축복의 말을 하게 하셨습니다.",
+      "references": [
+        {
+          "book": "민수기",
+          "chapterStart": 22,
+          "verseStart": 1,
+          "chapterEnd": 24,
+          "verseEnd": 25
+        }
+      ],
+      "entityIds": ["person-balaam"],
+      "tags": ["발람", "축복"]
+    }
+  ]
+}

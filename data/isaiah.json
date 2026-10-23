@@ -1,0 +1,2060 @@
+{
+  "bookCode": "ISA",
+  "book": "이사야",
+  "quizzes": [
+    {
+      "id": "ISA-P001",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "이사야",
+      "question": "이사야에서 선지자(으)로 알려진 사람은 누구입니까?",
+      "hintWord": "선지자",
+      "hintLetter": "이",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-P002",
+      "book": "이사야",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "히스기야",
+      "question": "이사야에서 유다 왕(으)로 알려진 사람은 누구입니까?",
+      "hintWord": "유다 왕",
+      "hintLetter": "히",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P003",
+      "book": "이사야",
+      "chapter": 3,
+      "category": "인물",
+      "answer": "아하스",
+      "question": "이사야에서 유다 왕(으)로 알려진 사람은 누구입니까?",
+      "hintWord": "유다 왕",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-P004",
+      "book": "이사야",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "고레스",
+      "question": "이사야에서 바사 왕(으)로 알려진 사람은 누구입니까?",
+      "hintWord": "바사 왕",
+      "hintLetter": "고",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-L001",
+      "book": "이사야",
+      "chapter": 5,
+      "category": "지명",
+      "answer": "시온",
+      "question": "이사야에서 여호와의 산(으)로 알려진 곳은 어디입니까?",
+      "hintWord": "여호와의 산",
+      "hintLetter": "시",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-L002",
+      "book": "이사야",
+      "chapter": 6,
+      "category": "지명",
+      "answer": "예루살렘",
+      "question": "이사야에서 거룩한 성(으)로 알려진 곳은 어디입니까?",
+      "hintWord": "거룩한 성",
+      "hintLetter": "예",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-L003",
+      "book": "이사야",
+      "chapter": 7,
+      "category": "지명",
+      "answer": "바벨론",
+      "question": "이사야에서 교만한 성(으)로 알려진 곳은 어디입니까?",
+      "hintWord": "교만한 성",
+      "hintLetter": "바",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-L004",
+      "book": "이사야",
+      "chapter": 8,
+      "category": "지명",
+      "answer": "애굽",
+      "question": "이사야에서 의지하지 말 나라(으)로 알려진 곳은 어디입니까?",
+      "hintWord": "의지하지 말 나라",
+      "hintLetter": "애",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E001",
+      "book": "이사야",
+      "chapter": 9,
+      "category": "사건",
+      "answer": "소명",
+      "question": "이사야의 누가 갈꼬과 관련된 사건은 무엇입니까?",
+      "hintWord": "누가 갈꼬",
+      "hintLetter": "소",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E002",
+      "book": "이사야",
+      "chapter": 10,
+      "category": "사건",
+      "answer": "임마누엘약속",
+      "question": "이사야의 함께하심의 약속과 관련된 사건은 무엇입니까?",
+      "hintWord": "함께하심의 약속",
+      "hintLetter": "임",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E003",
+      "book": "이사야",
+      "chapter": 11,
+      "category": "사건",
+      "answer": "고난의종",
+      "question": "이사야의 종의 노래과 관련된 사건은 무엇입니까?",
+      "hintWord": "종의 노래",
+      "hintLetter": "고",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E004",
+      "book": "이사야",
+      "chapter": 12,
+      "category": "사건",
+      "answer": "회복",
+      "question": "이사야의 새 하늘 새 땅과 관련된 사건은 무엇입니까?",
+      "hintWord": "새 하늘 새 땅",
+      "hintLetter": "회",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E005",
+      "book": "이사야",
+      "chapter": 13,
+      "category": "개념",
+      "answer": "거룩",
+      "question": "이사야에서 강조하는 만군의 여호와과 관련된 것은 무엇입니까?",
+      "hintWord": "만군의 여호와",
+      "hintLetter": "거",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E006",
+      "book": "이사야",
+      "chapter": 14,
+      "category": "개념",
+      "answer": "믿음",
+      "question": "이사야에서 강조하는 믿으면 굳게 섬과 관련된 것은 무엇입니까?",
+      "hintWord": "믿으면 굳게 섬",
+      "hintLetter": "믿",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E007",
+      "book": "이사야",
+      "chapter": 15,
+      "category": "개념",
+      "answer": "평강",
+      "question": "이사야에서 강조하는 평강의 왕과 관련된 것은 무엇입니까?",
+      "hintWord": "평강의 왕",
+      "hintLetter": "평",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E008",
+      "book": "이사야",
+      "chapter": 16,
+      "category": "개념",
+      "answer": "빛",
+      "question": "이사야에서 강조하는 세상의 빛과 관련된 것은 무엇입니까?",
+      "hintWord": "세상의 빛",
+      "hintLetter": "빛",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E009",
+      "book": "이사야",
+      "chapter": 17,
+      "category": "개념",
+      "answer": "구원",
+      "question": "이사야에서 강조하는 여호와의 구원과 관련된 것은 무엇입니까?",
+      "hintWord": "여호와의 구원",
+      "hintLetter": "구",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E010",
+      "book": "이사야",
+      "chapter": 18,
+      "category": "개념",
+      "answer": "공의",
+      "question": "이사야에서 강조하는 공의의 하나님과 관련된 것은 무엇입니까?",
+      "hintWord": "공의의 하나님",
+      "hintLetter": "공",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E011",
+      "book": "이사야",
+      "chapter": 19,
+      "category": "개념",
+      "answer": "위로",
+      "question": "이사야에서 강조하는 위로하라과 관련된 것은 무엇입니까?",
+      "hintWord": "위로하라",
+      "hintLetter": "위",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E012",
+      "book": "이사야",
+      "chapter": 20,
+      "category": "사물",
+      "answer": "숯불",
+      "question": "이사야에서 입술에 댐(으)로 언급된 것은 무엇입니까?",
+      "hintWord": "입술에 댐",
+      "hintLetter": "숯",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E013",
+      "book": "이사야",
+      "chapter": 21,
+      "category": "사물",
+      "answer": "포도원",
+      "question": "이사야에서 이스라엘 비유(으)로 언급된 것은 무엇입니까?",
+      "hintWord": "이스라엘 비유",
+      "hintLetter": "포",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E014",
+      "book": "이사야",
+      "chapter": 22,
+      "category": "사물",
+      "answer": "두루마리",
+      "question": "이사야에서 예언의 글(으)로 언급된 것은 무엇입니까?",
+      "hintWord": "예언의 글",
+      "hintLetter": "두",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E015",
+      "book": "이사야",
+      "chapter": 30,
+      "category": "개념",
+      "answer": "사랑",
+      "question": "이사야에서 가르치고 붙들라 하는 사랑함과 관련된 것은 무엇입니까?",
+      "hintWord": "사랑함",
+      "hintLetter": "사",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E016",
+      "book": "이사야",
+      "chapter": 31,
+      "category": "개념",
+      "answer": "소망",
+      "question": "이사야에서 가르치고 붙들라 하는 바라는 마음과 관련된 것은 무엇입니까?",
+      "hintWord": "바라는 마음",
+      "hintLetter": "소",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E017",
+      "book": "이사야",
+      "chapter": 32,
+      "category": "개념",
+      "answer": "은혜",
+      "question": "이사야에서 가르치고 붙들라 하는 거저 주심과 관련된 것은 무엇입니까?",
+      "hintWord": "거저 주심",
+      "hintLetter": "은",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E018",
+      "book": "이사야",
+      "chapter": 33,
+      "category": "개념",
+      "answer": "평안",
+      "question": "이사야에서 가르치고 붙들라 하는 평안함과 관련된 것은 무엇입니까?",
+      "hintWord": "평안함",
+      "hintLetter": "평",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E019",
+      "book": "이사야",
+      "chapter": 34,
+      "category": "개념",
+      "answer": "기쁨",
+      "question": "이사야에서 가르치고 붙들라 하는 기뻐함과 관련된 것은 무엇입니까?",
+      "hintWord": "기뻐함",
+      "hintLetter": "기",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E020",
+      "book": "이사야",
+      "chapter": 35,
+      "category": "개념",
+      "answer": "순종",
+      "question": "이사야에서 가르치고 붙들라 하는 말씀대로과 관련된 것은 무엇입니까?",
+      "hintWord": "말씀대로",
+      "hintLetter": "순",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E021",
+      "book": "이사야",
+      "chapter": 36,
+      "category": "개념",
+      "answer": "회개",
+      "question": "이사야에서 가르치고 붙들라 하는 돌이킴과 관련된 것은 무엇입니까?",
+      "hintWord": "돌이킴",
+      "hintLetter": "회",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E022",
+      "book": "이사야",
+      "chapter": 37,
+      "category": "개념",
+      "answer": "기도",
+      "question": "이사야에서 가르치고 붙들라 하는 기도함과 관련된 것은 무엇입니까?",
+      "hintWord": "기도함",
+      "hintLetter": "기",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E023",
+      "book": "이사야",
+      "chapter": 38,
+      "category": "개념",
+      "answer": "찬양",
+      "question": "이사야에서 가르치고 붙들라 하는 높여 노래함과 관련된 것은 무엇입니까?",
+      "hintWord": "높여 노래함",
+      "hintLetter": "찬",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E024",
+      "book": "이사야",
+      "chapter": 39,
+      "category": "개념",
+      "answer": "감사",
+      "question": "이사야에서 가르치고 붙들라 하는 고마워함과 관련된 것은 무엇입니까?",
+      "hintWord": "고마워함",
+      "hintLetter": "감",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E025",
+      "book": "이사야",
+      "chapter": 40,
+      "category": "개념",
+      "answer": "자비",
+      "question": "이사야에서 가르치고 붙들라 하는 불쌍히 여김과 관련된 것은 무엇입니까?",
+      "hintWord": "불쌍히 여김",
+      "hintLetter": "자",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E026",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "겸손",
+      "question": "이사야에서 가르치고 붙들라 하는 자기를 낮춤과 관련된 것은 무엇입니까?",
+      "hintWord": "자기를 낮춤",
+      "hintLetter": "겸",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E027",
+      "book": "이사야",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "용기",
+      "question": "이사야에서 가르치고 붙들라 하는 담대함과 관련된 것은 무엇입니까?",
+      "hintWord": "담대함",
+      "hintLetter": "용",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E028",
+      "book": "이사야",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "지혜",
+      "question": "이사야에서 가르치고 붙들라 하는 슬기로움과 관련된 것은 무엇입니까?",
+      "hintWord": "슬기로움",
+      "hintLetter": "지",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E029",
+      "book": "이사야",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "생명",
+      "question": "이사야에서 가르치고 붙들라 하는 살아감과 관련된 것은 무엇입니까?",
+      "hintWord": "살아감",
+      "hintLetter": "생",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E030",
+      "book": "이사야",
+      "chapter": 5,
+      "category": "개념",
+      "answer": "언약",
+      "question": "이사야에서 가르치고 붙들라 하는 하나님의 약속과 관련된 것은 무엇입니까?",
+      "hintWord": "하나님의 약속",
+      "hintLetter": "언",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E031",
+      "book": "이사야",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "영광",
+      "question": "이사야에서 가르치고 붙들라 하는 빛나는 위엄과 관련된 것은 무엇입니까?",
+      "hintWord": "빛나는 위엄",
+      "hintLetter": "영",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E032",
+      "book": "이사야",
+      "chapter": 7,
+      "category": "개념",
+      "answer": "임재",
+      "question": "이사야에서 가르치고 붙들라 하는 함께하심과 관련된 것은 무엇입니까?",
+      "hintWord": "함께하심",
+      "hintLetter": "임",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E033",
+      "book": "이사야",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "안식",
+      "question": "이사야에서 가르치고 붙들라 하는 쉼과 관련된 것은 무엇입니까?",
+      "hintWord": "쉼",
+      "hintLetter": "안",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E034",
+      "book": "이사야",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "용서",
+      "question": "이사야에서 가르치고 붙들라 하는 허물을 덮음과 관련된 것은 무엇입니까?",
+      "hintWord": "허물을 덮음",
+      "hintLetter": "용",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E035",
+      "book": "이사야",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "성령",
+      "question": "이사야에서 가르치고 붙들라 하는 하나님의 영과 관련된 것은 무엇입니까?",
+      "hintWord": "하나님의 영",
+      "hintLetter": "성",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E036",
+      "book": "이사야",
+      "chapter": 11,
+      "category": "개념",
+      "answer": "복음",
+      "question": "이사야에서 가르치고 붙들라 하는 기쁜 소식과 관련된 것은 무엇입니까?",
+      "hintWord": "기쁜 소식",
+      "hintLetter": "복",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E037",
+      "book": "이사야",
+      "chapter": 12,
+      "category": "사물",
+      "answer": "말씀",
+      "question": "이사야에서 하나님의 말씀(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "하나님의 말씀",
+      "hintLetter": "말",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E038",
+      "book": "이사야",
+      "chapter": 13,
+      "category": "사물",
+      "answer": "노래",
+      "question": "이사야에서 부르는 가락(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "부르는 가락",
+      "hintLetter": "노",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E039",
+      "book": "이사야",
+      "chapter": 14,
+      "category": "사물",
+      "answer": "등불",
+      "question": "이사야에서 밝히는 불(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "밝히는 불",
+      "hintLetter": "등",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E040",
+      "book": "이사야",
+      "chapter": 15,
+      "category": "사물",
+      "answer": "성전",
+      "question": "이사야에서 하나님의 집(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "하나님의 집",
+      "hintLetter": "성",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E041",
+      "book": "이사야",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "제단",
+      "question": "이사야에서 제사하는 단(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "제사하는 단",
+      "hintLetter": "제",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E042",
+      "book": "이사야",
+      "chapter": 17,
+      "category": "사물",
+      "answer": "나팔",
+      "question": "이사야에서 부는 악기(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "부는 악기",
+      "hintLetter": "나",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E043",
+      "book": "이사야",
+      "chapter": 18,
+      "category": "사물",
+      "answer": "면류관",
+      "question": "이사야에서 왕의 관(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "왕의 관",
+      "hintLetter": "면",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E044",
+      "book": "이사야",
+      "chapter": 19,
+      "category": "사물",
+      "answer": "보좌",
+      "question": "이사야에서 왕의 자리(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "왕의 자리",
+      "hintLetter": "보",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-L005",
+      "book": "이사야",
+      "chapter": 20,
+      "category": "지명",
+      "answer": "이스라엘",
+      "question": "이사야과 관련하여 하나님의 백성(으)로 언급되는 곳은 어디입니까?",
+      "hintWord": "하나님의 백성",
+      "hintLetter": "이",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-L006",
+      "book": "이사야",
+      "chapter": 21,
+      "category": "지명",
+      "answer": "유다",
+      "question": "이사야과 관련하여 남쪽 왕국(으)로 언급되는 곳은 어디입니까?",
+      "hintWord": "남쪽 왕국",
+      "hintLetter": "유",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-L007",
+      "book": "이사야",
+      "chapter": 22,
+      "category": "지명",
+      "answer": "광야",
+      "question": "이사야과 관련하여 거친 들(으)로 언급되는 곳은 어디입니까?",
+      "hintWord": "거친 들",
+      "hintLetter": "광",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P005",
+      "book": "이사야",
+      "chapter": 23,
+      "category": "인물",
+      "answer": "다윗",
+      "question": "이사야과 관련하여 이스라엘의 왕(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "이스라엘의 왕",
+      "hintLetter": "다",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P006",
+      "book": "이사야",
+      "chapter": 24,
+      "category": "인물",
+      "answer": "솔로몬",
+      "question": "이사야과 관련하여 지혜의 왕(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "지혜의 왕",
+      "hintLetter": "솔",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P007",
+      "book": "이사야",
+      "chapter": 25,
+      "category": "인물",
+      "answer": "모세",
+      "question": "이사야과 관련하여 율법의 종(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "율법의 종",
+      "hintLetter": "모",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P008",
+      "book": "이사야",
+      "chapter": 26,
+      "category": "인물",
+      "answer": "아브라함",
+      "question": "이사야과 관련하여 믿음의 조상(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "믿음의 조상",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P009",
+      "book": "이사야",
+      "chapter": 27,
+      "category": "인물",
+      "answer": "예수",
+      "question": "이사야과 관련하여 구주(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "구주",
+      "hintLetter": "예",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P010",
+      "book": "이사야",
+      "chapter": 28,
+      "category": "인물",
+      "answer": "바울",
+      "question": "이사야과 관련하여 사도(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "사도",
+      "hintLetter": "바",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P011",
+      "book": "이사야",
+      "chapter": 29,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "이사야과 관련하여 사도(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "사도",
+      "hintLetter": "베",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P012",
+      "book": "이사야",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "요한",
+      "question": "이사야과 관련하여 사도(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "사도",
+      "hintLetter": "요",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P013",
+      "book": "이사야",
+      "chapter": 31,
+      "category": "인물",
+      "answer": "예레미야",
+      "question": "이사야과 관련하여 선지자(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "선지자",
+      "hintLetter": "예",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P014",
+      "book": "이사야",
+      "chapter": 32,
+      "category": "인물",
+      "answer": "다니엘",
+      "question": "이사야과 관련하여 선지자(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "선지자",
+      "hintLetter": "다",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E045",
+      "book": "이사야",
+      "chapter": 33,
+      "category": "사건",
+      "answer": "예배",
+      "question": "이사야에서 여호와께 예배과 관련된 사건은 무엇입니까?",
+      "hintWord": "여호와께 예배",
+      "hintLetter": "예",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E046",
+      "book": "이사야",
+      "chapter": 34,
+      "category": "사건",
+      "answer": "전쟁",
+      "question": "이사야에서 싸움과 관련된 사건은 무엇입니까?",
+      "hintWord": "싸움",
+      "hintLetter": "전",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E047",
+      "book": "이사야",
+      "chapter": 35,
+      "category": "사건",
+      "answer": "심판",
+      "question": "이사야에서 공의로운 벌과 관련된 사건은 무엇입니까?",
+      "hintWord": "공의로운 벌",
+      "hintLetter": "심",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E048",
+      "book": "이사야",
+      "chapter": 36,
+      "category": "사물",
+      "answer": "피",
+      "question": "이사야에서 언약의 피(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "언약의 피",
+      "hintLetter": "피",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E049",
+      "book": "이사야",
+      "chapter": 37,
+      "category": "사물",
+      "answer": "떡",
+      "question": "이사야에서 생명의 떡(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "생명의 떡",
+      "hintLetter": "떡",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E050",
+      "book": "이사야",
+      "chapter": 38,
+      "category": "사물",
+      "answer": "잔",
+      "question": "이사야에서 축복의 잔(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "축복의 잔",
+      "hintLetter": "잔",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E051",
+      "book": "이사야",
+      "chapter": 39,
+      "category": "사물",
+      "answer": "십자가",
+      "question": "이사야에서 구원의 십자가(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "구원의 십자가",
+      "hintLetter": "십",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E052",
+      "book": "이사야",
+      "chapter": 40,
+      "category": "사물",
+      "answer": "향",
+      "question": "이사야에서 향기로운 연기(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "향기로운 연기",
+      "hintLetter": "향",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E053",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "기름",
+      "question": "이사야에서 붓는 기름(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "붓는 기름",
+      "hintLetter": "기",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E054",
+      "book": "이사야",
+      "chapter": 2,
+      "category": "개념",
+      "answer": "교회",
+      "question": "이사야에서 가르치고 붙들라 하는 믿는 이들의 모임과 관련된 것은 무엇입니까?",
+      "hintWord": "믿는 이들의 모임",
+      "hintLetter": "교",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E055",
+      "book": "이사야",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "천국",
+      "question": "이사야에서 가르치고 붙들라 하는 하늘의 나라과 관련된 것은 무엇입니까?",
+      "hintWord": "하늘의 나라",
+      "hintLetter": "천",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E056",
+      "book": "이사야",
+      "chapter": 4,
+      "category": "개념",
+      "answer": "재림",
+      "question": "이사야에서 가르치고 붙들라 하는 다시 오심과 관련된 것은 무엇입니까?",
+      "hintWord": "다시 오심",
+      "hintLetter": "재",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E057",
+      "book": "이사야",
+      "chapter": 5,
+      "category": "개념",
+      "answer": "부활",
+      "question": "이사야에서 가르치고 붙들라 하는 다시 살아남과 관련된 것은 무엇입니까?",
+      "hintWord": "다시 살아남",
+      "hintLetter": "부",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E058",
+      "book": "이사야",
+      "chapter": 6,
+      "category": "개념",
+      "answer": "중보",
+      "question": "이사야에서 가르치고 붙들라 하는 대신 구함과 관련된 것은 무엇입니까?",
+      "hintWord": "대신 구함",
+      "hintLetter": "중",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E059",
+      "book": "이사야",
+      "chapter": 7,
+      "category": "개념",
+      "answer": "선택",
+      "question": "이사야에서 가르치고 붙들라 하는 골라 세움과 관련된 것은 무엇입니까?",
+      "hintWord": "골라 세움",
+      "hintLetter": "선",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E060",
+      "book": "이사야",
+      "chapter": 8,
+      "category": "개념",
+      "answer": "신실",
+      "question": "이사야에서 가르치고 붙들라 하는 약속을 지킴과 관련된 것은 무엇입니까?",
+      "hintWord": "약속을 지킴",
+      "hintLetter": "신",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E061",
+      "book": "이사야",
+      "chapter": 9,
+      "category": "개념",
+      "answer": "열매",
+      "question": "이사야에서 가르치고 붙들라 하는 행실의 열매과 관련된 것은 무엇입니까?",
+      "hintWord": "행실의 열매",
+      "hintLetter": "열",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E062",
+      "book": "이사야",
+      "chapter": 10,
+      "category": "개념",
+      "answer": "인내",
+      "question": "이사야에서 가르치고 붙들라 하는 오래 참음과 관련된 것은 무엇입니까?",
+      "hintWord": "오래 참음",
+      "hintLetter": "인",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E063",
+      "book": "이사야",
+      "chapter": 11,
+      "category": "사물",
+      "answer": "구름",
+      "question": "이사야에서 임재의 구름(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "임재의 구름",
+      "hintLetter": "구",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E064",
+      "book": "이사야",
+      "chapter": 12,
+      "category": "사물",
+      "answer": "불",
+      "question": "이사야에서 여호와의 불(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "여호와의 불",
+      "hintLetter": "불",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E065",
+      "book": "이사야",
+      "chapter": 13,
+      "category": "사물",
+      "answer": "물",
+      "question": "이사야에서 생수(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "생수",
+      "hintLetter": "물",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E066",
+      "book": "이사야",
+      "chapter": 14,
+      "category": "사물",
+      "answer": "반석",
+      "question": "이사야에서 굳건한 돌(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "굳건한 돌",
+      "hintLetter": "반",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E067",
+      "book": "이사야",
+      "chapter": 15,
+      "category": "사물",
+      "answer": "양",
+      "question": "이사야에서 목자의 양(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "목자의 양",
+      "hintLetter": "양",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E068",
+      "book": "이사야",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "목자",
+      "question": "이사야에서 양을 침(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "양을 침",
+      "hintLetter": "목",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E069",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "사람",
+      "question": "이사야에서 가르치고 붙들라 하는 하나님의 형상과 관련된 것은 무엇입니까?",
+      "hintWord": "하나님의 형상",
+      "hintLetter": "사",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E070",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "사도",
+      "question": "이사야에서 가르치고 붙들라 하는 보내심을 받은 이과 관련된 것은 무엇입니까?",
+      "hintWord": "보내심을 받은 이",
+      "hintLetter": "사",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E071",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "미래",
+      "question": "이사야에서 가르치고 붙들라 하는 앞날과 관련된 것은 무엇입니까?",
+      "hintWord": "앞날",
+      "hintLetter": "미",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E072",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "소금",
+      "question": "이사야에서 맛을 냄(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "맛을 냄",
+      "hintLetter": "소",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E073",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "소년",
+      "question": "이사야에서 어린 아이(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "어린 아이",
+      "hintLetter": "소",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E074",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "은금",
+      "question": "이사야에서 귀한 금속(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "귀한 금속",
+      "hintLetter": "은",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E075",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "음성",
+      "question": "이사야에서 들리는 소리(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "들리는 소리",
+      "hintLetter": "음",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E076",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "평화",
+      "question": "이사야에서 가르치고 붙들라 하는 화평과 관련된 것은 무엇입니까?",
+      "hintWord": "화평",
+      "hintLetter": "평",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E077",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "기둥",
+      "question": "이사야에서 받치는 기둥(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "받치는 기둥",
+      "hintLetter": "기",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E078",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "기적",
+      "question": "이사야에서 놀라운 일과 관련된 사건은 무엇입니까?",
+      "hintWord": "놀라운 일",
+      "hintLetter": "기",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E079",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "공경",
+      "question": "이사야에서 가르치고 붙들라 하는 높여 섬김과 관련된 것은 무엇입니까?",
+      "hintWord": "높여 섬김",
+      "hintLetter": "공",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E080",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "자유",
+      "question": "이사야에서 가르치고 붙들라 하는 놓임과 관련된 것은 무엇입니까?",
+      "hintWord": "놓임",
+      "hintLetter": "자",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E081",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "지식",
+      "question": "이사야에서 가르치고 붙들라 하는 아는 것과 관련된 것은 무엇입니까?",
+      "hintWord": "아는 것",
+      "hintLetter": "지",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E082",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "지팡이",
+      "question": "이사야에서 손에 든 막대(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "손에 든 막대",
+      "hintLetter": "지",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E083",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "생수",
+      "question": "이사야에서 살아 있는 물(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "살아 있는 물",
+      "hintLetter": "생",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E084",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "안전",
+      "question": "이사야에서 가르치고 붙들라 하는 든든함과 관련된 것은 무엇입니까?",
+      "hintWord": "든든함",
+      "hintLetter": "안",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E085",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "성도",
+      "question": "이사야에서 가르치고 붙들라 하는 거룩한 백성과 관련된 것은 무엇입니까?",
+      "hintWord": "거룩한 백성",
+      "hintLetter": "성",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E086",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "성막",
+      "question": "이사야에서 광야의 성소(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "광야의 성소",
+      "hintLetter": "성",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-L008",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "모압",
+      "question": "이사야과 관련하여 동쪽 나라(으)로 언급되는 곳은 어디입니까?",
+      "hintWord": "동쪽 나라",
+      "hintLetter": "모",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-L009",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "요단",
+      "question": "이사야과 관련하여 큰 강(으)로 언급되는 곳은 어디입니까?",
+      "hintWord": "큰 강",
+      "hintLetter": "요",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P015",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "요셉",
+      "question": "이사야과 관련하여 야곱의 아들(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "야곱의 아들",
+      "hintLetter": "요",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-L010",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "베들레헴",
+      "question": "이사야과 관련하여 다윗의 동네(으)로 언급되는 곳은 어디입니까?",
+      "hintWord": "다윗의 동네",
+      "hintLetter": "베",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E087",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "예언",
+      "question": "이사야에서 가르치고 붙들라 하는 미리 말함과 관련된 것은 무엇입니까?",
+      "hintWord": "미리 말함",
+      "hintLetter": "예",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P016",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "이삭",
+      "question": "이사야과 관련하여 아브라함의 아들(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "아브라함의 아들",
+      "hintLetter": "이",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-L011",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "바다",
+      "question": "이사야과 관련하여 큰 물(으)로 언급되는 곳은 어디입니까?",
+      "hintWord": "큰 물",
+      "hintLetter": "바",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P017",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "아들",
+      "question": "이사야과 관련하여 아버지의 아들(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "아버지의 아들",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P018",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "아버지",
+      "question": "이사야과 관련하여 하늘에 계신 이(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "하늘에 계신 이",
+      "hintLetter": "아",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E088",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "제물",
+      "question": "이사야에서 드리는 예물(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "드리는 예물",
+      "hintLetter": "제",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E089",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "충성",
+      "question": "이사야에서 가르치고 붙들라 하는 마음을 다함과 관련된 것은 무엇입니까?",
+      "hintWord": "마음을 다함",
+      "hintLetter": "충",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-E090",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "길",
+      "question": "이사야에서 가르치고 붙들라 하는 걸어갈 길과 관련된 것은 무엇입니까?",
+      "hintWord": "걸어갈 길",
+      "hintLetter": "길",
+      "difficulty": 2,
+      "stageCandidate": 3
+    },
+    {
+      "id": "ISA-P019",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "아담",
+      "question": "이사야과 관련하여 첫 사람(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "첫 사람",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-P020",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "아론",
+      "question": "이사야과 관련하여 대제사장(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "대제사장",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-L012",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "아시아",
+      "question": "이사야과 관련하여 수신 지역(으)로 언급되는 곳은 어디입니까?",
+      "hintWord": "수신 지역",
+      "hintLetter": "아",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E091",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "안개",
+      "question": "이사야에서 아침 안개(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "아침 안개",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-P021",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "안드레",
+      "question": "이사야과 관련하여 베드로의 형제(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "베드로의 형제",
+      "hintLetter": "안",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E092",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "이야기",
+      "question": "이사야에서 가르치고 붙들라 하는 전하는 말씀과 관련된 것은 무엇입니까?",
+      "hintWord": "전하는 말씀",
+      "hintLetter": "이",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E093",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "위엄",
+      "question": "이사야에서 가르치고 붙들라 하는 하나님의 위엄과 관련된 것은 무엇입니까?",
+      "hintWord": "하나님의 위엄",
+      "hintLetter": "위",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E094",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "세상",
+      "question": "이사야에서 가르치고 붙들라 하는 하나님이 사랑하신 세상과 관련된 것은 무엇입니까?",
+      "hintWord": "하나님이 사랑하신 세상",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E095",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "세례",
+      "question": "이사야에서 물에 잠기는 예식과 관련된 사건은 무엇입니까?",
+      "hintWord": "물에 잠기는 예식",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-P022",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "세례요한",
+      "question": "이사야과 관련하여 길을 예비한 이(으)로 언급될 수 있는 사람은 누구입니까?",
+      "hintWord": "길을 예비한 이",
+      "hintLetter": "세",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E096",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "개념",
+      "answer": "선한",
+      "question": "이사야에서 가르치고 붙들라 하는 선한 목자과 관련된 것은 무엇입니까?",
+      "hintWord": "선한 목자",
+      "hintLetter": "선",
+      "difficulty": 1,
+      "stageCandidate": 2
+    },
+    {
+      "id": "ISA-E097",
+      "book": "이사야",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "선물",
+      "question": "이사야에서 거저 주는 것(으)로 생각할 수 있는 것은 무엇입니까?",
+      "hintWord": "거저 주는 것",
+      "hintLetter": "선",
+      "difficulty": 1,
+      "stageCandidate": 2
+    }
+  ],
+  "stages": [
+    {
+      "stageId": "ISA-S001",
+      "book": "이사야",
+      "bookCode": "ISA",
+      "stage": 1,
+      "title": "이사야 Stage 1",
+      "grid": {
+        "rows": 4,
+        "cols": 5
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 4,
+          "quizId": "ISA-L005"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 3,
+          "col": 1,
+          "length": 3,
+          "quizId": "ISA-P014"
+        },
+        {
+          "number": 4,
+          "direction": "down",
+          "row": 2,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-L006"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E080"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E068"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 3,
+          "length": 2,
+          "quizId": "ISA-P016"
+        }
+      ]
+    },
+    {
+      "stageId": "ISA-S002",
+      "book": "이사야",
+      "bookCode": "ISA",
+      "stage": 2,
+      "title": "이사야 Stage 2",
+      "grid": {
+        "rows": 3,
+        "cols": 5
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 3,
+          "quizId": "ISA-P001"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 1,
+          "length": 3,
+          "quizId": "ISA-E082"
+        },
+        {
+          "number": 5,
+          "direction": "across",
+          "row": 2,
+          "col": 2,
+          "length": 2,
+          "quizId": "ISA-L007"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-E028"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 1,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E017"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 1,
+          "col": 3,
+          "length": 2,
+          "quizId": "ISA-E070"
+        }
+      ]
+    },
+    {
+      "stageId": "ISA-S003",
+      "book": "이사야",
+      "bookCode": "ISA",
+      "stage": 3,
+      "title": "이사야 Stage 3",
+      "grid": {
+        "rows": 4,
+        "cols": 4
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-L009"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E041"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-P012"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "ISA-E096"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E088"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "ISA-E059"
+        }
+      ]
+    },
+    {
+      "stageId": "ISA-S004",
+      "book": "이사야",
+      "bookCode": "ISA",
+      "stage": 4,
+      "title": "이사야 Stage 4",
+      "grid": {
+        "rows": 4,
+        "cols": 4
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-E083"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-P009"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-E029"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "ISA-E001"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E087"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "ISA-E016"
+        }
+      ]
+    },
+    {
+      "stageId": "ISA-S005",
+      "book": "이사야",
+      "bookCode": "ISA",
+      "stage": 5,
+      "title": "이사야 Stage 5",
+      "grid": {
+        "rows": 4,
+        "cols": 5
+      },
+      "words": [
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 3,
+          "length": 4,
+          "quizId": "ISA-P013"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 3,
+          "quizId": "ISA-P021"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-E084"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E040"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E035"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 2,
+          "col": 3,
+          "length": 2,
+          "quizId": "ISA-E071"
+        }
+      ]
+    },
+    {
+      "stageId": "ISA-S006",
+      "book": "이사야",
+      "bookCode": "ISA",
+      "stage": 6,
+      "title": "이사야 Stage 6",
+      "grid": {
+        "rows": 6,
+        "cols": 6
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 2,
+          "length": 4,
+          "quizId": "ISA-E003"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 2,
+          "length": 3,
+          "quizId": "ISA-P004"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 3,
+          "quizId": "ISA-P003"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 3,
+          "col": 0,
+          "length": 3,
+          "quizId": "ISA-P018"
+        },
+        {
+          "number": 4,
+          "direction": "across",
+          "row": 5,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E081"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 5,
+          "length": 2,
+          "quizId": "ISA-E020"
+        }
+      ]
+    },
+    {
+      "stageId": "ISA-S007",
+      "book": "이사야",
+      "bookCode": "ISA",
+      "stage": 7,
+      "title": "이사야 Stage 7",
+      "grid": {
+        "rows": 5,
+        "cols": 5
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 4,
+          "quizId": "ISA-L010"
+        },
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 3,
+          "quizId": "ISA-P011"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "ISA-P017"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E011"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 3,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E093"
+        }
+      ]
+    },
+    {
+      "stageId": "ISA-S008",
+      "book": "이사야",
+      "bookCode": "ISA",
+      "stage": 8,
+      "title": "이사야 Stage 8",
+      "grid": {
+        "rows": 4,
+        "cols": 4
+      },
+      "words": [
+        {
+          "number": 2,
+          "direction": "down",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-E022"
+        },
+        {
+          "number": 3,
+          "direction": "across",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E085"
+        },
+        {
+          "number": 2,
+          "direction": "across",
+          "row": 1,
+          "col": 1,
+          "length": 2,
+          "quizId": "ISA-E053"
+        },
+        {
+          "number": 1,
+          "direction": "down",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "ISA-E063"
+        },
+        {
+          "number": 3,
+          "direction": "down",
+          "row": 2,
+          "col": 0,
+          "length": 2,
+          "quizId": "ISA-E086"
+        },
+        {
+          "number": 1,
+          "direction": "across",
+          "row": 0,
+          "col": 2,
+          "length": 2,
+          "quizId": "ISA-E009"
+        }
+      ]
+    }
+  ]
+}

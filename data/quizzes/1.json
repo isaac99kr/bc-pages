@@ -1,0 +1,173 @@
+{
+  "id": 1,
+  "date": "2026-10-11",
+  "publishedAt": "2026-10-11",
+  "timezone": "Asia/Seoul",
+  "title": "아브라함 가문의 사람들",
+  "theme": {
+    "books": [
+      "창세기"
+    ],
+    "note": "아브람의 형제부터 손자 세대까지"
+  },
+  "grid": {
+    "rows": 5,
+    "cols": 7
+  },
+  "quizzes": [
+    {
+      "id": "Q1-01",
+      "book": "창세기",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "에녹",
+      "question": "하나님과 동행하다가 하나님이 데려가셔서 세상에 있지 않게 된 사람은 누구입니까?",
+      "hintVerse": "창5:24",
+      "hintLetter": "에",
+      "difficulty": 2
+    },
+    {
+      "id": "Q1-02",
+      "book": "창세기",
+      "chapter": 12,
+      "category": "지명",
+      "answer": "아이",
+      "question": "아브람이 벧엘 동쪽 근처에 장막을 치고 제단을 쌓았던 성읍은 어디입니까?",
+      "hintVerse": "창12:8",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "Q1-03",
+      "book": "창세기",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "이스마엘",
+      "question": "아브람과 하갈 사이에서 태어나 하나님께 이름을 받은 아들은 누구입니까?",
+      "hintVerse": "창16:15",
+      "hintLetter": "이",
+      "difficulty": 1
+    },
+    {
+      "id": "Q1-04",
+      "book": "창세기",
+      "chapter": 24,
+      "category": "인물",
+      "answer": "라반",
+      "question": "리브가의 오빠로, 나중에 야곱이 외삼촌으로 섬긴 사람은 누구입니까?",
+      "hintVerse": "창24:29",
+      "hintLetter": "라",
+      "difficulty": 1
+    },
+    {
+      "id": "Q1-05",
+      "book": "창세기",
+      "chapter": 32,
+      "category": "지명",
+      "answer": "마하나임",
+      "question": "야곱이 여호와의 군대를 만난 뒤 그곳 이름을 무엇이라 불렀습니까?",
+      "hintVerse": "창32:2",
+      "hintLetter": "마",
+      "difficulty": 2
+    },
+    {
+      "id": "Q1-06",
+      "book": "창세기",
+      "chapter": 11,
+      "category": "인물",
+      "answer": "나홀",
+      "question": "데라의 아들이며 아브람의 형제는 누구입니까?",
+      "hintVerse": "창11:27",
+      "hintLetter": "나",
+      "difficulty": 2
+    },
+    {
+      "id": "Q1-07",
+      "book": "창세기",
+      "chapter": 22,
+      "category": "인물",
+      "answer": "브두엘",
+      "question": "나홀의 아들로 리브가의 아버지는 누구입니까?",
+      "hintVerse": "창22:23",
+      "hintLetter": "브",
+      "difficulty": 3
+    },
+    {
+      "id": "Q1-08",
+      "book": "창세기",
+      "chapter": 41,
+      "category": "인물",
+      "answer": "에브라임",
+      "question": "요셉이 애굽에서 낳은 둘째 아들의 이름은 무엇입니까?",
+      "hintVerse": "창41:52",
+      "hintLetter": "에",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "length": 2,
+      "quizId": "Q1-01"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "quizId": "Q1-08"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 2,
+      "quizId": "Q1-02"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "quizId": "Q1-03"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 2,
+      "quizId": "Q1-04"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "quizId": "Q1-05"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 2,
+      "quizId": "Q1-06"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "quizId": "Q1-07"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "genesis",
+      "groupId": "genesis",
+      "title": "창세기",
+      "order": 1,
+      "startsUnlocked": true
+    },
+    {
+      "id": "exodus",
+      "groupId": "exodus-wilderness",
+      "title": "출애굽기",
+      "order": 1,
+      "startsUnlocked": true
+    },
+    {
+      "id": "leviticus",
+      "groupId": "exodus-wilderness",
+      "title": "레위기",
+      "order": 2,
+      "startsUnlocked": false,
+      "unlockAfterBookId": "exodus"
+    },
+    {
+      "id": "numbers",
+      "groupId": "exodus-wilderness",
+      "title": "민수기",
+      "order": 3,
+      "startsUnlocked": false,
+      "unlockAfterBookId": "leviticus"
+    },
+    {
+      "id": "deuteronomy",
+      "groupId": "exodus-wilderness",
+      "title": "신명기",
+      "order": 4,
+      "startsUnlocked": false,
+      "unlockAfterBookId": "numbers"
+    },
+    {
+      "id": "joshua",
+      "groupId": "settlement-judges",
+      "title": "여호수아",
+      "order": 1
+    },
+    {
+      "id": "judges",
+      "groupId": "settlement-judges",
+      "title": "사사기",
+      "order": 2
+    },
+    {
+      "id": "samuel",
+      "groupId": "kingdom",
+      "title": "사무엘상·하",
+      "order": 1
+    },
+    {
+      "id": "kings",
+      "groupId": "kingdom",
+      "title": "열왕기상·하",
+      "order": 2
+    },
+    {
+      "id": "matthew",
+      "groupId": "gospels",
+      "title": "마태복음",
+      "order": 1
+    },
+    {
+      "id": "mark",
+      "groupId": "gospels",
+      "title": "마가복음",
+      "order": 2
+    },
+    {
+      "id": "luke",
+      "groupId": "gospels",
+      "title": "누가복음",
+      "order": 3
+    },
+    {
+      "id": "john",
+      "groupId": "gospels",
+      "title": "요한복음",
+      "order": 4
+    },
+    {
+      "id": "acts",
+      "groupId": "early-church-hope",
+      "title": "사도행전",
+      "order": 1
+    },
+    {
+      "id": "romans",
+      "groupId": "early-church-hope",
+      "title": "로마서",
+      "order": 2
+    },
+    {
+      "id": "revelation",
+      "groupId": "early-church-hope",
+      "title": "요한계시록",
+      "order": 3
+    },
+    {
+      "id": "job",
+      "groupId": "poetry-wisdom",
+      "title": "욥기",
+      "order": 1
+    },
+    {
+      "id": "psalms",
+      "groupId": "poetry-wisdom",
+      "title": "시편",
+      "order": 2
+    },
+    {
+      "id": "proverbs",
+      "groupId": "poetry-wisdom",
+      "title": "잠언",
+      "order": 3
+    }
+  ]
+}

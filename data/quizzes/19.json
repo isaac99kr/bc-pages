@@ -1,0 +1,136 @@
+{
+  "id": 19,
+  "date": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "잣나무와 무지개",
+  "theme": {
+    "books": [
+      "창세기"
+    ],
+    "note": "홍수 언약과 약속의 표"
+  },
+  "grid": {
+    "rows": 5,
+    "cols": 4
+  },
+  "quizzes": [
+    {
+      "id": "Q19-01",
+      "book": "창세기",
+      "chapter": 6,
+      "category": "사물",
+      "answer": "잣나무",
+      "question": "노아에게 방주를 만들라 하시며 쓰라 하신 재목은 무엇입니까?",
+      "hintVerse": "창6:14",
+      "hintLetter": "잣",
+      "difficulty": 2
+    },
+    {
+      "id": "Q19-02",
+      "book": "창세기",
+      "chapter": 30,
+      "category": "인물",
+      "answer": "디나",
+      "question": "야곱과 레아 사이에서 태어난 딸은 누구입니까?",
+      "hintVerse": "창30:21",
+      "hintLetter": "디",
+      "difficulty": 2
+    },
+    {
+      "id": "Q19-03",
+      "book": "마태복음",
+      "chapter": 3,
+      "category": "개념",
+      "answer": "회개",
+      "question": "요한이 광야에서 외쳐 이르되 천국이 가까이 왔으니 (  )하라 하였습니다. 빈칸에 들어갈 말은 무엇입니까?",
+      "hintVerse": "마3:2",
+      "hintLetter": "회",
+      "difficulty": 2,
+      "questionType": "blank"
+    },
+    {
+      "id": "Q19-04",
+      "book": "창세기",
+      "chapter": 9,
+      "category": "사물",
+      "answer": "무지개",
+      "question": "홍수 후 하나님께서 언약의 증거로 구름 속에 두신 것은 무엇입니까?",
+      "hintVerse": "창9:13",
+      "hintLetter": "무",
+      "difficulty": 2
+    },
+    {
+      "id": "Q19-05",
+      "book": "민수기",
+      "chapter": 27,
+      "category": "개념",
+      "answer": "지도자",
+      "question": "모세 뒤에 회중을 이끌도록 여호수아가 세움을 받은 역할은 무엇입니까?",
+      "hintVerse": "민27:16",
+      "hintLetter": "지",
+      "difficulty": 2
+    },
+    {
+      "id": "Q19-06",
+      "book": "다니엘",
+      "chapter": 6,
+      "category": "지명",
+      "answer": "사자굴",
+      "question": "다니엘이 기도하다 고발되어 밤새 갇혔던 곳은 어디입니까?",
+      "hintVerse": "단6:16",
+      "hintLetter": "사",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q19-01"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q19-02"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 2,
+      "quizId": "Q19-03"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q19-04"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q19-05"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q19-06"
+    }
+  ]
+}

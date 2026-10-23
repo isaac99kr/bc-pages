@@ -1,0 +1,170 @@
+{
+  "timezone": "Asia/Seoul",
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "아브라함 가문의 사람들",
+      "wordCount": 8,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-11",
+      "legacyDate": "2026-10-11"
+    },
+    {
+      "id": 2,
+      "title": "호렙에서 엘림까지",
+      "wordCount": 7,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-12",
+      "legacyDate": "2026-10-12"
+    },
+    {
+      "id": 3,
+      "title": "하갈과 헤브론",
+      "wordCount": 7,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-13",
+      "legacyDate": "2026-10-13"
+    },
+    {
+      "id": 4,
+      "title": "여호와의 절기",
+      "wordCount": 7,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-14",
+      "legacyDate": "2026-10-14"
+    },
+    {
+      "id": 5,
+      "title": "바울의 동역자들",
+      "wordCount": 8,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15",
+      "legacyDate": "2026-10-15"
+    },
+    {
+      "id": 6,
+      "title": "누가복음의 사람들",
+      "wordCount": 8,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-14"
+    },
+    {
+      "id": 7,
+      "title": "아브람의 길",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    },
+    {
+      "id": 8,
+      "title": "예루살렘에서 욥바까지",
+      "wordCount": 8,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    },
+    {
+      "id": 9,
+      "title": "우스 땅의 욥",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    },
+    {
+      "id": 10,
+      "title": "사울과 안디옥",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    },
+    {
+      "id": 11,
+      "title": "에노스와 소돔",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-16"
+    },
+    {
+      "id": 12,
+      "title": "아라랏과 바벨",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-16"
+    },
+    {
+      "id": 13,
+      "title": "시내와 불기둥",
+      "wordCount": 8,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-16"
+    },
+    {
+      "id": 14,
+      "title": "성소의 제물",
+      "wordCount": 8,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-16"
+    },
+    {
+      "id": 15,
+      "title": "갈릴리의 부름",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-16"
+    },
+    {
+      "id": 16,
+      "title": "탕자와 십자가",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    },
+    {
+      "id": 17,
+      "title": "야고보와 보좌",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    },
+    {
+      "id": 18,
+      "title": "금송아지와 함성",
+      "wordCount": 7,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    },
+    {
+      "id": 19,
+      "title": "잣나무와 무지개",
+      "wordCount": 6,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    },
+    {
+      "id": 20,
+      "title": "택한그릇과 도르가",
+      "wordCount": 8,
+      "size": "S",
+      "status": "published",
+      "publishedAt": "2026-10-15"
+    }
+  ]
+}

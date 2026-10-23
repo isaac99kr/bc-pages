@@ -1,0 +1,135 @@
+{
+  "id": 9,
+  "date": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "우스 땅의 욥",
+  "theme": {
+    "books": [
+      "욥기"
+    ],
+    "note": "시련과 믿음의 장면들"
+  },
+  "grid": {
+    "rows": 6,
+    "cols": 5
+  },
+  "quizzes": [
+    {
+      "id": "Q9-01",
+      "book": "요한복음",
+      "chapter": 2,
+      "category": "사물",
+      "answer": "물항아리",
+      "question": "가나 혼인 잔치에서 예수께서 물로 채우라 하신 돌 그릇은 무엇입니까?",
+      "hintVerse": "요2:6",
+      "hintLetter": "물",
+      "difficulty": 2
+    },
+    {
+      "id": "Q9-02",
+      "book": "욥기",
+      "chapter": 1,
+      "category": "지명",
+      "answer": "우스",
+      "question": "욥이 살던 땅의 이름은 무엇입니까?",
+      "hintVerse": "욥1:1",
+      "hintLetter": "우",
+      "difficulty": 1
+    },
+    {
+      "id": "Q9-03",
+      "book": "욥기",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "엘리바스",
+      "question": "욥의 세 친구 가운데 데만 사람인 이는 누구입니까?",
+      "hintVerse": "욥2:11",
+      "hintLetter": "엘",
+      "difficulty": 2
+    },
+    {
+      "id": "Q9-04",
+      "book": "욥기",
+      "chapter": 32,
+      "category": "인물",
+      "answer": "엘리후",
+      "question": "욥의 말을 듣고 화를 내며 변론을 시작한 젊은이는 누구입니까?",
+      "hintVerse": "욥32:2",
+      "hintLetter": "엘",
+      "difficulty": 1
+    },
+    {
+      "id": "Q9-05",
+      "book": "욥기",
+      "chapter": 38,
+      "category": "지명",
+      "answer": "바다",
+      "question": "여호와께서 욥에게 물으시며, 문을 닫아 가두신 큰 물을 무엇이라 하셨습니까?",
+      "hintVerse": "욥38:8",
+      "hintLetter": "바",
+      "difficulty": 2
+    },
+    {
+      "id": "Q9-06",
+      "book": "요한계시록",
+      "chapter": 21,
+      "category": "개념",
+      "answer": "승리",
+      "question": "이기는 자는 이것들을 상속으로 받으리라 하신 말씀과 관련된 것은 무엇입니까?",
+      "hintVerse": "계21:7",
+      "hintLetter": "승",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "quizId": "Q9-01"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 2,
+      "quizId": "Q9-02"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "quizId": "Q9-03"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q9-04"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 2,
+      "quizId": "Q9-05"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q9-06"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "memory-noah-animals-001",
+  "title": "방주의 동물 짝 찾기",
+  "instruction": "같은 그림 카드 두 장을 찾아 짝을 맞추세요.",
+  "pairs": [
+    {
+      "id": "p1",
+      "a": "사자",
+      "b": "사자",
+      "image": "fronts/lion.png"
+    },
+    {
+      "id": "p2",
+      "a": "비둘기",
+      "b": "비둘기",
+      "image": "fronts/dove.png"
+    },
+    {
+      "id": "p3",
+      "a": "양",
+      "b": "양",
+      "image": "fronts/sheep.png"
+    },
+    {
+      "id": "p4",
+      "a": "소",
+      "b": "소",
+      "image": "fronts/cow.png"
+    },
+    {
+      "id": "p5",
+      "a": "독수리",
+      "b": "독수리",
+      "image": "fronts/eagle.png"
+    },
+    {
+      "id": "p6",
+      "a": "낙타",
+      "b": "낙타",
+      "image": "fronts/camel.png"
+    }
+  ]
+}

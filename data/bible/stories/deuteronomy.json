@@ -1,0 +1,73 @@
+{
+  "bookId": "deuteronomy",
+  "stories": [
+    {
+      "id": "story-shema",
+      "bookId": "deuteronomy",
+      "title": "쉐마와 사랑",
+      "summary": "이스라엘아 들으라. 네 하나님 여호와를 사랑하고 말씀을 마음에 새기라는 명령이 주어졌습니다.",
+      "references": [
+        {
+          "book": "신명기",
+          "chapterStart": 6,
+          "verseStart": 4,
+          "chapterEnd": 6,
+          "verseEnd": 9
+        }
+      ],
+      "entityIds": ["event-shema"],
+      "tags": ["쉐마", "사랑", "말씀"]
+    },
+    {
+      "id": "story-blessing-curse",
+      "bookId": "deuteronomy",
+      "title": "축복과 저주",
+      "summary": "순종하면 축복이고 불순종하면 저주라는 선택의 길이 모압 평지에서 선포되었습니다.",
+      "references": [
+        {
+          "book": "신명기",
+          "chapterStart": 28,
+          "verseStart": 1,
+          "chapterEnd": 30,
+          "verseEnd": 20
+        }
+      ],
+      "entityIds": [],
+      "tags": ["축복", "저주", "선택"]
+    },
+    {
+      "id": "story-moses-farewell",
+      "bookId": "deuteronomy",
+      "title": "모세의 이별",
+      "summary": "모세는 여호수아에게 리더십을 맡기고, 모압 땅에서 세상을 떠났습니다.",
+      "references": [
+        {
+          "book": "신명기",
+          "chapterStart": 31,
+          "verseStart": 1,
+          "chapterEnd": 34,
+          "verseEnd": 12
+        }
+      ],
+      "entityIds": ["person-moses", "person-joshua"],
+      "tags": ["여호수아", "이별"]
+    },
+    {
+      "id": "story-wilderness-review",
+      "bookId": "deuteronomy",
+      "title": "광야 여정 복습",
+      "summary": "출애굽부터 광야까지의 이야기를 크로스워드로 다시 확인합니다.",
+      "references": [
+        {
+          "book": "신명기",
+          "chapterStart": 1,
+          "verseStart": 1,
+          "chapterEnd": 34,
+          "verseEnd": 12
+        }
+      ],
+      "entityIds": [],
+      "tags": ["복습"]
+    }
+  ]
+}

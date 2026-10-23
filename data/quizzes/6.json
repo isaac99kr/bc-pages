@@ -1,0 +1,173 @@
+{
+  "id": 6,
+  "date": "2026-10-14",
+  "publishedAt": "2026-10-14",
+  "timezone": "Asia/Seoul",
+  "title": "누가복음의 사람들",
+  "theme": {
+    "books": [
+      "누가복음"
+    ],
+    "note": "천사·제자·만남의 이야기"
+  },
+  "grid": {
+    "rows": 7,
+    "cols": 9
+  },
+  "quizzes": [
+    {
+      "id": "Q6-01",
+      "book": "누가복음",
+      "chapter": 4,
+      "category": "지명",
+      "answer": "갈릴리",
+      "question": "성령의 능력으로 돌아오셔서 가르치신 지역은 어디입니까?",
+      "hintVerse": "눅4:14",
+      "hintLetter": "갈",
+      "difficulty": 1
+    },
+    {
+      "id": "Q6-02",
+      "book": "누가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "가브리엘",
+      "question": "마리아에게 나타나 수태를 알린 천사는 누구입니까?",
+      "hintVerse": "눅1:26",
+      "hintLetter": "가",
+      "difficulty": 1
+    },
+    {
+      "id": "Q6-03",
+      "book": "누가복음",
+      "chapter": 22,
+      "category": "인물",
+      "answer": "가룟유다",
+      "question": "예수를 팔아넘긴 제자는 누구입니까?",
+      "hintVerse": "눅22:3",
+      "hintLetter": "가",
+      "difficulty": 1
+    },
+    {
+      "id": "Q6-04",
+      "book": "누가복음",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "엘리사벳",
+      "question": "세례 요한의 어머니이며 마리아를 맞이한 여인은 누구입니까?",
+      "hintVerse": "눅1:5",
+      "hintLetter": "엘",
+      "difficulty": 1
+    },
+    {
+      "id": "Q6-05",
+      "book": "누가복음",
+      "chapter": 24,
+      "category": "지명",
+      "answer": "엠마오",
+      "question": "두 제자가 가다가 부활하신 예수를 만난 마을은 어디입니까?",
+      "hintVerse": "눅24:13",
+      "hintLetter": "엠",
+      "difficulty": 1
+    },
+    {
+      "id": "Q6-06",
+      "book": "누가복음",
+      "chapter": 16,
+      "category": "인물",
+      "answer": "나사로",
+      "question": "부자의 문 앞에서 헌 부스러기를 원하던 거지의 이름은 무엇입니까?",
+      "hintVerse": "눅16:20",
+      "hintLetter": "나",
+      "difficulty": 1
+    },
+    {
+      "id": "Q6-07",
+      "book": "누가복음",
+      "chapter": 10,
+      "category": "인물",
+      "answer": "마르다",
+      "question": "예수를 집에 영접하고 분주히 섬긴 여인은 누구입니까?",
+      "hintVerse": "눅10:38",
+      "hintLetter": "마",
+      "difficulty": 1
+    },
+    {
+      "id": "Q6-08",
+      "book": "누가복음",
+      "chapter": 19,
+      "category": "인물",
+      "answer": "삭개오",
+      "question": "돌무화과나무에 올라가 예수를 본 세리장은 누구입니까?",
+      "hintVerse": "눅19:2",
+      "hintLetter": "삭",
+      "difficulty": 1
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "quizId": "Q6-01"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "quizId": "Q6-02"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "quizId": "Q6-03"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "quizId": "Q6-04"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q6-05"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "quizId": "Q6-06"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q6-07"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "quizId": "Q6-08"
+    }
+  ]
+}

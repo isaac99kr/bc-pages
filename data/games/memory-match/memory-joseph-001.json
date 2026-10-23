@@ -1,0 +1,43 @@
+{
+  "id": "memory-joseph-001",
+  "title": "성경 그림 짝 찾기",
+  "instruction": "같은 그림 카드 두 장을 찾아 짝을 맞추세요.",
+  "pairs": [
+    {
+      "id": "p1",
+      "a": "아기",
+      "b": "아기",
+      "image": "fronts/baby.png"
+    },
+    {
+      "id": "p2",
+      "a": "양",
+      "b": "양",
+      "image": "fronts/sheep.png"
+    },
+    {
+      "id": "p3",
+      "a": "방주",
+      "b": "방주",
+      "image": "fronts/ark.png"
+    },
+    {
+      "id": "p4",
+      "a": "배",
+      "b": "배",
+      "image": "fronts/boat.png"
+    },
+    {
+      "id": "p5",
+      "a": "포도",
+      "b": "포도",
+      "image": "fronts/grapes.png"
+    },
+    {
+      "id": "p6",
+      "a": "왕",
+      "b": "왕",
+      "image": "fronts/king.png"
+    }
+  ]
+}

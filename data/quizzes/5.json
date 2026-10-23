@@ -1,0 +1,173 @@
+{
+  "id": 5,
+  "date": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "바울의 동역자들",
+  "theme": {
+    "books": [
+      "사도행전"
+    ],
+    "note": "사도행전의 동행과 도시"
+  },
+  "grid": {
+    "rows": 8,
+    "cols": 6
+  },
+  "quizzes": [
+    {
+      "id": "Q5-01",
+      "book": "사도행전",
+      "chapter": 11,
+      "category": "개념",
+      "answer": "구제",
+      "question": "안디옥 제자들이 유대에 흉년이 든 형제들에게 힘껏 보내기로 한 것은 무엇입니까?",
+      "hintVerse": "행11:29",
+      "hintLetter": "구",
+      "difficulty": 1
+    },
+    {
+      "id": "Q5-02",
+      "book": "사도행전",
+      "chapter": 13,
+      "category": "지명",
+      "answer": "구브로",
+      "question": "바나바의 고향으로 첫 선교 여행에서 거친 섬은 어디입니까?",
+      "hintVerse": "행13:4",
+      "hintLetter": "구",
+      "difficulty": 2
+    },
+    {
+      "id": "Q5-03",
+      "book": "사도행전",
+      "chapter": 20,
+      "category": "지명",
+      "answer": "드로아",
+      "question": "유두고가 창에서 떨어진 성은 어디입니까?",
+      "hintVerse": "행20:6",
+      "hintLetter": "드",
+      "difficulty": 2
+    },
+    {
+      "id": "Q5-04",
+      "book": "사도행전",
+      "chapter": 21,
+      "category": "인물",
+      "answer": "아가보",
+      "question": "바울이 예루살렘에서 결박당할 것을 예언한 선지자는 누구입니까?",
+      "hintVerse": "행21:10",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "Q5-05",
+      "book": "사도행전",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "브리스길라",
+      "question": "아굴라의 아내로 아볼로를 가르친 여인은 누구입니까?",
+      "hintVerse": "행18:2",
+      "hintLetter": "브",
+      "difficulty": 2
+    },
+    {
+      "id": "Q5-06",
+      "book": "사도행전",
+      "chapter": 5,
+      "category": "인물",
+      "answer": "가말리엘",
+      "question": "사도들을 죽이지 말라 조언한 율법교사는 누구입니까?",
+      "hintVerse": "행5:34",
+      "hintLetter": "가",
+      "difficulty": 2
+    },
+    {
+      "id": "Q5-07",
+      "book": "사도행전",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "아굴라",
+      "question": "천막을 만드는 일로 바울과 함께한 사람은 누구입니까?",
+      "hintVerse": "행18:2",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "Q5-08",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "지명",
+      "answer": "아덴",
+      "question": "바울이 아레오바고에서 설교한 성은 어디입니까?",
+      "hintVerse": "행17:15",
+      "hintLetter": "아",
+      "difficulty": 1
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 2,
+      "quizId": "Q5-01"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "quizId": "Q5-02"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "quizId": "Q5-03"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q5-04"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "quizId": "Q5-05"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "quizId": "Q5-06"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q5-07"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 2,
+      "quizId": "Q5-08"
+    }
+  ]
+}

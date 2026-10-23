@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "id": "genesis",
+      "order": 1,
+      "title": "창세기",
+      "range": "창세기",
+      "summary": "창조와 시작 이야기",
+      "kind": "main",
+      "bookIds": ["genesis"],
+      "startsUnlocked": true
+    },
+    {
+      "id": "exodus-wilderness",
+      "order": 2,
+      "title": "출애굽과 광야 생활",
+      "range": "출애굽기–신명기",
+      "summary": "구원과 언약의 여정",
+      "kind": "main",
+      "bookIds": ["exodus", "leviticus", "numbers", "deuteronomy"],
+      "startsUnlocked": false,
+      "unlockAfterGroupId": "genesis"
+    },
+    {
+      "id": "settlement-judges",
+      "order": 3,
+      "title": "정착과 사사 시대",
+      "range": "여호수아–사사기",
+      "summary": "약속의 땅과 믿음의 영웅들",
+      "kind": "main",
+      "bookIds": ["joshua", "judges"],
+      "startsUnlocked": false,
+      "unlockAfterGroupId": "exodus-wilderness"
+    },
+    {
+      "id": "kingdom",
+      "order": 4,
+      "title": "왕국 시대",
+      "range": "사무엘상·하, 열왕기상·하",
+      "summary": "왕들과 하나님의 나라",
+      "kind": "main",
+      "bookIds": ["samuel", "kings"],
+      "startsUnlocked": false,
+      "unlockAfterGroupId": "settlement-judges"
+    },
+    {
+      "id": "exile-return",
+      "order": 5,
+      "title": "포로 시대와 귀환",
+      "range": "포로·귀환 관련 이야기",
+      "summary": "무너짐과 회복의 역사",
+      "kind": "main",
+      "bookIds": [],
+      "startsUnlocked": false,
+      "unlockAfterGroupId": "kingdom"
+    },
+    {
+      "id": "gospels",
+      "order": 6,
+      "title": "복음서",
+      "range": "마태복음–요한복음",
+      "summary": "예수님의 오심과 구원의 이야기",
+      "kind": "main",
+      "bookIds": ["matthew", "mark", "luke", "john"],
+      "startsUnlocked": false,
+      "unlockAfterGroupId": "exile-return"
+    },
+    {
+      "id": "early-church-hope",
+      "order": 7,
+      "title": "초대교회와 완성의 소망",
+      "range": "사도행전–요한계시록",
+      "summary": "복음의 확장과 영원한 소망",
+      "kind": "main",
+      "bookIds": ["acts", "romans", "revelation"],
+      "startsUnlocked": false,
+      "unlockAfterGroupId": "gospels"
+    },
+    {
+      "id": "poetry-wisdom",
+      "order": 8,
+      "title": "시가서·지혜서",
+      "range": "욥기–아가",
+      "summary": "삶과 마음을 여는 말씀",
+      "kind": "side",
+      "bookIds": ["job", "psalms", "proverbs"],
+      "startsUnlocked": true
+    }
+  ]
+}

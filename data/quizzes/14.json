@@ -1,0 +1,174 @@
+{
+  "id": 14,
+  "date": "2026-10-16",
+  "publishedAt": "2026-10-16",
+  "timezone": "Asia/Seoul",
+  "title": "성소의 제물",
+  "theme": {
+    "books": [
+      "레위기",
+      "누가복음"
+    ],
+    "note": "제물과 수태의 소식"
+  },
+  "grid": {
+    "rows": 8,
+    "cols": 5
+  },
+  "quizzes": [
+    {
+      "id": "Q14-01",
+      "book": "레위기",
+      "chapter": 23,
+      "category": "개념",
+      "answer": "성회",
+      "question": "여호와의 절기에 모여 거룩히 지키라고 하신 모임은 무엇입니까?",
+      "hintVerse": "레23:2",
+      "hintLetter": "성",
+      "difficulty": 2
+    },
+    {
+      "id": "Q14-02",
+      "book": "레위기",
+      "chapter": 16,
+      "category": "지명",
+      "answer": "성소",
+      "question": "대제사장이 속죄일에 향로를 가지고 들어가는, 등잔과 향단이 있는 곳은 어디입니까?",
+      "hintVerse": "레16:12",
+      "hintLetter": "성",
+      "difficulty": 2
+    },
+    {
+      "id": "Q14-03",
+      "book": "레위기",
+      "chapter": 1,
+      "category": "사물",
+      "answer": "수소",
+      "question": "번제로 드릴 수 있는 소 가운데 수컷은 무엇입니까?",
+      "hintVerse": "레1:3",
+      "hintLetter": "수",
+      "difficulty": 2
+    },
+    {
+      "id": "Q14-04",
+      "book": "누가복음",
+      "chapter": 1,
+      "category": "사건",
+      "answer": "수태고지",
+      "question": "가브리엘이 마리아에게 성령으로 잉태하실 것을 알린 사건은 무엇입니까?",
+      "hintVerse": "눅1:31",
+      "hintLetter": "수",
+      "difficulty": 2
+    },
+    {
+      "id": "Q14-05",
+      "book": "레위기",
+      "chapter": 16,
+      "category": "사물",
+      "answer": "향로",
+      "question": "대제사장이 향을 담아 지성소 휘장 안에 들어가는 기구는 무엇입니까?",
+      "hintVerse": "레16:12",
+      "hintLetter": "향",
+      "difficulty": 2
+    },
+    {
+      "id": "Q14-06",
+      "book": "레위기",
+      "chapter": 2,
+      "category": "사물",
+      "answer": "향기",
+      "question": "소제를 여호와께 드릴 때 여호와께서 받으시는 냄새로 표현된 것은 무엇입니까?",
+      "hintVerse": "레2:2",
+      "hintLetter": "향",
+      "difficulty": 2
+    },
+    {
+      "id": "Q14-07",
+      "book": "레위기",
+      "chapter": 11,
+      "category": "사물",
+      "answer": "돼지고기",
+      "question": "굽이 갈라졌으나 새김질하지 아니하여 먹지 말라 하신 짐승의 살은 무엇입니까?",
+      "hintVerse": "레11:7",
+      "hintLetter": "돼",
+      "difficulty": 1
+    },
+    {
+      "id": "Q14-08",
+      "book": "레위기",
+      "chapter": 19,
+      "category": "개념",
+      "answer": "고아과부",
+      "question": "추수할 때 밭 모퉁이와 이삭을 남겨 두어 돌보라고 하신 이들은 누구입니까?",
+      "hintVerse": "레19:9",
+      "hintLetter": "고",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 2,
+      "quizId": "Q14-01"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 2,
+      "quizId": "Q14-02"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 2,
+      "quizId": "Q14-03"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "quizId": "Q14-04"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 2,
+      "quizId": "Q14-05"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 2,
+      "quizId": "Q14-06"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "quizId": "Q14-07"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "quizId": "Q14-08"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": 8,
+  "date": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "timezone": "Asia/Seoul",
+  "title": "예루살렘에서 욥바까지",
+  "theme": {
+    "books": [
+      "사도행전"
+    ],
+    "note": "사도들과 초대 교회의 이름들"
+  },
+  "grid": {
+    "rows": 9,
+    "cols": 7
+  },
+  "quizzes": [
+    {
+      "id": "Q8-01",
+      "book": "사도행전",
+      "chapter": 1,
+      "category": "인물",
+      "answer": "맛디아",
+      "question": "가룟 유다 대신 사도로 뽑힌 사람은 누구입니까?",
+      "hintVerse": "행1:26",
+      "hintLetter": "맛",
+      "difficulty": 2
+    },
+    {
+      "id": "Q8-02",
+      "book": "사도행전",
+      "chapter": 17,
+      "category": "지명",
+      "answer": "베뢰아",
+      "question": "마음이 열려 성경을 상고한 사람들의 성은 어디입니까?",
+      "hintVerse": "행17:10",
+      "hintLetter": "베",
+      "difficulty": 2
+    },
+    {
+      "id": "Q8-03",
+      "book": "사도행전",
+      "chapter": 2,
+      "category": "인물",
+      "answer": "베드로",
+      "question": "오순절에 일어나 유대인들에게 큰 소리로 설교한 사도는 누구입니까?",
+      "hintVerse": "행2:14",
+      "hintLetter": "베",
+      "difficulty": 1
+    },
+    {
+      "id": "Q8-04",
+      "book": "사도행전",
+      "chapter": 18,
+      "category": "인물",
+      "answer": "아볼로",
+      "question": "알렉산드리아 출신으로 예수의 일을 열심으로 전한 사람은 누구입니까?",
+      "hintVerse": "행18:24",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "Q8-05",
+      "book": "사도행전",
+      "chapter": 25,
+      "category": "인물",
+      "answer": "아그립바",
+      "question": "베스도 앞에서 바울의 변론을 들은 왕은 누구입니까?",
+      "hintVerse": "행25:13",
+      "hintLetter": "아",
+      "difficulty": 2
+    },
+    {
+      "id": "Q8-06",
+      "book": "사도행전",
+      "chapter": 9,
+      "category": "지명",
+      "answer": "욥바",
+      "question": "도르가(다비다)가 살던 성으로, 베드로가 머문 곳은 어디입니까?",
+      "hintVerse": "행9:36",
+      "hintLetter": "욥",
+      "difficulty": 2
+    },
+    {
+      "id": "Q8-07",
+      "book": "사도행전",
+      "chapter": 4,
+      "category": "인물",
+      "answer": "바나바",
+      "question": "위로의 아들이라 불리며 사울을 사도들에게 데려간 사람은 누구입니까?",
+      "hintVerse": "행4:36",
+      "hintLetter": "바",
+      "difficulty": 1
+    },
+    {
+      "id": "Q8-08",
+      "book": "사무엘하",
+      "chapter": 12,
+      "category": "인물",
+      "answer": "나단",
+      "question": "다윗에게 암양 새끼 비유로 죄를 책망한 선지자는 누구입니까?",
+      "hintVerse": "삼하12:1",
+      "hintLetter": "나",
+      "difficulty": 2
+    }
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "quizId": "Q8-01"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "quizId": "Q8-02"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "quizId": "Q8-03"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "quizId": "Q8-04"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "quizId": "Q8-05"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "length": 2,
+      "quizId": "Q8-06"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 3,
+      "quizId": "Q8-07"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "length": 2,
+      "quizId": "Q8-08"
+    }
+  ]
+}

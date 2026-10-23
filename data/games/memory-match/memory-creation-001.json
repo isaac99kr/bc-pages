@@ -1,0 +1,43 @@
+{
+  "id": "memory-creation-001",
+  "title": "창조의 짝 찾기",
+  "instruction": "같은 그림 카드 두 장을 찾아 짝을 맞추세요.",
+  "pairs": [
+    {
+      "id": "p1",
+      "a": "빛",
+      "b": "빛",
+      "image": "fronts/light.png"
+    },
+    {
+      "id": "p2",
+      "a": "물",
+      "b": "물",
+      "image": "fronts/water.png"
+    },
+    {
+      "id": "p3",
+      "a": "해",
+      "b": "해",
+      "image": "fronts/sun.png"
+    },
+    {
+      "id": "p4",
+      "a": "달",
+      "b": "달",
+      "image": "fronts/moon.png"
+    },
+    {
+      "id": "p5",
+      "a": "새",
+      "b": "새",
+      "image": "fronts/bird.png"
+    },
+    {
+      "id": "p6",
+      "a": "사람",
+      "b": "사람",
+      "image": "fronts/person.png"
+    }
+  ]
+}
